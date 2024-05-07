@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bei</h1>
+<h1 align="center">Hi 👋, I'm Kyla</h1>
 <h3 align="center">An architect, wanna be a frontend developer, from Guangzhou.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyla2001&label=Profile%20views&color=0e75b6&style=flat" alt="kyla2001" /> </p>
