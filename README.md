@@ -12,6 +12,7 @@
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
   <sub>Vol. 001 - Monday, August 31, 2026</sub>
+  <p></p>
 </div>
 
 <table>
