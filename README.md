@@ -23,7 +23,7 @@
 | **AI still struggles to research itself**<br><br>Nature reports that an agentic system generated research concepts from computer-science papers, but original authors were not convinced by the results. AI can accelerate literature exploration and ideation, yet expert judgment remains central to novelty and correctness.<br><br>Source: [Nature](https://www.nature.com/articles/d41586-026-02494-5) |  |
 
 <div align="center">
-  <img src="assets/kyla_daily_footer_classic.svg" alt="Editor's Note: This briefing is updated daily from English-first authoritative sources, with the rest of this GitHub profile preserved unchanged." width="100%" />
+  <img src="assets/kyla_daily_footer_classic_disclaimer.svg" alt="Editor's Note: This briefing is updated daily from English-first authoritative sources. Inclusion does not constitute endorsement of the views, claims, or conclusions presented." width="100%" />
 </div>
 
 <!-- Daily Briefing:END -->
