@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1232" height="230" viewBox="0 0 1232 230">
+  <rect width="1232" height="230" fill="#fff"/>
+
+  <!-- strong top rule -->
+  <line x1="32" y1="20.5" x2="1200" y2="20.5" stroke="#111" stroke-width="2"/>
+  <line x1="32" y1="26.5" x2="1200" y2="26.5" stroke="#111" stroke-width="0.8"/>
+
+  <!-- note label -->
+  <text x="32" y="65"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="12"
+        font-weight="700"
+        letter-spacing="1.5"
+        fill="#111">EDITOR'S NOTE</text>
+
+  <!-- editorial note -->
+  <text x="32" y="101"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="22"
+        fill="#111">
+    <tspan x="32" dy="0">This briefing is updated daily from English-first authoritative sources,</tspan>
+    <tspan x="32" dy="31">while the rest of this GitHub profile remains unchanged.</tspan>
+  </text>
+
+  <!-- footer metadata -->
+  <line x1="32" y1="162.5" x2="1200" y2="162.5" stroke="#b8b8b8" stroke-width="0.8"/>
+
+  <text x="32" y="191"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5"
+        letter-spacing="0.7"
+        fill="#555">THE KYLA DAILY · DAILY EDITION</text>
+
+  <text x="616" y="191"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="11"
+        font-style="italic"
+        fill="#555">Curated for clarity, context and signal.</text>
+
+  <text x="1200" y="191"
+        text-anchor="end"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10.5"
+        letter-spacing="0.7"
+        fill="#555">© 2026 KYLA</text>
+</svg>

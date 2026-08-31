@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1232" height="250" viewBox="0 0 1232 250">
+  <rect width="1232" height="250" fill="#fff"/>
+
+  <!-- top utility row -->
+  <text x="32" y="30"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="12"
+        font-weight="700"
+        letter-spacing="1.2"
+        fill="#111">AI · TECHNOLOGY · WORLD AFFAIRS · POLICY · RESEARCH</text>
+
+  <line x1="32" y1="44.5" x2="1200" y2="44.5" stroke="#111" stroke-width="1"/>
+
+  <!-- masthead -->
+  <text x="616" y="132"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="68"
+        font-weight="700"
+        letter-spacing="-2.4"
+        fill="#111">THE KYLA DAILY</text>
+
+  <text x="616" y="157"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="12"
+        font-style="italic"
+        letter-spacing="0.8"
+        fill="#555">Independent briefing on technology, policy and the world</text>
+
+  <!-- classic double rule -->
+  <line x1="32" y1="178.5" x2="1200" y2="178.5" stroke="#111" stroke-width="2"/>
+  <line x1="32" y1="184.5" x2="1200" y2="184.5" stroke="#111" stroke-width="0.8"/>
+
+  <!-- section navigation -->
+  <g font-family="Arial, Helvetica, sans-serif"
+     font-size="12.5"
+     font-weight="700"
+     letter-spacing="1.3"
+     fill="#111">
+    <text x="188" y="218" text-anchor="middle">AI</text>
+    <text x="347" y="218" text-anchor="middle">TECHNOLOGY</text>
+    <text x="557" y="218" text-anchor="middle">WORLD AFFAIRS</text>
+    <text x="770" y="218" text-anchor="middle">POLICY</text>
+    <text x="955" y="218" text-anchor="middle">RESEARCH</text>
+  </g>
+
+  <!-- subtle nav separators -->
+  <g stroke="#aaa" stroke-width="0.7">
+    <line x1="270" y1="205" x2="270" y2="221"/>
+    <line x1="453" y1="205" x2="453" y2="221"/>
+    <line x1="668" y1="205" x2="668" y2="221"/>
+    <line x1="862" y1="205" x2="862" y2="221"/>
+  </g>
+
+  <line x1="32" y1="236.5" x2="1200" y2="236.5" stroke="#111" stroke-width="1"/>
+</svg>
