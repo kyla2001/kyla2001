@@ -5,6 +5,31 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyla2001" alt="kyla2001" /></a> </p>
 
+<!-- Daily Briefing:START -->
+## Daily Briefing - 2026-08-31
+
+1. **Big Tech AI earnings get a scrutiny test**  
+   Financial Times reports that Alphabet, Amazon, Nvidia and Microsoft recorded more than $160 billion in pre-tax gains tied to stakes in AI companies, raising questions about how much of the AI boom is operating growth versus valuation uplift. The signal for tech watchers: AI investment loops are becoming a balance-sheet story, not just a product story.  
+   Source: [Financial Times](https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933)
+
+2. **U.S. communities push back on AI data centers**  
+   Associated Press highlights a rare left-right coalition opposing AI data center projects over water, power, farmland and local-control concerns. The debate shows AI infrastructure is moving from an abstract compute race into zoning, utilities and election politics.  
+   Source: [AP News](https://apnews.com/article/a419be82fb6b32a8fc048ac7ffbd1de3)
+
+3. **EU AI Act transparency enforcement begins**  
+   The European Commission says AI Act enforcement and new transparency duties began on August 2, requiring users to be told when they interact with AI and requiring labels or machine-readable marks for certain AI-generated or altered content. This makes compliance, watermarking and disclosure design a near-term product requirement for AI systems serving Europe.  
+   Source: [European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august)
+
+4. **NASA launches the Nancy Grace Roman Space Telescope**  
+   NASA launched Roman on August 30 aboard a SpaceX Falcon Heavy, sending it toward an L2 orbit to study dark energy, dark matter and exoplanets with wide-field infrared surveys. Nature notes the mission combines Hubble-class sharpness with a field of view roughly 100 times wider, which could reshape survey astronomy.  
+   Source: [NASA](https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/) / [Nature](https://www.nature.com/articles/d41586-026-02727-7)
+
+5. **Researchers remain cautious about AI doing AI research**  
+   Nature reports that an agentic system generated research concepts from computer-science papers, but original authors were not convinced by the results. The takeaway is that AI can accelerate literature exploration and ideation, while expert judgment remains critical for novelty, correctness and scientific value.  
+   Source: [Nature](https://www.nature.com/articles/d41586-026-02494-5)
+<!-- Daily Briefing:END -->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
