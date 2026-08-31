@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 001 - Monday, August 31, 2026</sub>
+  <sub>Vol. 001 - Sunday, August 30, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Big Tech AI earnings face a quality check</strong><br><br>Financial Times reports that Alphabet, Amazon, Nvidia and Microsoft recorded more than $160 billion in pre-tax gains tied to stakes in AI companies. The AI boom is now also a balance-sheet story: investors are watching whether profits come from durable operations or valuation uplift.<br><br>Source: <a href="https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933">Financial Times</a></td>
-    <td width="50%"><strong>U.S. towns push back on AI data centers</strong><br><br>Associated Press highlights a rare left-right coalition opposing AI data center projects over water, power, farmland and local-control concerns. AI infrastructure is moving from abstract compute competition into zoning boards, utility planning and election politics.<br><br>Source: <a href="https://apnews.com/article/a419be82fb6b32a8fc048ac7ffbd1de3">AP News</a></td>
+    <td width="50%"><strong>AI apps are starting to look interchangeable</strong><br><br>Zara Zhang notes that the AI product explosion is making many tools feel hard to distinguish: more apps, more onboarding, but fewer obviously radical ideas. The useful signal is product clarity, not another wrapper promising the same workflow with a new surface.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2093944988262371465">Zara Zhang</a></td>
+    <td width="50%"><strong>Compute pressure may reach the user bill</strong><br><br>Nikunj Kothari argues that model-lab competition, subsidized token pricing and compute scarcity could show up as higher prices or tighter usage limits. The post frames AI pricing as an infrastructure constraint, not just a go-to-market choice.<br><br>Source: <a href="https://x.com/nikunj/status/2093860971781746776">Nikunj Kothari</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>EU AI Act transparency rules enter enforcement</strong><br><br>The European Commission says AI Act enforcement and new transparency duties began on August 2. Systems must disclose AI interaction, while some generated or altered media needs labels or machine-readable marks, making compliance a product-design requirement.<br><br>Source: <a href="https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august">European Commission</a></td>
-    <td width="50%"><strong>NASA launches Roman Space Telescope</strong><br><br>NASA launched the Nancy Grace Roman Space Telescope on August 30 aboard a SpaceX Falcon Heavy. The mission will study dark energy, dark matter and exoplanets with wide-field infrared surveys that Nature says could reshape survey astronomy.<br><br>Source: <a href="https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/">NASA</a> / <a href="https://www.nature.com/articles/d41586-026-02727-7">Nature</a></td>
+    <td width="50%"><strong>CLI agents are learning better tool discipline</strong><br><br>Guillermo Rauch points to improved MCP support and leaner tool execution in a new agentic CLI release. The bigger builder lesson: shell commands, long-running jobs and noisy output are core product problems for coding agents, not implementation details.<br><br>Source: <a href="https://x.com/rauchg/status/2093736865191076318">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Recursive self-improvement moves into founder discourse</strong><br><br>Matt Turck highlights the idea that frontier labs are converging on AI systems that improve AI systems, along with the governance anxiety around that trajectory. Even when claims are contested, RSI has become a practical framing for lab strategy and risk.<br><br>Source: <a href="https://x.com/mattturck/status/2093794720510062617">Matt Turck</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>AI still struggles to research itself</strong><br><br>Nature reports that an agentic system generated research concepts from computer-science papers, but original authors were not convinced by the results. AI can accelerate literature exploration and ideation, yet expert judgment remains central to novelty and correctness.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-02494-5">Nature</a></td>
+    <td colspan="2"><strong>Brain-computer interfaces look less like moonshots</strong><br><br>On No Priors, Max Hodak discusses Science's retinal prosthesis work, European approval for Prima, and why AI representations may help neuroscience make faster progress. The episode connects near-term medical devices with bigger questions about cognition, identity and substrate independence.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
   </tr>
 </table>
 
