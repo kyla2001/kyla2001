@@ -6,27 +6,28 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyla2001" alt="kyla2001" /></a> </p>
 
 <!-- Daily Briefing:START -->
-## Daily Briefing - 2026-08-31
 
-1. **Big Tech AI earnings get a scrutiny test**  
-   Financial Times reports that Alphabet, Amazon, Nvidia and Microsoft recorded more than $160 billion in pre-tax gains tied to stakes in AI companies, raising questions about how much of the AI boom is operating growth versus valuation uplift. The signal for tech watchers: AI investment loops are becoming a balance-sheet story, not just a product story.  
-   Source: [Financial Times](https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933)
+<div align="center">
 
-2. **U.S. communities push back on AI data centers**  
-   Associated Press highlights a rare left-right coalition opposing AI data center projects over water, power, farmland and local-control concerns. The debate shows AI infrastructure is moving from an abstract compute race into zoning, utilities and election politics.  
-   Source: [AP News](https://apnews.com/article/a419be82fb6b32a8fc048ac7ffbd1de3)
+# THE KYLA DAILY
 
-3. **EU AI Act transparency enforcement begins**  
-   The European Commission says AI Act enforcement and new transparency duties began on August 2, requiring users to be told when they interact with AI and requiring labels or machine-readable marks for certain AI-generated or altered content. This makes compliance, watermarking and disclosure design a near-term product requirement for AI systems serving Europe.  
-   Source: [European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august)
+**AI / TECHNOLOGY - WORLD AFFAIRS - POLICY - RESEARCH**  
+Vol. 001 - Monday, August 31, 2026
 
-4. **NASA launches the Nancy Grace Roman Space Telescope**  
-   NASA launched Roman on August 30 aboard a SpaceX Falcon Heavy, sending it toward an L2 orbit to study dark energy, dark matter and exoplanets with wide-field infrared surveys. Nature notes the mission combines Hubble-class sharpness with a field of view roughly 100 times wider, which could reshape survey astronomy.  
-   Source: [NASA](https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/) / [Nature](https://www.nature.com/articles/d41586-026-02727-7)
+</div>
 
-5. **Researchers remain cautious about AI doing AI research**  
-   Nature reports that an agentic system generated research concepts from computer-science papers, but original authors were not convinced by the results. The takeaway is that AI can accelerate literature exploration and ideation, while expert judgment remains critical for novelty, correctness and scientific value.  
-   Source: [Nature](https://www.nature.com/articles/d41586-026-02494-5)
+---
+
+## Daily Briefing
+
+| Lead Story | Dispatch |
+| --- | --- |
+| **Big Tech AI earnings face a quality check**<br><br>Financial Times reports that Alphabet, Amazon, Nvidia and Microsoft recorded more than $160 billion in pre-tax gains tied to stakes in AI companies. The AI boom is now also a balance-sheet story: investors are watching whether profits come from durable operations or valuation uplift.<br><br>Source: [Financial Times](https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933) | **U.S. towns push back on AI data centers**<br><br>Associated Press highlights a rare left-right coalition opposing AI data center projects over water, power, farmland and local-control concerns. AI infrastructure is moving from abstract compute competition into zoning boards, utility planning and election politics.<br><br>Source: [AP News](https://apnews.com/article/a419be82fb6b32a8fc048ac7ffbd1de3) |
+| **EU AI Act transparency rules enter enforcement**<br><br>The European Commission says AI Act enforcement and new transparency duties began on August 2. Systems must disclose AI interaction, while some generated or altered media needs labels or machine-readable marks, making compliance a product-design requirement.<br><br>Source: [European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august) | **NASA launches Roman Space Telescope**<br><br>NASA launched the Nancy Grace Roman Space Telescope on August 30 aboard a SpaceX Falcon Heavy. The mission will study dark energy, dark matter and exoplanets with wide-field infrared surveys that Nature says could reshape survey astronomy.<br><br>Source: [NASA](https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/) / [Nature](https://www.nature.com/articles/d41586-026-02727-7) |
+| **AI still struggles to research itself**<br><br>Nature reports that an agentic system generated research concepts from computer-science papers, but original authors were not convinced by the results. AI can accelerate literature exploration and ideation, yet expert judgment remains central to novelty and correctness.<br><br>Source: [Nature](https://www.nature.com/articles/d41586-026-02494-5) | **Editor's Note**<br><br>This briefing is updated daily from English-first authoritative sources, with the rest of this GitHub profile preserved unchanged. |
+
+---
+
 <!-- Daily Briefing:END -->
 
 
