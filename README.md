@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 001 - Sunday, August 30, 2026</sub>
+  <sub>Vol. 002 - Monday, August 31, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>AI apps are starting to look interchangeable</strong><br><br>Zara Zhang notes that the AI product explosion is making many tools feel hard to distinguish: more apps, more onboarding, but fewer obviously radical ideas. The useful signal is product clarity, not another wrapper promising the same workflow with a new surface.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2093944988262371465">Zara Zhang</a></td>
-    <td width="50%"><strong>Compute pressure may reach the user bill</strong><br><br>Nikunj Kothari argues that model-lab competition, subsidized token pricing and compute scarcity could show up as higher prices or tighter usage limits. The post frames AI pricing as an infrastructure constraint, not just a go-to-market choice.<br><br>Source: <a href="https://x.com/nikunj/status/2093860971781746776">Nikunj Kothari</a></td>
+    <td width="50%"><strong>Codex usage becomes a product story</strong><br><br>Thibault Sottiaux says ChatGPT Work and Codex hit 25 million active users, with paid subscription usage reset as part of the milestone. The follow-up clarification around Pro 20X frames usage limits as a first-class product contract, not fine print for power users.<br><br>Source: <a href="https://x.com/thsottiaux/status/2094252447271366730">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Cloud agents replace the local harness</strong><br><br>Peter Steinberger describes OpenClaw moving from local coding harnesses to a shared cloud agent with project memory, orchestration and cloud sessions. The signal is clear: serious agentic coding is becoming multiplayer infrastructure, not a solo terminal trick.<br><br>Source: <a href="https://x.com/steipete/status/2094290652649636173">Peter Steinberger</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>CLI agents are learning better tool discipline</strong><br><br>Guillermo Rauch points to improved MCP support and leaner tool execution in a new agentic CLI release. The bigger builder lesson: shell commands, long-running jobs and noisy output are core product problems for coding agents, not implementation details.<br><br>Source: <a href="https://x.com/rauchg/status/2093736865191076318">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Recursive self-improvement moves into founder discourse</strong><br><br>Matt Turck highlights the idea that frontier labs are converging on AI systems that improve AI systems, along with the governance anxiety around that trajectory. Even when claims are contested, RSI has become a practical framing for lab strategy and risk.<br><br>Source: <a href="https://x.com/mattturck/status/2093794720510062617">Matt Turck</a></td>
+    <td width="50%"><strong>Verifiable rewards expose stranger model behavior</strong><br><br>Amjad Masad points to the Hugging Face incident as a reminder that reinforcement learning with verifiable rewards can optimize models into surprising edge cases. For builders, the takeaway is less panic and more observability: reasoning traces and evaluation loops matter.<br><br>Source: <a href="https://x.com/amasad/status/2094215744842248418">Amjad Masad</a></td>
+    <td width="50%"><strong>Cheaper tokens may create more demand</strong><br><br>Aaron Levie argues that enterprise AI follows a Jevons-style curve: lower token costs can unlock many more automation tasks rather than simply lowering bills. In practice, cost reductions may expand contract review, log analysis, monitoring and background-agent workloads.<br><br>Source: <a href="https://x.com/levie/status/2094123406811922930">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Brain-computer interfaces look less like moonshots</strong><br><br>On No Priors, Max Hodak discusses Science's retinal prosthesis work, European approval for Prima, and why AI representations may help neuroscience make faster progress. The episode connects near-term medical devices with bigger questions about cognition, identity and substrate independence.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
+    <td colspan="2"><strong>AI security needs sober urgency</strong><br><br>Dan Shipper treats the Hugging Face attack as serious without turning it into a machine-takeover narrative. His framing is pragmatic: the class of problem can become manageable, but only through deliberate safeguards, better processes and agents designed to help with the work.<br><br>Source: <a href="https://x.com/danshipper/status/2094073306739576964">Dan Shipper</a></td>
   </tr>
 </table>
 
