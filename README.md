@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyla</h1>
-<h3 align="center">Cantonese architect exploring frontend development and creative technology.</h3>
+<h3 align="center">Building auditable AI systems: agents, workflow verification, and product infrastructure.</h3>
+<p align="center">AI Engineer · Cornell Tech Research Assistant · Open-source Author</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kyla2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
