@@ -15,7 +15,7 @@
   <p></p>
 </div>
 
-<table align="center" width="94%">
+<table align="center" width="88%">
   <tr>
     <td width="50%"><strong>Big Tech AI earnings face a quality check</strong><br><br>Financial Times reports that Alphabet, Amazon, Nvidia and Microsoft recorded more than $160 billion in pre-tax gains tied to stakes in AI companies. The AI boom is now also a balance-sheet story: investors are watching whether profits come from durable operations or valuation uplift.<br><br>Source: <a href="https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933">Financial Times</a></td>
     <td width="50%"><strong>U.S. towns push back on AI data centers</strong><br><br>Associated Press highlights a rare left-right coalition opposing AI data center projects over water, power, farmland and local-control concerns. AI infrastructure is moving from abstract compute competition into zoning boards, utility planning and election politics.<br><br>Source: <a href="https://apnews.com/article/a419be82fb6b32a8fc048ac7ffbd1de3">AP News</a></td>
