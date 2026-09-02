@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 003 - Tuesday, September 1, 2026</sub>
+  <sub>Vol. 004 - Wednesday, September 2, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Agent adoption runs through trust</strong><br><br>Peter Yang argues that trust will be the biggest barrier and driver for personal agent adoption. The practical implication for builders is clear: autonomy features need visible control, predictable behavior and recovery paths before users delegate real work.<br><br>Source: <a href="https://x.com/petergyang/status/2094639655258091792">Peter Yang</a></td>
-    <td width="50%"><strong>PM work moves closer to model-frontier literacy</strong><br><br>Madhu Guru says product leaders now need to understand what different model sizes can do, where they fail, and how those limits may shift within months. AI roadmap quality increasingly depends on frontier judgment, not generic feature planning.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2094591503981281503">Madhu Guru</a></td>
+    <td width="50%"><strong>Claude release turns safeguards into UX</strong><br><br>Boris Cherny says the latest Fable 5.1 release reduces benign biology safeguard interventions by 85% and cuts Claude Code cyber interventions by roughly 60% per session. The product story is not just safer models, but fewer false stops in real workflows.<br><br>Source: <a href="https://x.com/bcherny/status/2094864063478276288">Boris Cherny</a></td>
+    <td width="50%"><strong>Enterprise agents get a risk-monitoring layer</strong><br><br>Alex Albert highlights Enterprise Frontier Safeguards as a privacy-preserving way to detect risky agent behavior across sessions while keeping customer data in their cloud. As agents reach internal systems, observability is becoming enterprise infrastructure.<br><br>Source: <a href="https://x.com/alexalbert__/status/2094889286990446769">Alex Albert</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Design taste gets written down</strong><br><br>Guillermo Rauch highlights DESIGN.md as a way to turn design judgment into durable context for AI systems. The useful pattern is treating taste as operational knowledge that agents can reference, test against and improve through review.<br><br>Source: <a href="https://x.com/rauchg/status/2094541309579235680">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Enterprise AI may fragment into domain models</strong><br><br>Aaron Levie argues that stronger open-weight models and maturing post-training infrastructure will let data-rich companies train models for their own domains. Frontier systems may still lead broadly, but vertical models become more plausible as a business architecture.<br><br>Source: <a href="https://x.com/levie/status/2094650992818274514">Aaron Levie</a></td>
+    <td width="50%"><strong>AI security work goes vertical</strong><br><br>Aaron Levie argues that models are getting strong enough at finding and exploiting vulnerabilities that enterprises will face a surge of cyber discoveries. The only workable path is faster AI-assisted triage and fixes, with human oversight where it matters.<br><br>Source: <a href="https://x.com/levie/status/2095024699441119612">Aaron Levie</a></td>
+    <td width="50%"><strong>Agentic coding pushes compute platforms together</strong><br><br>Guillermo Rauch describes Vercel's Fluid as a unified compute layer spanning builds, functions, sandboxes, networking, filesystems and security boundaries. The subtext for AI builders: agents need cloud platforms where execution and isolation are designed together.<br><br>Source: <a href="https://x.com/rauchg/status/2094831747037085978">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Agent memory needs receipts</strong><br><br>Garry Tan points to new GBrain evals for retrieval and memory-save from agent transcripts, arguing that memory systems should prove what they can recall without another LLM in the loop. As agents become longer lived, memory quality is turning into measurable infrastructure.<br><br>Source: <a href="https://x.com/garrytan/status/2094462971598754010">Garry Tan</a></td>
+    <td colspan="2"><strong>Public-sector AI is really a trust problem</strong><br><br>Training Data's episode with Peregrine frames city AI around public safety, privacy, institutional context and forward-deployed engineering. The lesson travels beyond government: high-stakes AI products need empathy for the customer's operating reality, not just better models.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8">Training Data</a></td>
   </tr>
 </table>
 
