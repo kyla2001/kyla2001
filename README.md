@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 004 - Wednesday, September 2, 2026</sub>
+  <sub>Vol. 006 - Friday, September 4, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude release turns safeguards into UX</strong><br><br>Boris Cherny says the latest Fable 5.1 release reduces benign biology safeguard interventions by 85% and cuts Claude Code cyber interventions by roughly 60% per session. The product story is not just safer models, but fewer false stops in real workflows.<br><br>Source: <a href="https://x.com/bcherny/status/2094864063478276288">Boris Cherny</a></td>
-    <td width="50%"><strong>Enterprise agents get a risk-monitoring layer</strong><br><br>Alex Albert highlights Enterprise Frontier Safeguards as a privacy-preserving way to detect risky agent behavior across sessions while keeping customer data in their cloud. As agents reach internal systems, observability is becoming enterprise infrastructure.<br><br>Source: <a href="https://x.com/alexalbert__/status/2094889286990446769">Alex Albert</a></td>
+    <td width="50%"><strong>Astra rollout becomes a trust test</strong><br><br>Sam Altman apologized for a messy rollout and said broader access for API customers and ChatGPT subscribers should begin soon, starting with Pro users. The launch story is now partly about capability, partly about expectation management.<br><br>Source: <a href="https://x.com/sama/status/2095678759651438887">Sam Altman</a></td>
+    <td width="50%"><strong>Banked resets turn scarcity into policy</strong><br><br>Thibault Sottiaux says paid ChatGPT users without Astra access will receive one banked reset for each missed day. Usage credits are becoming a visible mechanism for smoothing model-rollout scarcity instead of leaving access gaps unexplained.<br><br>Source: <a href="https://x.com/thsottiaux/status/2095651088502591861">Thibault Sottiaux</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI security work goes vertical</strong><br><br>Aaron Levie argues that models are getting strong enough at finding and exploiting vulnerabilities that enterprises will face a surge of cyber discoveries. The only workable path is faster AI-assisted triage and fixes, with human oversight where it matters.<br><br>Source: <a href="https://x.com/levie/status/2095024699441119612">Aaron Levie</a></td>
-    <td width="50%"><strong>Agentic coding pushes compute platforms together</strong><br><br>Guillermo Rauch describes Vercel's Fluid as a unified compute layer spanning builds, functions, sandboxes, networking, filesystems and security boundaries. The subtext for AI builders: agents need cloud platforms where execution and isolation are designed together.<br><br>Source: <a href="https://x.com/rauchg/status/2094831747037085978">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Enterprise evals get tougher and more specific</strong><br><br>Aaron Levie reports that Box's complex-work evals show GPT-6 Astra improving on coding, analytics, legal, healthcare and energy tasks. The interesting shift is domain-specific evaluation: the benchmark is not a leaderboard, it is whether the model handles messy enterprise work.<br><br>Source: <a href="https://x.com/levie/status/2095598710311067716">Aaron Levie</a></td>
+    <td width="50%"><strong>Claude Code heads toward extensibility</strong><br><br>Boris Cherny shared an early look at making Claude Code more extensible and asked builders for feedback. The agent stack is moving from fixed assistants toward hackable platforms where users can shape tools, context and workflows.<br><br>Source: <a href="https://x.com/bcherny/status/2095590515765060076">Boris Cherny</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Public-sector AI is really a trust problem</strong><br><br>Training Data's episode with Peregrine frames city AI around public safety, privacy, institutional context and forward-deployed engineering. The lesson travels beyond government: high-stakes AI products need empathy for the customer's operating reality, not just better models.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8">Training Data</a></td>
+    <td colspan="2"><strong>AI safety discourse gets a field report</strong><br><br>Unsupervised Learning's episode with Redwood Research CEO Buck Shlegeris digs into the OpenAI/Hugging Face revelations and what they imply for safety work. The useful signal is concrete incident analysis: better safeguards need operational evidence, not just abstract risk language.<br><br>Source: <a href="https://www.youtube.com/@RedpointAI">Unsupervised Learning</a></td>
   </tr>
 </table>
 
