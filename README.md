@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 006 - Friday, September 4, 2026</sub>
+  <sub>Vol. 007 - Saturday, September 5, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Astra rollout becomes a trust test</strong><br><br>Sam Altman apologized for a messy rollout and said broader access for API customers and ChatGPT subscribers should begin soon, starting with Pro users. The launch story is now partly about capability, partly about expectation management.<br><br>Source: <a href="https://x.com/sama/status/2095678759651438887">Sam Altman</a></td>
-    <td width="50%"><strong>Banked resets turn scarcity into policy</strong><br><br>Thibault Sottiaux says paid ChatGPT users without Astra access will receive one banked reset for each missed day. Usage credits are becoming a visible mechanism for smoothing model-rollout scarcity instead of leaving access gaps unexplained.<br><br>Source: <a href="https://x.com/thsottiaux/status/2095651088502591861">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Astra shifts from advantage to platform</strong><br><br>Thibault Sottiaux says early internal access to Astra accelerated OpenAI's roadmap enough to pull work forward by months. Now that the model is broadly available, the competitive question moves from who has the model to who can operationalize it fastest.<br><br>Source: <a href="https://x.com/thsottiaux/status/2096101429832552872">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Astra reaches paid builders</strong><br><br>Sam Altman says GPT-6 Astra is now available to Pro, Enterprise and Business Premium users in Work/Codex and in the API, with Plus and Business rollout following. Access policy is becoming part of the launch narrative for frontier models.<br><br>Source: <a href="https://x.com/sama/status/2095973658867171733">Sam Altman</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Enterprise evals get tougher and more specific</strong><br><br>Aaron Levie reports that Box's complex-work evals show GPT-6 Astra improving on coding, analytics, legal, healthcare and energy tasks. The interesting shift is domain-specific evaluation: the benchmark is not a leaderboard, it is whether the model handles messy enterprise work.<br><br>Source: <a href="https://x.com/levie/status/2095598710311067716">Aaron Levie</a></td>
-    <td width="50%"><strong>Claude Code heads toward extensibility</strong><br><br>Boris Cherny shared an early look at making Claude Code more extensible and asked builders for feedback. The agent stack is moving from fixed assistants toward hackable platforms where users can shape tools, context and workflows.<br><br>Source: <a href="https://x.com/bcherny/status/2095590515765060076">Boris Cherny</a></td>
+    <td width="50%"><strong>Web pages may expose tools to agents</strong><br><br>Guillermo Rauch points to WebMCP as a way for the existing web to present page-specific debugging and interaction tools directly to agents. For builders, the browser becomes less of a black box and more of an agent-aware runtime surface.<br><br>Source: <a href="https://x.com/rauchg/status/2096065378598441431">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Agent browsers become integration harnesses</strong><br><br>Garry Tan describes using AsideAI as a remote browser harness with credentials, integrations, browser control and memory. The pattern matters because useful agents often need authenticated web access, not just local files and isolated tools.<br><br>Source: <a href="https://x.com/garrytan/status/2095948689823121872">Garry Tan</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>AI safety discourse gets a field report</strong><br><br>Unsupervised Learning's episode with Redwood Research CEO Buck Shlegeris digs into the OpenAI/Hugging Face revelations and what they imply for safety work. The useful signal is concrete incident analysis: better safeguards need operational evidence, not just abstract risk language.<br><br>Source: <a href="https://www.youtube.com/@RedpointAI">Unsupervised Learning</a></td>
+    <td colspan="2"><strong>Chip architecture returns to the AI center</strong><br><br>No Priors' interview with Arm CEO Rene Haas connects AI demand to CPU orchestration, verification, supply chains and the move from IP licensing toward physical products. The hardware story is not just GPUs: deployment depends on the wider compute system around them.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
   </tr>
 </table>
 
