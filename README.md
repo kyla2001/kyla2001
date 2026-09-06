@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 007 - Saturday, September 5, 2026</sub>
+  <sub>Vol. 008 - Sunday, September 6, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Astra shifts from advantage to platform</strong><br><br>Thibault Sottiaux says early internal access to Astra accelerated OpenAI's roadmap enough to pull work forward by months. Now that the model is broadly available, the competitive question moves from who has the model to who can operationalize it fastest.<br><br>Source: <a href="https://x.com/thsottiaux/status/2096101429832552872">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Astra reaches paid builders</strong><br><br>Sam Altman says GPT-6 Astra is now available to Pro, Enterprise and Business Premium users in Work/Codex and in the API, with Plus and Business rollout following. Access policy is becoming part of the launch narrative for frontier models.<br><br>Source: <a href="https://x.com/sama/status/2095973658867171733">Sam Altman</a></td>
+    <td width="50%"><strong>Mail-ballot rules return to the Supreme Court</strong><br><br>The Trump administration asked the Supreme Court again to let new mail-ballot restrictions take effect before the 2026 midterms. The fight keeps election administration, federal power and voting access at the center of the policy calendar.<br><br>Source: <a href="https://apnews.com/article/65067233db6ebda8dedcdc3f6714a96c">AP News</a></td>
+    <td width="50%"><strong>Huawei trial sharpens the U.S.-China tech divide</strong><br><br>A Brooklyn jury is set to weigh U.S. claims that Huawei's rise involved trade-secret theft, sanctions violations and bank deception. The case turns an old technology rivalry into a live courtroom test with geopolitical consequences.<br><br>Source: <a href="https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07">Financial Times</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Web pages may expose tools to agents</strong><br><br>Guillermo Rauch points to WebMCP as a way for the existing web to present page-specific debugging and interaction tools directly to agents. For builders, the browser becomes less of a black box and more of an agent-aware runtime surface.<br><br>Source: <a href="https://x.com/rauchg/status/2096065378598441431">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Agent browsers become integration harnesses</strong><br><br>Garry Tan describes using AsideAI as a remote browser harness with credentials, integrations, browser control and memory. The pattern matters because useful agents often need authenticated web access, not just local files and isolated tools.<br><br>Source: <a href="https://x.com/garrytan/status/2095948689823121872">Garry Tan</a></td>
+    <td width="50%"><strong>Ukraine diplomacy shifts back to Kyiv</strong><br><br>U.S. envoys Steve Witkoff and Jared Kushner held talks in Ukraine after meeting Vladimir Putin in Moscow. The agenda centered on air defense, winter energy support, security guarantees and reconstruction, while attacks continued on both sides.<br><br>Source: <a href="https://apnews.com/article/44bba3b57b480560d9f48dba7d28534e">AP News</a></td>
+    <td width="50%"><strong>AI infrastructure meets public-permit politics</strong><br><br>AP reports that an EPA proposal could reduce public notice requirements for air-pollution permits, including data-center projects. The debate shows AI buildout pressure colliding with local transparency, environmental review and community consent.<br><br>Source: <a href="https://apnews.com/article/947eb927ae81162ad4cc3e828915c804">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Chip architecture returns to the AI center</strong><br><br>No Priors' interview with Arm CEO Rene Haas connects AI demand to CPU orchestration, verification, supply chains and the move from IP licensing toward physical products. The hardware story is not just GPUs: deployment depends on the wider compute system around them.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
+    <td colspan="2"><strong>Precision clocks align across Europe</strong><br><br>Nature highlights a four-nation comparison showing seven optical clocks ticking in agreement over fiber links. The result strengthens the case for redefining the second and hints at more precise navigation, geodesy and fundamental-physics tests.<br><br>Source: <a href="https://www.nature.com/research-highlights">Nature</a></td>
   </tr>
 </table>
 
