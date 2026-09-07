@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 008 - Sunday, September 6, 2026</sub>
+  <sub>Vol. 009 - Monday, September 7, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Mail-ballot rules return to the Supreme Court</strong><br><br>The Trump administration asked the Supreme Court again to let new mail-ballot restrictions take effect before the 2026 midterms. The fight keeps election administration, federal power and voting access at the center of the policy calendar.<br><br>Source: <a href="https://apnews.com/article/65067233db6ebda8dedcdc3f6714a96c">AP News</a></td>
-    <td width="50%"><strong>Huawei trial sharpens the U.S.-China tech divide</strong><br><br>A Brooklyn jury is set to weigh U.S. claims that Huawei's rise involved trade-secret theft, sanctions violations and bank deception. The case turns an old technology rivalry into a live courtroom test with geopolitical consequences.<br><br>Source: <a href="https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07">Financial Times</a></td>
+    <td width="50%"><strong>Personal agents collide with attention scarcity</strong><br><br>Zara Zhang argues that the attention crisis may get worse as agents create more tasks, prompts and decisions for people to process. The product challenge is not only automation, but designing agents that reduce cognitive load instead of multiplying it.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2096824861108928701">Zara Zhang</a></td>
+    <td width="50%"><strong>The agent web needs new infrastructure</strong><br><br>Aaron Levie warns that the internet is not prepared for personal agents executing tasks at scale. His point pushes the conversation beyond model capability toward identity, permissions, UX, business models and infrastructure for non-human actors.<br><br>Source: <a href="https://x.com/levie/status/2096735726750908464">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Ukraine diplomacy shifts back to Kyiv</strong><br><br>U.S. envoys Steve Witkoff and Jared Kushner held talks in Ukraine after meeting Vladimir Putin in Moscow. The agenda centered on air defense, winter energy support, security guarantees and reconstruction, while attacks continued on both sides.<br><br>Source: <a href="https://apnews.com/article/44bba3b57b480560d9f48dba7d28534e">AP News</a></td>
-    <td width="50%"><strong>AI infrastructure meets public-permit politics</strong><br><br>AP reports that an EPA proposal could reduce public notice requirements for air-pollution permits, including data-center projects. The debate shows AI buildout pressure colliding with local transparency, environmental review and community consent.<br><br>Source: <a href="https://apnews.com/article/947eb927ae81162ad4cc3e828915c804">AP News</a></td>
+    <td width="50%"><strong>AGI claims keep surfacing through quote culture</strong><br><br>Nan Yu pointed to a quote post around an AGI claim, reflecting how frontier-model discourse now spreads through short, referential builder commentary. Even sparse posts matter because they show which claims are setting the day's agenda among practitioners.<br><br>Source: <a href="https://x.com/thenanyu/status/2096796392102752507">Nan Yu</a></td>
+    <td width="50%"><strong>Astra quality becomes a builder meme</strong><br><br>Nikunj Kothari jokes about Fable reviewing every Astra code change and calling a fix the real deal. Beneath the humor is a live theme: frontier models are being judged by day-to-day engineering reliability, review quality and workflow fit.<br><br>Source: <a href="https://x.com/nikunj/status/2096798671547646134">Nikunj Kothari</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Precision clocks align across Europe</strong><br><br>Nature highlights a four-nation comparison showing seven optical clocks ticking in agreement over fiber links. The result strengthens the case for redefining the second and hints at more precise navigation, geodesy and fundamental-physics tests.<br><br>Source: <a href="https://www.nature.com/research-highlights">Nature</a></td>
+    <td colspan="2"><strong>AI influence still depends on who gets heard</strong><br><br>Peter Yang's quote post points at a recurring tension in AI discourse: public attention often depends on lists, status signals and social proof as much as technical substance. For builders, distribution and credibility remain part of the technology stack.<br><br>Source: <a href="https://x.com/petergyang/status/2096815819997204639">Peter Yang</a></td>
   </tr>
 </table>
 
