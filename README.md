@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 009 - Monday, September 7, 2026</sub>
+  <sub>Vol. 010 - Tuesday, September 8, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Personal agents collide with attention scarcity</strong><br><br>Zara Zhang argues that the attention crisis may get worse as agents create more tasks, prompts and decisions for people to process. The product challenge is not only automation, but designing agents that reduce cognitive load instead of multiplying it.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2096824861108928701">Zara Zhang</a></td>
-    <td width="50%"><strong>The agent web needs new infrastructure</strong><br><br>Aaron Levie warns that the internet is not prepared for personal agents executing tasks at scale. His point pushes the conversation beyond model capability toward identity, permissions, UX, business models and infrastructure for non-human actors.<br><br>Source: <a href="https://x.com/levie/status/2096735726750908464">Aaron Levie</a></td>
+    <td width="50%"><strong>Astra week becomes a launch ledger</strong><br><br>Thibault Sottiaux says Codex is tracking a 28-page launch deck, with Astra powering a wave of individual releases. The useful signal is operational: frontier-model launches now look like coordinated product systems, not single announcements.<br><br>Source: <a href="https://x.com/thsottiaux/status/2097193293532848288">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Software factories need better review evidence</strong><br><br>Guillermo Rauch argues that agent-browser style video recording is becoming part of the software factory, because review, testing and QA are the new bottlenecks. As agents write more code, the artifact trail around their work matters more.<br><br>Source: <a href="https://x.com/rauchg/status/2097134278358548658">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AGI claims keep surfacing through quote culture</strong><br><br>Nan Yu pointed to a quote post around an AGI claim, reflecting how frontier-model discourse now spreads through short, referential builder commentary. Even sparse posts matter because they show which claims are setting the day's agenda among practitioners.<br><br>Source: <a href="https://x.com/thenanyu/status/2096796392102752507">Nan Yu</a></td>
-    <td width="50%"><strong>Astra quality becomes a builder meme</strong><br><br>Nikunj Kothari jokes about Fable reviewing every Astra code change and calling a fix the real deal. Beneath the humor is a live theme: frontier models are being judged by day-to-day engineering reliability, review quality and workflow fit.<br><br>Source: <a href="https://x.com/nikunj/status/2096798671547646134">Nikunj Kothari</a></td>
+    <td width="50%"><strong>AI opportunity expands with token volume</strong><br><br>Aaron Levie says builders should design for orders-of-magnitude gains in capability and available token volume. The strongest opportunities may be products that barely work economically today, but become obvious as processing costs and model limits move.<br><br>Source: <a href="https://x.com/levie/status/2097189559712837770">Aaron Levie</a></td>
+    <td width="50%"><strong>London frames AI as participation policy</strong><br><br>Amjad Masad marked Replit's first international office in London with a message about AI skills, coding access and economic participation. The policy angle is practical: cities are competing to turn AI disruption into broader opportunity, not only startup density.<br><br>Source: <a href="https://x.com/amasad/status/2097197172299006423">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>AI influence still depends on who gets heard</strong><br><br>Peter Yang's quote post points at a recurring tension in AI discourse: public attention often depends on lists, status signals and social proof as much as technical substance. For builders, distribution and credibility remain part of the technology stack.<br><br>Source: <a href="https://x.com/petergyang/status/2096815819997204639">Peter Yang</a></td>
+    <td colspan="2"><strong>Open-source grants target agent skills</strong><br><br>Guillermo Rauch's second round of open-source grants puts agent skills, local AI, performance and high-quality foundations on the same page. It is a useful map of where infrastructure builders think AI-native software still needs durable primitives.<br><br>Source: <a href="https://x.com/rauchg/status/2097116011384426516">Guillermo Rauch</a></td>
   </tr>
 </table>
 
