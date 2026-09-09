@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 010 - Tuesday, September 8, 2026</sub>
+  <sub>Vol. 011 - Wednesday, September 9, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Astra week becomes a launch ledger</strong><br><br>Thibault Sottiaux says Codex is tracking a 28-page launch deck, with Astra powering a wave of individual releases. The useful signal is operational: frontier-model launches now look like coordinated product systems, not single announcements.<br><br>Source: <a href="https://x.com/thsottiaux/status/2097193293532848288">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Software factories need better review evidence</strong><br><br>Guillermo Rauch argues that agent-browser style video recording is becoming part of the software factory, because review, testing and QA are the new bottlenecks. As agents write more code, the artifact trail around their work matters more.<br><br>Source: <a href="https://x.com/rauchg/status/2097134278358548658">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Astra demand tests launch capacity</strong><br><br>Thibault Sottiaux says demand for Astra is unprecedented and that OpenAI may pause new Pro subscriptions if pressure continues. Frontier-model access is becoming a capacity-management story as much as a capability story.<br><br>Source: <a href="https://x.com/thsottiaux/status/2097559315150426222">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Prompt injection needs scaffolding, not faith</strong><br><br>Boris Cherny argues that aligned models alone do not solve prompt injection in practice, but layered probes and auto-mode scaffolding can reduce risk. The lesson for agent builders is concrete: security belongs in system design, not just model behavior.<br><br>Source: <a href="https://x.com/bcherny/status/2097557079762624563">Boris Cherny</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI opportunity expands with token volume</strong><br><br>Aaron Levie says builders should design for orders-of-magnitude gains in capability and available token volume. The strongest opportunities may be products that barely work economically today, but become obvious as processing costs and model limits move.<br><br>Source: <a href="https://x.com/levie/status/2097189559712837770">Aaron Levie</a></td>
-    <td width="50%"><strong>London frames AI as participation policy</strong><br><br>Amjad Masad marked Replit's first international office in London with a message about AI skills, coding access and economic participation. The policy angle is practical: cities are competing to turn AI disruption into broader opportunity, not only startup density.<br><br>Source: <a href="https://x.com/amasad/status/2097197172299006423">Amjad Masad</a></td>
+    <td width="50%"><strong>Token volume keeps climbing</strong><br><br>Guillermo Rauch says Vercel AI Gateway token volume has averaged double-digit weekly growth for eight straight weeks, with a 24.8% jump last week. Usage curves like this explain why infra, routing and cost controls are becoming AI product primitives.<br><br>Source: <a href="https://x.com/rauchg/status/2097531548555997459">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Computer use becomes a lab benchmark</strong><br><br>Thibault Sottiaux frames background computer use as a core model capability and compares recent Claude Code work with Codex's earlier implementation. The broader point: agents that can operate computers reliably are becoming table stakes for serious workflow automation.<br><br>Source: <a href="https://x.com/thsottiaux/status/2097482341916852719">Thibault Sottiaux</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Open-source grants target agent skills</strong><br><br>Guillermo Rauch's second round of open-source grants puts agent skills, local AI, performance and high-quality foundations on the same page. It is a useful map of where infrastructure builders think AI-native software still needs durable primitives.<br><br>Source: <a href="https://x.com/rauchg/status/2097116011384426516">Guillermo Rauch</a></td>
+    <td colspan="2"><strong>Images 2.5 expands the creative surface</strong><br><br>Sam Altman says Images 2.5 is live, positioning it as a strong image model even if it is not meant for hard math. For builders, the release keeps multimodal creation in the same product conversation as coding agents, browser control and frontier text models.<br><br>Source: <a href="https://x.com/sama/status/2097410967978324010">Sam Altman</a></td>
   </tr>
 </table>
 
