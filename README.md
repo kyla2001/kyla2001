@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 011 - Wednesday, September 9, 2026</sub>
+  <sub>Vol. 012 - Thursday, September 10, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Astra demand tests launch capacity</strong><br><br>Thibault Sottiaux says demand for Astra is unprecedented and that OpenAI may pause new Pro subscriptions if pressure continues. Frontier-model access is becoming a capacity-management story as much as a capability story.<br><br>Source: <a href="https://x.com/thsottiaux/status/2097559315150426222">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Prompt injection needs scaffolding, not faith</strong><br><br>Boris Cherny argues that aligned models alone do not solve prompt injection in practice, but layered probes and auto-mode scaffolding can reduce risk. The lesson for agent builders is concrete: security belongs in system design, not just model behavior.<br><br>Source: <a href="https://x.com/bcherny/status/2097557079762624563">Boris Cherny</a></td>
+    <td width="50%"><strong>Coding agents widen the software market</strong><br><br>Aaron Levie argues that lower-cost code will push agents into cyber defense, life sciences, legacy upgrades and data-heavy workflows. The point is expansion, not replacement: cheaper software creation can raise engineering leverage and create more categories of work.<br><br>Source: <a href="https://x.com/levie/status/2097920810543468551">Aaron Levie</a></td>
+    <td width="50%"><strong>OpenClaw gets faster cloud sessions</strong><br><br>Peter Steinberger says OpenClaw now has fast cloud sessions with remote terminal, WebVNC and computer-use support. Agentic development is converging on hosted workspaces where terminal, browser and UI control live in one execution environment.<br><br>Source: <a href="https://x.com/steipete/status/2097935551735423464">Peter Steinberger</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Token volume keeps climbing</strong><br><br>Guillermo Rauch says Vercel AI Gateway token volume has averaged double-digit weekly growth for eight straight weeks, with a 24.8% jump last week. Usage curves like this explain why infra, routing and cost controls are becoming AI product primitives.<br><br>Source: <a href="https://x.com/rauchg/status/2097531548555997459">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Computer use becomes a lab benchmark</strong><br><br>Thibault Sottiaux frames background computer use as a core model capability and compares recent Claude Code work with Codex's earlier implementation. The broader point: agents that can operate computers reliably are becoming table stakes for serious workflow automation.<br><br>Source: <a href="https://x.com/thsottiaux/status/2097482341916852719">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>AI GDP impact may lag capability</strong><br><br>Aaron Levie says AI diffusion will take longer than capability demos suggest because companies still face data preparation, process redesign and real-world waiting time. The opportunity is building bridges between superintelligence and messy operating workflows.<br><br>Source: <a href="https://x.com/levie/status/2097738533297689012">Aaron Levie</a></td>
+    <td width="50%"><strong>Claude Marketplace turns agents into procurement</strong><br><br>Claude announced new Marketplace listings from CrowdStrike, Cursor, Factory, Gamma and Vercel, letting enterprises spend Anthropic commitments on Claude-powered products. Agent distribution is moving through procurement channels, not only app-store style discovery.<br><br>Source: <a href="https://x.com/claudeai/status/2097718980437831935">Claude</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Images 2.5 expands the creative surface</strong><br><br>Sam Altman says Images 2.5 is live, positioning it as a strong image model even if it is not meant for hard math. For builders, the release keeps multimodal creation in the same product conversation as coding agents, browser control and frontier text models.<br><br>Source: <a href="https://x.com/sama/status/2097410967978324010">Sam Altman</a></td>
+    <td colspan="2"><strong>Automation creates work too</strong><br><br>Dan Shipper critiques analyses that assume jobs decompose neatly into tasks and automation always reduces human labor. His field note is useful for AI policy: new tools often create new tasks, making economic impact harder to model than simple substitution curves suggest.<br><br>Source: <a href="https://x.com/danshipper/status/2097758891270697101">Dan Shipper</a></td>
   </tr>
 </table>
 
