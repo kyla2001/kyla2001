@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 012 - Thursday, September 10, 2026</sub>
+  <sub>Vol. 013 - Friday, September 11, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Coding agents widen the software market</strong><br><br>Aaron Levie argues that lower-cost code will push agents into cyber defense, life sciences, legacy upgrades and data-heavy workflows. The point is expansion, not replacement: cheaper software creation can raise engineering leverage and create more categories of work.<br><br>Source: <a href="https://x.com/levie/status/2097920810543468551">Aaron Levie</a></td>
-    <td width="50%"><strong>OpenClaw gets faster cloud sessions</strong><br><br>Peter Steinberger says OpenClaw now has fast cloud sessions with remote terminal, WebVNC and computer-use support. Agentic development is converging on hosted workspaces where terminal, browser and UI control live in one execution environment.<br><br>Source: <a href="https://x.com/steipete/status/2097935551735423464">Peter Steinberger</a></td>
+    <td width="50%"><strong>Enterprise agents expose a security agenda</strong><br><br>Aaron Levie reports that enterprise leaders are focused on cyber risk, model choice, agent identity, workflow redesign and weak eval practices. The field note is a useful map of where AI adoption is moving from demos into operational architecture.<br><br>Source: <a href="https://x.com/levie/status/2098218284139311615">Aaron Levie</a></td>
+    <td width="50%"><strong>Production AI code needs guardrails</strong><br><br>Boris Cherny argues that throwaway prototypes can be treated as black boxes, but production code written by Claude should clear a higher bar. His checklist points to linting, tests, end-to-end runs, fuzzing, reviews and codebase-specific skills as the new baseline.<br><br>Source: <a href="https://x.com/bcherny/status/2098217573276131577">Boris Cherny</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI GDP impact may lag capability</strong><br><br>Aaron Levie says AI diffusion will take longer than capability demos suggest because companies still face data preparation, process redesign and real-world waiting time. The opportunity is building bridges between superintelligence and messy operating workflows.<br><br>Source: <a href="https://x.com/levie/status/2097738533297689012">Aaron Levie</a></td>
-    <td width="50%"><strong>Claude Marketplace turns agents into procurement</strong><br><br>Claude announced new Marketplace listings from CrowdStrike, Cursor, Factory, Gamma and Vercel, letting enterprises spend Anthropic commitments on Claude-powered products. Agent distribution is moving through procurement channels, not only app-store style discovery.<br><br>Source: <a href="https://x.com/claudeai/status/2097718980437831935">Claude</a></td>
+    <td width="50%"><strong>Agent infrastructure becomes an API</strong><br><br>Thibault Sottiaux says the scaled-agent infrastructure behind ChatGPT Work is now wrapped as an API that developers can start using quickly. This shifts agent deployment from bespoke orchestration toward a platform primitive.<br><br>Source: <a href="https://x.com/thsottiaux/status/2098238138334548260">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Deployment systems feel agent pressure</strong><br><br>Guillermo Rauch says Vercel now handles roughly 10 million deployments per day and sped up its global metadata path by 91% at p99. Agentic deployments are stressing the same infrastructure that routes, rolls back and configures the modern web.<br><br>Source: <a href="https://x.com/rauchg/status/2098091056302833837">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Automation creates work too</strong><br><br>Dan Shipper critiques analyses that assume jobs decompose neatly into tasks and automation always reduces human labor. His field note is useful for AI policy: new tools often create new tasks, making economic impact harder to model than simple substitution curves suggest.<br><br>Source: <a href="https://x.com/danshipper/status/2097758891270697101">Dan Shipper</a></td>
+    <td colspan="2"><strong>AI may need to measure the path, not just the answer</strong><br><br>Madhu Guru argues that strong evals should grade the steps an agent takes, not only the final result. Two agents can reach the same answer, but the one with cleaner retrieval, fewer tool calls and fewer recoveries is the one a production team should trust.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2098064969464217720">Madhu Guru</a></td>
   </tr>
 </table>
 
