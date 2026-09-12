@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 013 - Friday, September 11, 2026</sub>
+  <sub>Vol. 014 - Saturday, September 12, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Enterprise agents expose a security agenda</strong><br><br>Aaron Levie reports that enterprise leaders are focused on cyber risk, model choice, agent identity, workflow redesign and weak eval practices. The field note is a useful map of where AI adoption is moving from demos into operational architecture.<br><br>Source: <a href="https://x.com/levie/status/2098218284139311615">Aaron Levie</a></td>
-    <td width="50%"><strong>Production AI code needs guardrails</strong><br><br>Boris Cherny argues that throwaway prototypes can be treated as black boxes, but production code written by Claude should clear a higher bar. His checklist points to linting, tests, end-to-end runs, fuzzing, reviews and codebase-specific skills as the new baseline.<br><br>Source: <a href="https://x.com/bcherny/status/2098217573276131577">Boris Cherny</a></td>
+    <td width="50%"><strong>Astra week becomes a release train</strong><br><br>Thibault Sottiaux lists an Astra-powered week spanning Images 2.5, GPT-Live-1, Agents API, Data Agent and ChatGPT for Financial Services. The signal is cadence: frontier models are now launch platforms feeding many product surfaces at once.<br><br>Source: <a href="https://x.com/thsottiaux/status/2098639827084480864">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Astra quality fixes move into public ops</strong><br><br>Thibault Sottiaux says OpenAI found and fixed skill-triggering issues, an opt-in context experiment that caused early stops, and misconfigured engines degrading long-tail traffic. The interesting part is operational transparency: model quality now includes rollout telemetry, routing and community debugging.<br><br>Source: <a href="https://x.com/thsottiaux/status/2098612714704891959">Thibault Sottiaux</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent infrastructure becomes an API</strong><br><br>Thibault Sottiaux says the scaled-agent infrastructure behind ChatGPT Work is now wrapped as an API that developers can start using quickly. This shifts agent deployment from bespoke orchestration toward a platform primitive.<br><br>Source: <a href="https://x.com/thsottiaux/status/2098238138334548260">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Deployment systems feel agent pressure</strong><br><br>Guillermo Rauch says Vercel now handles roughly 10 million deployments per day and sped up its global metadata path by 91% at p99. Agentic deployments are stressing the same infrastructure that routes, rolls back and configures the modern web.<br><br>Source: <a href="https://x.com/rauchg/status/2098091056302833837">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Plugin evals become compatibility checks</strong><br><br>Thariq says Claude Code plugins can now initialize evals to see whether skills still work after model releases. As agent ecosystems mature, extensions need regression tests just like software libraries.<br><br>Source: <a href="https://x.com/trq212/status/2098531560643539440">Thariq</a></td>
+    <td width="50%"><strong>AI gateways look like the new CDN layer</strong><br><br>Guillermo Rauch says Tailscale's model router runs on Vercel AI Gateway and argues that going direct to model origin is brittle. Routing, fallbacks and cost controls are becoming the network layer for AI apps.<br><br>Source: <a href="https://x.com/rauchg/status/2098531157230969062">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>AI may need to measure the path, not just the answer</strong><br><br>Madhu Guru argues that strong evals should grade the steps an agent takes, not only the final result. Two agents can reach the same answer, but the one with cleaner retrieval, fewer tool calls and fewer recoveries is the one a production team should trust.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2098064969464217720">Madhu Guru</a></td>
+    <td colspan="2"><strong>Enterprise agents need normal file primitives</strong><br><br>Aaron Levie highlights Box mounted directly into agent sandboxes so agents can read and write files on their own computer. The move is mundane in the right way: enterprise agents need the same storage and permission primitives that human workers already rely on.<br><br>Source: <a href="https://x.com/levie/status/2098478938003841123">Aaron Levie</a></td>
   </tr>
 </table>
 
