@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 014 - Saturday, September 12, 2026</sub>
+  <sub>Vol. 015 - Sunday, September 13, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Astra week becomes a release train</strong><br><br>Thibault Sottiaux lists an Astra-powered week spanning Images 2.5, GPT-Live-1, Agents API, Data Agent and ChatGPT for Financial Services. The signal is cadence: frontier models are now launch platforms feeding many product surfaces at once.<br><br>Source: <a href="https://x.com/thsottiaux/status/2098639827084480864">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Astra quality fixes move into public ops</strong><br><br>Thibault Sottiaux says OpenAI found and fixed skill-triggering issues, an opt-in context experiment that caused early stops, and misconfigured engines degrading long-tail traffic. The interesting part is operational transparency: model quality now includes rollout telemetry, routing and community debugging.<br><br>Source: <a href="https://x.com/thsottiaux/status/2098612714704891959">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>AI work may need pacing, not just speed</strong><br><br>Zara Zhang argues that as AI accelerates output, teams still need cycles for framing, judgment and taste. The practical lesson is that better agents should protect human attention, not simply compress every task into more parallel motion.<br><br>Source: <a href="https://x.com/zarazhangrui">Zara Zhang</a></td>
+    <td width="50%"><strong>Evaluators move inside the product loop</strong><br><br>Boris Cherny points to embedded evaluation as a way to catch regressions and improve agent behavior continuously. The line between tests, telemetry and product UX is blurring as AI systems become harder to validate with one-off benchmarks.<br><br>Source: <a href="https://x.com/bcherny">Boris Cherny</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Plugin evals become compatibility checks</strong><br><br>Thariq says Claude Code plugins can now initialize evals to see whether skills still work after model releases. As agent ecosystems mature, extensions need regression tests just like software libraries.<br><br>Source: <a href="https://x.com/trq212/status/2098531560643539440">Thariq</a></td>
-    <td width="50%"><strong>AI gateways look like the new CDN layer</strong><br><br>Guillermo Rauch says Tailscale's model router runs on Vercel AI Gateway and argues that going direct to model origin is brittle. Routing, fallbacks and cost controls are becoming the network layer for AI apps.<br><br>Source: <a href="https://x.com/rauchg/status/2098531157230969062">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Agent security becomes a product surface</strong><br><br>Alex Albert highlights agent safeguards as a layer that needs to operate across tools, sessions and enterprise environments. As agents gain write access and memory, security can no longer sit outside the workflow; it has to be visible in the product itself.<br><br>Source: <a href="https://x.com/alexalbert__">Alex Albert</a></td>
+    <td width="50%"><strong>Model routing becomes application infrastructure</strong><br><br>Guillermo Rauch continues to frame AI gateways as the reliability layer between apps and model providers. For builders, routing, observability, fallback behavior and cost controls are becoming as central as hosting and CDNs were for the web.<br><br>Source: <a href="https://x.com/rauchg">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Enterprise agents need normal file primitives</strong><br><br>Aaron Levie highlights Box mounted directly into agent sandboxes so agents can read and write files on their own computer. The move is mundane in the right way: enterprise agents need the same storage and permission primitives that human workers already rely on.<br><br>Source: <a href="https://x.com/levie/status/2098478938003841123">Aaron Levie</a></td>
+    <td colspan="2"><strong>Enterprise AI shifts from demos to governance</strong><br><br>Aaron Levie keeps pushing the view that enterprise adoption depends on identity, permissions, file access, audit trails and process redesign. The signal is steady: the next AI bottleneck is less about whether models can act, and more about whether companies can let them act safely.<br><br>Source: <a href="https://x.com/levie">Aaron Levie</a></td>
   </tr>
 </table>
 
