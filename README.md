@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 015 - Sunday, September 13, 2026</sub>
+  <sub>Vol. 016 - Monday, September 14, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>AI work may need pacing, not just speed</strong><br><br>Zara Zhang argues that as AI accelerates output, teams still need cycles for framing, judgment and taste. The practical lesson is that better agents should protect human attention, not simply compress every task into more parallel motion.<br><br>Source: <a href="https://x.com/zarazhangrui">Zara Zhang</a></td>
-    <td width="50%"><strong>Evaluators move inside the product loop</strong><br><br>Boris Cherny points to embedded evaluation as a way to catch regressions and improve agent behavior continuously. The line between tests, telemetry and product UX is blurring as AI systems become harder to validate with one-off benchmarks.<br><br>Source: <a href="https://x.com/bcherny">Boris Cherny</a></td>
+    <td width="50%"><strong>Frontier AI safety moves toward live development controls</strong><br><br>Sam Altman says frontier labs should build safety cases before major reinforcement-learning runs, not only before model releases. The important shift is from post-hoc deployment review toward monitoring and alignment work during capability development itself.<br><br>Source: <a href="https://x.com/sama/status/2099348812305473766">Sam Altman</a></td>
+    <td width="50%"><strong>AI progress gets a narrow-middle-path framing</strong><br><br>Sam Altman warns about both loss of control and excessive concentration of power, arguing that AI must serve people while avoiding single-lab or single-country dominance. The message reframes pacing as a safety and governance tool, not a stop sign.<br><br>Source: <a href="https://x.com/sama/status/2099352016988614852">Sam Altman</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent security becomes a product surface</strong><br><br>Alex Albert highlights agent safeguards as a layer that needs to operate across tools, sessions and enterprise environments. As agents gain write access and memory, security can no longer sit outside the workflow; it has to be visible in the product itself.<br><br>Source: <a href="https://x.com/alexalbert__">Alex Albert</a></td>
-    <td width="50%"><strong>Model routing becomes application infrastructure</strong><br><br>Guillermo Rauch continues to frame AI gateways as the reliability layer between apps and model providers. For builders, routing, observability, fallback behavior and cost controls are becoming as central as hosting and CDNs were for the web.<br><br>Source: <a href="https://x.com/rauchg">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Astra still exposes execution gaps</strong><br><br>Zara Zhang flags a frustrating pattern where Astra acknowledges a correction but does not immediately act on it. The small UX bug captures a larger agent problem: agreement is not completion, and models need stronger action-follow-through loops.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2099348631291883945">Zara Zhang</a></td>
+    <td width="50%"><strong>AI coding access swings back toward free</strong><br><br>Amjad Masad says it was painful to see users priced out of AI coding, but that it is now free to build again. The broader signal is competitive pressure around developer access: pricing and quotas are becoming strategic product levers.<br><br>Source: <a href="https://x.com/amasad/status/2099197117013340450">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Enterprise AI shifts from demos to governance</strong><br><br>Aaron Levie keeps pushing the view that enterprise adoption depends on identity, permissions, file access, audit trails and process redesign. The signal is steady: the next AI bottleneck is less about whether models can act, and more about whether companies can let them act safely.<br><br>Source: <a href="https://x.com/levie">Aaron Levie</a></td>
+    <td colspan="2"><strong>AI adoption is still earlier than the discourse suggests</strong><br><br>Peter Yang points to Brex CEO Pedro Franceschi's adoption chart showing that most people still have not used AI, and effective agent use remains tiny. The reminder matters for builders: the frontier is moving fast, but mainstream usage is still in distribution, education and habit-formation mode.<br><br>Source: <a href="https://x.com/petergyang/status/2099200231820963891">Peter Yang</a></td>
   </tr>
 </table>
 
