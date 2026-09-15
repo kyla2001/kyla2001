@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 016 - Monday, September 14, 2026</sub>
+  <sub>Vol. 017 - Tuesday, September 15, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Frontier AI safety moves toward live development controls</strong><br><br>Sam Altman says frontier labs should build safety cases before major reinforcement-learning runs, not only before model releases. The important shift is from post-hoc deployment review toward monitoring and alignment work during capability development itself.<br><br>Source: <a href="https://x.com/sama/status/2099348812305473766">Sam Altman</a></td>
-    <td width="50%"><strong>AI progress gets a narrow-middle-path framing</strong><br><br>Sam Altman warns about both loss of control and excessive concentration of power, arguing that AI must serve people while avoiding single-lab or single-country dominance. The message reframes pacing as a safety and governance tool, not a stop sign.<br><br>Source: <a href="https://x.com/sama/status/2099352016988614852">Sam Altman</a></td>
+    <td width="50%"><strong>Agent swarms become the new workload forecast</strong><br><br>Aaron Levie argues that agent swarms, better computer use, new APIs and vertical enterprise agents will push professional automation far beyond today's prompt-by-prompt mental model. The key signal is scale: agent work may be 100x the volume of what humans currently ask for in sessions.<br><br>Source: <a href="https://x.com/levie/status/2099739019517235618">Aaron Levie</a></td>
+    <td width="50%"><strong>Claude containment gets a public engineering map</strong><br><br>Anthropic Engineering published a detailed account of how it contains Claude across products, from gVisor execution to sandboxes, VM boundaries, egress controls and auto-mode safeguards. Agent safety is being framed as environment design plus model defenses, not either one alone.<br><br>Source: <a href="https://www.anthropic.com/engineering/how-we-contain-claude">Anthropic Engineering</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Astra still exposes execution gaps</strong><br><br>Zara Zhang flags a frustrating pattern where Astra acknowledges a correction but does not immediately act on it. The small UX bug captures a larger agent problem: agreement is not completion, and models need stronger action-follow-through loops.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2099348631291883945">Zara Zhang</a></td>
-    <td width="50%"><strong>AI coding access swings back toward free</strong><br><br>Amjad Masad says it was painful to see users priced out of AI coding, but that it is now free to build again. The broader signal is competitive pressure around developer access: pricing and quotas are becoming strategic product levers.<br><br>Source: <a href="https://x.com/amasad/status/2099197117013340450">Amjad Masad</a></td>
+    <td width="50%"><strong>Gemini experiments move toward personal intelligence</strong><br><br>Josh Woodward says Google's Gemini power-user group has tested more than 20 early features, with a new cohort getting access to Daily Brief and Personal Intelligence work. The product direction is clear: assistants are becoming proactive personal context systems.<br><br>Source: <a href="https://x.com/joshwoodward/status/2099558443078365287">Josh Woodward</a></td>
+    <td width="50%"><strong>Verifiers and skills become agent frameworks</strong><br><br>Guillermo Rauch says agents are only as strong as the proof-checkers, compilers, type systems and linters around them, pointing to shadcn/lint as a design-system verifier. The emerging stack treats skills and verifiers as infrastructure, not optional polish.<br><br>Source: <a href="https://x.com/rauchg/status/2099540886409695346">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>AI adoption is still earlier than the discourse suggests</strong><br><br>Peter Yang points to Brex CEO Pedro Franceschi's adoption chart showing that most people still have not used AI, and effective agent use remains tiny. The reminder matters for builders: the frontier is moving fast, but mainstream usage is still in distribution, education and habit-formation mode.<br><br>Source: <a href="https://x.com/petergyang/status/2099200231820963891">Peter Yang</a></td>
+    <td colspan="2"><strong>Claude Code opens a modding surface</strong><br><br>Boris Cherny says Claude Mods are landing, with community demos already pushing Claude Code into playful and technical extensions. The bigger story is platformization: coding agents are gaining plugin-like surfaces where users can shape behavior instead of waiting for core releases.<br><br>Source: <a href="https://x.com/bcherny/status/2099551291601248485">Boris Cherny</a></td>
   </tr>
 </table>
 
