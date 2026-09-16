@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 017 - Tuesday, September 15, 2026</sub>
+  <sub>Vol. 018 - Wednesday, September 16, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Agent swarms become the new workload forecast</strong><br><br>Aaron Levie argues that agent swarms, better computer use, new APIs and vertical enterprise agents will push professional automation far beyond today's prompt-by-prompt mental model. The key signal is scale: agent work may be 100x the volume of what humans currently ask for in sessions.<br><br>Source: <a href="https://x.com/levie/status/2099739019517235618">Aaron Levie</a></td>
-    <td width="50%"><strong>Claude containment gets a public engineering map</strong><br><br>Anthropic Engineering published a detailed account of how it contains Claude across products, from gVisor execution to sandboxes, VM boundaries, egress controls and auto-mode safeguards. Agent safety is being framed as environment design plus model defenses, not either one alone.<br><br>Source: <a href="https://www.anthropic.com/engineering/how-we-contain-claude">Anthropic Engineering</a></td>
+    <td width="50%"><strong>Claude moves deeper into small-business operations</strong><br><br>Claude Blog says its small-business product now has 43 workflows and 27 new integrations across Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square, Stripe and Zapier. The notable shift is from assistant as sidecar to operating layer for owners' daily systems.<br><br>Source: <a href="https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs">Claude Blog</a></td>
+    <td width="50%"><strong>Salesforce arrives inside Claude's sales desk</strong><br><br>Claude's official account says Salesforce in Claude is now in beta, bringing accounts, opportunities and pipeline data into the assistant with 37 pre-built sales skills. Enterprise AI is becoming less about blank chat and more about governed, role-specific workbenches.<br><br>Source: <a href="https://x.com/claudeai/status/2099876514330206578">Claude</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Gemini experiments move toward personal intelligence</strong><br><br>Josh Woodward says Google's Gemini power-user group has tested more than 20 early features, with a new cohort getting access to Daily Brief and Personal Intelligence work. The product direction is clear: assistants are becoming proactive personal context systems.<br><br>Source: <a href="https://x.com/joshwoodward/status/2099558443078365287">Josh Woodward</a></td>
-    <td width="50%"><strong>Verifiers and skills become agent frameworks</strong><br><br>Guillermo Rauch says agents are only as strong as the proof-checkers, compilers, type systems and linters around them, pointing to shadcn/lint as a design-system verifier. The emerging stack treats skills and verifiers as infrastructure, not optional polish.<br><br>Source: <a href="https://x.com/rauchg/status/2099540886409695346">Guillermo Rauch</a></td>
+    <td width="50%"><strong>MCP makes a case against the old CLI boundary</strong><br><br>Thariq argues that MCPs are becoming better than CLIs for many integrations as models improve at tool calling and stateless MCP lowers coordination friction. The practical advice is sharper tool surfaces: add query and filtering parameters where models need to compose data.<br><br>Source: <a href="https://x.com/trq212/status/2099958388230873165">Thariq</a></td>
+    <td width="50%"><strong>Vercel turns lab work into a public product signal</strong><br><br>Guillermo Rauch introduced Vercel Labs as the home for Vercel's in-public research and experimentation. For developer platforms, public experiments are becoming strategy: they show where infrastructure is heading before it hardens into product defaults.<br><br>Source: <a href="https://x.com/rauchg/status/2099911447598059812">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Claude Code opens a modding surface</strong><br><br>Boris Cherny says Claude Mods are landing, with community demos already pushing Claude Code into playful and technical extensions. The bigger story is platformization: coding agents are gaining plugin-like surfaces where users can shape behavior instead of waiting for core releases.<br><br>Source: <a href="https://x.com/bcherny/status/2099551291601248485">Boris Cherny</a></td>
+    <td colspan="2"><strong>The application layer gets the enterprise AI burden</strong><br><br>On Training Data, Box CEO Aaron Levie argues the hard part is bridging model capability into real workflows: permissions, data context, human review, change management and domain-specific evals. The episode frames enterprise AI diffusion as software architecture, not just model selection.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8">Training Data</a></td>
   </tr>
 </table>
 
