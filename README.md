@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 018 - Wednesday, September 16, 2026</sub>
+  <sub>Vol. 019 - Thursday, September 17, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude moves deeper into small-business operations</strong><br><br>Claude Blog says its small-business product now has 43 workflows and 27 new integrations across Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square, Stripe and Zapier. The notable shift is from assistant as sidecar to operating layer for owners' daily systems.<br><br>Source: <a href="https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs">Claude Blog</a></td>
-    <td width="50%"><strong>Salesforce arrives inside Claude's sales desk</strong><br><br>Claude's official account says Salesforce in Claude is now in beta, bringing accounts, opportunities and pipeline data into the assistant with 37 pre-built sales skills. Enterprise AI is becoming less about blank chat and more about governed, role-specific workbenches.<br><br>Source: <a href="https://x.com/claudeai/status/2099876514330206578">Claude</a></td>
+    <td width="50%"><strong>Claude folds chat, Cowork and creation into one desk</strong><br><br>Claude Blog says chat and Cowork are merging, with Docs, Slides and Design available inside the same conversation. The product now routes between quick answers and longer agentic work while preserving projects, connectors and skills, reducing the cost of choosing a mode before work begins.<br><br>Source: <a href="https://claude.com/blog/cowork-is-now-claude">Claude Blog</a></td>
+    <td width="50%"><strong>A faster model takes the safety-review seat</strong><br><br>Guillermo Rauch says the fx command tool now has a reviewer inspect every command in auto mode. Its Jev reviewer is reported to be up to 18 times faster at p95 and more accurate, pointing toward small, specialized models as practical control layers for agentic systems.<br><br>Source: <a href="https://x.com/rauchg/status/2100307962262872105">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>MCP makes a case against the old CLI boundary</strong><br><br>Thariq argues that MCPs are becoming better than CLIs for many integrations as models improve at tool calling and stateless MCP lowers coordination friction. The practical advice is sharper tool surfaces: add query and filtering parameters where models need to compose data.<br><br>Source: <a href="https://x.com/trq212/status/2099958388230873165">Thariq</a></td>
-    <td width="50%"><strong>Vercel turns lab work into a public product signal</strong><br><br>Guillermo Rauch introduced Vercel Labs as the home for Vercel's in-public research and experimentation. For developer platforms, public experiments are becoming strategy: they show where infrastructure is heading before it hardens into product defaults.<br><br>Source: <a href="https://x.com/rauchg/status/2099911447598059812">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Agent tools move beyond the bash-shaped world</strong><br><br>Thariq argues that reliable tool calling no longer requires wrapping every capability in a shell or filesystem metaphor. Direct APIs can better match the job, while optional sandboxes and bash remain useful for generated code that must actually run.<br><br>Source: <a href="https://x.com/trq212/status/2100315535758217422">Thariq</a></td>
+    <td width="50%"><strong>Reusable skills turn one podcast into six assets</strong><br><br>Peter Yang shared an eight-skill production system that researches guests, prepares interviews, reviews transcripts and orchestrates six finished outputs. The workflow suggests stronger models have not erased reusable instructions; they make editorial judgment easier to encode and repeat.<br><br>Source: <a href="https://x.com/petergyang/status/2100328939034128856">Peter Yang</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>The application layer gets the enterprise AI burden</strong><br><br>On Training Data, Box CEO Aaron Levie argues the hard part is bridging model capability into real workflows: permissions, data context, human review, change management and domain-specific evals. The episode frames enterprise AI diffusion as software architecture, not just model selection.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8">Training Data</a></td>
+    <td colspan="2"><strong>Cheap classification models find an enterprise opening</strong><br><br>Aaron Levie highlights a broad class of high-volume work suited to fast, low-cost models: data classification, workflow routing, domain decisions and safety checks. The enterprise opportunity may be less glamorous than a general assistant, but these narrow judgments are the gates inside many real processes.<br><br>Source: <a href="https://x.com/levie/status/2100448648672993540">Aaron Levie</a></td>
   </tr>
 </table>
 
