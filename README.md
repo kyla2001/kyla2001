@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 019 - Thursday, September 17, 2026</sub>
+  <sub>Vol. 020 - Friday, September 18, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude folds chat, Cowork and creation into one desk</strong><br><br>Claude Blog says chat and Cowork are merging, with Docs, Slides and Design available inside the same conversation. The product now routes between quick answers and longer agentic work while preserving projects, connectors and skills, reducing the cost of choosing a mode before work begins.<br><br>Source: <a href="https://claude.com/blog/cowork-is-now-claude">Claude Blog</a></td>
-    <td width="50%"><strong>A faster model takes the safety-review seat</strong><br><br>Guillermo Rauch says the fx command tool now has a reviewer inspect every command in auto mode. Its Jev reviewer is reported to be up to 18 times faster at p95 and more accurate, pointing toward small, specialized models as practical control layers for agentic systems.<br><br>Source: <a href="https://x.com/rauchg/status/2100307962262872105">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Claude Projects turns sessions into a managed team</strong><br><br>Claude's new Projects experience gives each project shared memory and a coordinating agent that can split work into parallel threads. Tasks continue in the cloud while the computer is offline, shifting coding work from managing individual sessions toward supervising a persistent project-level system.<br><br>Source: <a href="https://x.com/trq212/status/2100638355872706571">Thariq</a></td>
+    <td width="50%"><strong>Google gives family logistics its own agent</strong><br><br>Google Labs introduced CC, a shared agent for up to five family members. It can synchronize calendars and tasks, prepare a daily brief, coordinate through Google Chat, remember household preferences and draft paperwork under user direction.<br><br>Source: <a href="https://x.com/GoogleLabs/status/2100653821907366366">Google Labs</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent tools move beyond the bash-shaped world</strong><br><br>Thariq argues that reliable tool calling no longer requires wrapping every capability in a shell or filesystem metaphor. Direct APIs can better match the job, while optional sandboxes and bash remain useful for generated code that must actually run.<br><br>Source: <a href="https://x.com/trq212/status/2100315535758217422">Thariq</a></td>
-    <td width="50%"><strong>Reusable skills turn one podcast into six assets</strong><br><br>Peter Yang shared an eight-skill production system that researches guests, prepares interviews, reviews transcripts and orchestrates six finished outputs. The workflow suggests stronger models have not erased reusable instructions; they make editorial judgment easier to encode and repeat.<br><br>Source: <a href="https://x.com/petergyang/status/2100328939034128856">Peter Yang</a></td>
+    <td width="50%"><strong>Software output outruns the old deployment clock</strong><br><br>Guillermo Rauch says Vercel recorded 1.4 billion deployments in ten months after taking a decade to reach its first billion. With artifacts now reaching a domain and global delivery in about a second, deployment infrastructure is being reshaped for abundant, small and sometimes disposable software.<br><br>Source: <a href="https://x.com/rauchg/status/2100698591417499972">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Agents begin to dominate the inference ledger</strong><br><br>Aaron Levie argues that agents already account for most inference and will consume an increasing share of tokens as they inspect code, process workflow data, conduct research and review system events in the background. The next compute surge may come from persistent work, not visible chat.<br><br>Source: <a href="https://x.com/levie/status/2100799668573946191">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Cheap classification models find an enterprise opening</strong><br><br>Aaron Levie highlights a broad class of high-volume work suited to fast, low-cost models: data classification, workflow routing, domain decisions and safety checks. The enterprise opportunity may be less glamorous than a general assistant, but these narrow judgments are the gates inside many real processes.<br><br>Source: <a href="https://x.com/levie/status/2100448648672993540">Aaron Levie</a></td>
+    <td colspan="2"><strong>A one-person site recruits an autonomous operator</strong><br><br>Nikunj Kothari described a healthy-snack catalog maintained by a daily Claude agent that finds products, removes dead listings, studies search performance, drafts content and seeks backlinks. The site reportedly reached roughly 6,000 impressions a day, offering a concrete test of autonomous digital operations with human quality control.<br><br>Source: <a href="https://x.com/nikunj/status/2100714665571737885">Nikunj Kothari</a></td>
   </tr>
 </table>
 
