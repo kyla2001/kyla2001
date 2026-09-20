@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 021 - Saturday, September 19, 2026</sub>
+  <sub>Vol. 022 - Sunday, September 20, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude Code opens the door to AGENTS.md</strong><br><br>Claude Code 2.1.277 now reads AGENTS.md when a directory has no CLAUDE.md, with the behavior configurable by users. The support is built on an upcoming mods system, suggesting repository instructions are becoming portable infrastructure rather than a single-tool convention.<br><br>Source: <a href="https://x.com/trq212/status/2101009392611278961">Thariq</a></td>
-    <td width="50%"><strong>Diffusion makes its bid for language inference</strong><br><br>On No Priors, Inception CEO Stefano Ermon argues that diffusion language models can generate many tokens in parallel instead of moving strictly left to right. His team reports GPT-2-scale quality parity with roughly tenfold faster text generation, framing inference efficiency as the next architectural contest.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
+    <td width="50%"><strong>Washington sketches an AI Force with few details</strong><br><br>Axios reports that President Trump plans an AI Force modeled on the Space Force and intends to name a new AI czar. Its mandate, budget and place in government remain undefined, while the proposal sharpens the divide between acceleration-first policy and growing calls for stronger safety oversight.<br><br>Source: <a href="https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety">Axios</a></td>
+    <td width="50%"><strong>Consumer products prepare for an agent audience</strong><br><br>Aaron Levie argues that personal agents will redirect product competition from winning human attention to becoming easy for agents to use. APIs, MCP tools, navigable sites and reliable transactions may determine which services agents choose for shopping, travel and local tasks.<br><br>Source: <a href="https://x.com/levie/status/2101427997597446636">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Open models take the token-volume lead</strong><br><br>Guillermo Rauch reports that open models reached 78.4% of token volume on Vercel AI Gateway during a record day, versus 21.6% for closed models. Spending remains a different picture, but Moonshot AI, DeepSeek and Z.ai together reportedly surpassed OpenAI's inference spend on the gateway.<br><br>Source: <a href="https://x.com/rauchg/status/2101186741042663579">Guillermo Rauch</a></td>
-    <td width="50%"><strong>A personal agent enters the customer-service queue</strong><br><br>Peter Yang says Meta's Muse called providers and negotiated more than $800 in annual cable and phone savings, alongside running news and habit workflows. The demonstration moves personal agents beyond reminders into transactions, while exposing how unprepared support systems may be for machine callers.<br><br>Source: <a href="https://x.com/petergyang/status/2101033599319613533">Peter Yang</a></td>
+    <td width="50%"><strong>A plain text taste file becomes a recommender</strong><br><br>Peter Yang described pairing a Markdown log of ratings with a reusable skill that scans new releases and produces weekly movie, television and book suggestions. The small workflow shows how personal context can outperform a generic recommendation feed without requiring a heavyweight application.<br><br>Source: <a href="https://x.com/petergyang/status/2101503916743749878">Peter Yang</a></td>
+    <td width="50%"><strong>Recursive AI turns toward scientific discovery</strong><br><br>On The MAD Podcast, Richard Socher argues that AI can reconnect increasingly fragmented scientific fields and improve itself where experiments can be simulated or verified. The thesis is ambitious but concrete: automated exploration may accelerate proteins, materials, medicine and other domains with measurable feedback.<br><br>Source: <a href="https://www.youtube.com/@DataDrivenNYC/videos">The MAD Podcast</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Split-second classification finds a business workflow</strong><br><br>Aaron Levie demonstrated Jev reading an incident report from Box, judging customer impact and severity, routing the file and attaching structured metadata almost instantly. The pattern points to a new class of inexpensive automation for claims, contracts, loans, security reviews and log analysis.<br><br>Source: <a href="https://x.com/levie/status/2101007708044574906">Aaron Levie</a></td>
+    <td colspan="2"><strong>Thorium's hidden crystal sites come into focus</strong><br><br>Researchers used laser Mossbauer spectroscopy to identify four microscopic sites occupied by thorium-229 in calcium fluoride and measure how each environment alters its nuclear transition. The result provides material-level guidance for compact solid-state nuclear clocks used in navigation, communications and precision measurement.<br><br>Source: <a href="https://www.okayama-u.ac.jp/eng/research_highlights/index_id272.html">Okayama University / JST</a></td>
   </tr>
 </table>
 
