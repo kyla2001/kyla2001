@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 022 - Sunday, September 20, 2026</sub>
+  <sub>Vol. 023 - Monday, September 21, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Washington sketches an AI Force with few details</strong><br><br>Axios reports that President Trump plans an AI Force modeled on the Space Force and intends to name a new AI czar. Its mandate, budget and place in government remain undefined, while the proposal sharpens the divide between acceleration-first policy and growing calls for stronger safety oversight.<br><br>Source: <a href="https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety">Axios</a></td>
-    <td width="50%"><strong>Consumer products prepare for an agent audience</strong><br><br>Aaron Levie argues that personal agents will redirect product competition from winning human attention to becoming easy for agents to use. APIs, MCP tools, navigable sites and reliable transactions may determine which services agents choose for shopping, travel and local tasks.<br><br>Source: <a href="https://x.com/levie/status/2101427997597446636">Aaron Levie</a></td>
+    <td width="50%"><strong>The personal-agent race exposes a portability gap</strong><br><br>Peter Yang compares Muse, ChatGPT, Grok Bot, Google and Siri, arguing that no provider has yet solved multiplayer use across home and work. His practical conclusion is more durable than the ranking: keep personal skills and context files portable as users move between rapidly changing agent harnesses.<br><br>Source: <a href="https://x.com/petergyang/status/2101862331345154469">Peter Yang</a></td>
+    <td width="50%"><strong>Agents bring exhaustive QA to the release loop</strong><br><br>Guillermo Rauch describes an agent reproducing a mobile in-app browser defect, creating an ephemeral deployment, testing it in an iPhone simulator, fixing the issue and verifying the result. The example shows how persistent automated testing can turn edge-case investigation into a routine software workflow.<br><br>Source: <a href="https://x.com/rauchg/status/2101846262840799251">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>A plain text taste file becomes a recommender</strong><br><br>Peter Yang described pairing a Markdown log of ratings with a reusable skill that scans new releases and produces weekly movie, television and book suggestions. The small workflow shows how personal context can outperform a generic recommendation feed without requiring a heavyweight application.<br><br>Source: <a href="https://x.com/petergyang/status/2101503916743749878">Peter Yang</a></td>
-    <td width="50%"><strong>Recursive AI turns toward scientific discovery</strong><br><br>On The MAD Podcast, Richard Socher argues that AI can reconnect increasingly fragmented scientific fields and improve itself where experiments can be simulated or verified. The thesis is ambitious but concrete: automated exploration may accelerate proteins, materials, medicine and other domains with measurable feedback.<br><br>Source: <a href="https://www.youtube.com/@DataDrivenNYC/videos">The MAD Podcast</a></td>
+    <td width="50%"><strong>Stablecoins court the machine-to-machine economy</strong><br><br>On No Priors, Coinbase CEO Brian Armstrong says most observed agent-commerce payments are below 30 cents, where card fees become impractical. Coinbase is building segregated spend accounts and self-custodial wallets so agents can pay for data, services and infrastructure with human-defined limits.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
+    <td width="50%"><strong>A language-data coalition targets AI's global blind spots</strong><br><br>The Gates Foundation is convening 60 organizations, including Anthropic, Google and the OpenAI Foundation, to improve datasets for underrepresented languages. AP reports the five-year effort aims to reach more than 3 billion people while giving communities a role in how cultural and linguistic data is collected.<br><br>Source: <a href="https://apnews.com/article/artificial-intelligence-anthropic-openai-gates-aefb021bede3b02c83890f65cd540fd0">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Thorium's hidden crystal sites come into focus</strong><br><br>Researchers used laser Mossbauer spectroscopy to identify four microscopic sites occupied by thorium-229 in calcium fluoride and measure how each environment alters its nuclear transition. The result provides material-level guidance for compact solid-state nuclear clocks used in navigation, communications and precision measurement.<br><br>Source: <a href="https://www.okayama-u.ac.jp/eng/research_highlights/index_id272.html">Okayama University / JST</a></td>
+    <td colspan="2"><strong>Washington and Beijing discuss an AI incident hotline</strong><br><br>The United States has proposed a notification mechanism for AI incidents that could affect national security during talks with China, according to AP. Details remain limited, but even a narrow transparency channel between the two largest AI powers could establish a model for reducing miscalculation without pausing competition.<br><br>Source: <a href="https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd">AP News</a></td>
   </tr>
 </table>
 
