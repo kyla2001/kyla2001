@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 023 - Monday, September 21, 2026</sub>
+  <sub>Vol. 024 - Tuesday, September 22, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>The personal-agent race exposes a portability gap</strong><br><br>Peter Yang compares Muse, ChatGPT, Grok Bot, Google and Siri, arguing that no provider has yet solved multiplayer use across home and work. His practical conclusion is more durable than the ranking: keep personal skills and context files portable as users move between rapidly changing agent harnesses.<br><br>Source: <a href="https://x.com/petergyang/status/2101862331345154469">Peter Yang</a></td>
-    <td width="50%"><strong>Agents bring exhaustive QA to the release loop</strong><br><br>Guillermo Rauch describes an agent reproducing a mobile in-app browser defect, creating an ephemeral deployment, testing it in an iPhone simulator, fixing the issue and verifying the result. The example shows how persistent automated testing can turn edge-case investigation into a routine software workflow.<br><br>Source: <a href="https://x.com/rauchg/status/2101846262840799251">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Claude's browser agent adds an action checkpoint</strong><br><br>Claude in Chrome is now generally available on paid plans with autonomous browser actions. Anthropic says probes scan web content for prompt injection and a separate classifier checks each proposed action against the user's request, combining broader access with a second layer of execution control.<br><br>Source: <a href="https://claude.com/blog/claude-in-chrome-generally-available">Claude Blog</a></td>
+    <td width="50%"><strong>Agent browsing threatens the display-ad bargain</strong><br><br>Peter Yang asks what happens when agents complete web tasks without a human ever seeing the targeted ads that fund the page. As interfaces recede, publishers may need revenue models tied to transactions, data access or agent services rather than visual attention.<br><br>Source: <a href="https://x.com/petergyang/status/2102215701255844074">Peter Yang</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Stablecoins court the machine-to-machine economy</strong><br><br>On No Priors, Coinbase CEO Brian Armstrong says most observed agent-commerce payments are below 30 cents, where card fees become impractical. Coinbase is building segregated spend accounts and self-custodial wallets so agents can pay for data, services and infrastructure with human-defined limits.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
-    <td width="50%"><strong>A language-data coalition targets AI's global blind spots</strong><br><br>The Gates Foundation is convening 60 organizations, including Anthropic, Google and the OpenAI Foundation, to improve datasets for underrepresented languages. AP reports the five-year effort aims to reach more than 3 billion people while giving communities a role in how cultural and linguistic data is collected.<br><br>Source: <a href="https://apnews.com/article/artificial-intelligence-anthropic-openai-gates-aefb021bede3b02c83890f65cd540fd0">AP News</a></td>
+    <td width="50%"><strong>Finance agents move from advice to recovery</strong><br><br>Peter Yang highlights ChatGPT Finances detecting an incorrect hotel charge, contacting support and following the case through reimbursement. The workflow shows personal finance agents shifting from analysis toward persistent transaction monitoring and resolution.<br><br>Source: <a href="https://x.com/petergyang/status/2102186174911746151">Peter Yang</a></td>
+    <td width="50%"><strong>Jev leaves the SDK and meets plain HTTP</strong><br><br>Vercel has added HTTP access to Jev through AI Gateway alongside its type-safe AI SDK interface. A standard network endpoint lowers integration friction for the fast classifier, making it easier to place lightweight model judgments inside existing services and agent workflows.<br><br>Source: <a href="https://x.com/rauchg/status/2102205684544852121">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Washington and Beijing discuss an AI incident hotline</strong><br><br>The United States has proposed a notification mechanism for AI incidents that could affect national security during talks with China, according to AP. Details remain limited, but even a narrow transparency channel between the two largest AI powers could establish a model for reducing miscalculation without pausing competition.<br><br>Source: <a href="https://apnews.com/article/bessent-ai-xi-trump-china-trade-2c7f54f07e755f506d9db9b91df282bd">AP News</a></td>
+    <td colspan="2"><strong>Agents make old software primitives more consequential</strong><br><br>Aaron Levie argues that agents may use software far more intensively than people while interfaces fade from view. That raises the value of durable systems underneath: permissioned data stores, CRM and ERP records, workflow logic, audit controls and guardrails capable of containing destructive actions.<br><br>Source: <a href="https://x.com/levie/status/2102235949430354273">Aaron Levie</a></td>
   </tr>
 </table>
 
