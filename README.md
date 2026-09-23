@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 024 - Tuesday, September 22, 2026</sub>
+  <sub>Vol. 025 - Wednesday, September 23, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude's browser agent adds an action checkpoint</strong><br><br>Claude in Chrome is now generally available on paid plans with autonomous browser actions. Anthropic says probes scan web content for prompt injection and a separate classifier checks each proposed action against the user's request, combining broader access with a second layer of execution control.<br><br>Source: <a href="https://claude.com/blog/claude-in-chrome-generally-available">Claude Blog</a></td>
-    <td width="50%"><strong>Agent browsing threatens the display-ad bargain</strong><br><br>Peter Yang asks what happens when agents complete web tasks without a human ever seeing the targeted ads that fund the page. As interfaces recede, publishers may need revenue models tied to transactions, data access or agent services rather than visual attention.<br><br>Source: <a href="https://x.com/petergyang/status/2102215701255844074">Peter Yang</a></td>
+    <td width="50%"><strong>OpenAI cuts the price floor beneath new models</strong><br><br>OpenAI's Thibault Sottiaux says GPT-6 Sol and Luna are now available with broad capability and writing improvements, alongside a permanent 50% API price reduction. The launch turns efficiency into the headline: lower unit cost expands the set of workflows that can justify continuous model use.<br><br>Source: <a href="https://x.com/thsottiaux/status/2102463847714247142">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Opus 5.5 becomes Claude's paid-plan default</strong><br><br>Cat Wu says Opus 5.5 is now the default in Claude Code and the Claude app for Pro, Max and Team plans. Medium effort is positioned near Fable 5.1 intelligence with greater speed, while usage limits are expected to stretch 25% further than Opus 5.<br><br>Source: <a href="https://x.com/_catwu/status/2102437713781944397">Cat Wu</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Finance agents move from advice to recovery</strong><br><br>Peter Yang highlights ChatGPT Finances detecting an incorrect hotel charge, contacting support and following the case through reimbursement. The workflow shows personal finance agents shifting from analysis toward persistent transaction monitoring and resolution.<br><br>Source: <a href="https://x.com/petergyang/status/2102186174911746151">Peter Yang</a></td>
-    <td width="50%"><strong>Jev leaves the SDK and meets plain HTTP</strong><br><br>Vercel has added HTTP access to Jev through AI Gateway alongside its type-safe AI SDK interface. A standard network endpoint lowers integration friction for the fast classifier, making it easier to place lightweight model judgments inside existing services and agent workflows.<br><br>Source: <a href="https://x.com/rauchg/status/2102205684544852121">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Formal verification joins the AI bug hunt</strong><br><br>Boris Cherny says Opus 5.5 modeled the Claude Agent SDK in Lean and produced 16 pull requests addressing bugs and race conditions. Pairing Lean with TLA+ gave the agent a structured way to inspect concurrency, state and data flow beyond conventional test coverage.<br><br>Source: <a href="https://x.com/bcherny/status/2102543349102338309">Boris Cherny</a></td>
+    <td width="50%"><strong>Enterprise evals reward shorter, cheaper reasoning</strong><br><br>Box reports that Opus 5.5 used 63% fewer tokens, answered 42% less verbosely and ran 30% faster than Opus 5 across complex knowledge-work tests. The company also cites accuracy gains in due diligence, cloud-cost analysis, account planning and clinical data analysis.<br><br>Source: <a href="https://x.com/levie/status/2102448415775051790">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Agents make old software primitives more consequential</strong><br><br>Aaron Levie argues that agents may use software far more intensively than people while interfaces fade from view. That raises the value of durable systems underneath: permissioned data stores, CRM and ERP records, workflow logic, audit controls and guardrails capable of containing destructive actions.<br><br>Source: <a href="https://x.com/levie/status/2102235949430354273">Aaron Levie</a></td>
+    <td colspan="2"><strong>A prompt rebuilds pre-earthquake San Francisco</strong><br><br>Alex Albert used Opus 5.5 and Blender Python to reconstruct Market Street as it stood in April 1906. The prompt required a source file built from fire-insurance maps, archival film, photographs and topography, with confidence levels for each building, turning 3D generation into a traceable research workflow.<br><br>Source: <a href="https://x.com/alexalbert__/status/2102466523164274839">Alex Albert</a></td>
   </tr>
 </table>
 
