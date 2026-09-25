@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 026 - Thursday, September 24, 2026</sub>
+  <sub>Vol. 027 - Friday, September 25, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Anthropic treats containment as the hard boundary</strong><br><br>Anthropic's engineering team argues that agent safety begins with the environment, not the model. Containers, virtual machines and tightly scoped network access held up under testing, while custom proxies failed more often; every approved domain is therefore treated as a capability grant.<br><br>Source: <a href="https://www.anthropic.com/engineering/how-we-contain-claude">Anthropic Engineering</a></td>
-    <td width="50%"><strong>Managed agents split brain, hands and memory</strong><br><br>Anthropic describes an architecture that separates the model harness, execution sandbox and durable session log. The modular design keeps credentials outside the sandbox, makes components replaceable and cut median time to first token by about 60%, with an even larger gain at the tail.<br><br>Source: <a href="https://www.anthropic.com/engineering/managed-agents">Anthropic Engineering</a></td>
+    <td width="50%"><strong>AI's hidden middle layer becomes the bottleneck</strong><br><br>VAST Data CEO Renen Hallak argues that the software between chips and models now has to unify compute, storage, networking and databases for inference and agents. One AI-cloud customer reportedly raised a three-year storage forecast from 500 petabytes by another two exabytes, illustrating the scale of the data problem.<br><br>Source: <a href="https://x.com/mattturck/status/2103167531917721866">The MAD Podcast with Matt Turck</a></td>
+    <td width="50%"><strong>Model traffic fragments as OpenAI closes the gap</strong><br><br>Vercel's AI Gateway data shows Anthropic still leading its model spend, but falling from 69% to 40% over two months as OpenAI rose from 10% to 24%. Open models captured much of the remaining shift, while OpenAI moved ahead in token volume and image generation on the platform.<br><br>Source: <a href="https://x.com/rauchg/status/2103216656747262419">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Formal methods move from proof to targeted bug finding</strong><br><br>Boris Cherny narrows the practical case for formal methods in AI-assisted development: model the difficult state machine or race-prone subsystem, search for counterexamples, reproduce the failure and then fix it. The goal is focused leverage, not whole-codebase verification.<br><br>Source: <a href="https://x.com/bcherny/status/2102898067133595992">Boris Cherny</a></td>
-    <td width="50%"><strong>Voice becomes the front door to a plugin workspace</strong><br><br>Thibault Sottiaux says ChatGPT voice can now reach across connected plugins to discuss active work, check email, write code and manage a calendar. The shift makes conversation an orchestration layer for tools that previously required separate interfaces.<br><br>Source: <a href="https://x.com/thsottiaux/status/2102814202117411196">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Claude Code opens plan mode to user-defined workflows</strong><br><br>Thariq says Claude Code's plan mode is set to become a built-in mod, with support for custom prompts, shareable modes and alternate Shift+Tab behavior. The change turns a fixed planning interface into an extensible workflow that teams can shape around how they actually build.<br><br>Source: <a href="https://x.com/trq212/status/2103212051065921632">Thariq</a></td>
+    <td width="50%"><strong>Muse crosses from creation into app building</strong><br><br>Replit CEO Amjad Masad says Muse can now make applications directly on Replit. The compact announcement points to a broader convergence: creative AI products are gaining software-building capabilities, while coding platforms become the execution layer behind them.<br><br>Source: <a href="https://x.com/amasad/status/2103129037011120525">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Cloud agents get detachable storage</strong><br><br>Guillermo Rauch frames agent infrastructure as three separable layers: the model harness, the tools and computer, and the files, memory and skills. Vercel's new Drives component makes the stateful layer portable, aiming to improve cost control, security and auditability without tying it to one sandbox.<br><br>Source: <a href="https://x.com/rauchg/status/2102820148629614685">Guillermo Rauch</a></td>
+    <td colspan="2"><strong>Google Labs experiments with a daily ration of real-world plans</strong><br><br>Dreambeans gives users a fixed set of daily suggestions aimed at activities with real people in the physical world. Google Labs is testing a deliberately scarce alternative to infinite feeds: fewer prompts, refreshed each morning, designed to move attention away from the screen.<br><br>Source: <a href="https://x.com/joshwoodward/status/2103182635992514569">Josh Woodward</a></td>
   </tr>
 </table>
 
