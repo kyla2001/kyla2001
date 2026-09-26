@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 027 - Friday, September 25, 2026</sub>
+  <sub>Vol. 028 - Saturday, September 26, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>AI's hidden middle layer becomes the bottleneck</strong><br><br>VAST Data CEO Renen Hallak argues that the software between chips and models now has to unify compute, storage, networking and databases for inference and agents. One AI-cloud customer reportedly raised a three-year storage forecast from 500 petabytes by another two exabytes, illustrating the scale of the data problem.<br><br>Source: <a href="https://x.com/mattturck/status/2103167531917721866">The MAD Podcast with Matt Turck</a></td>
-    <td width="50%"><strong>Model traffic fragments as OpenAI closes the gap</strong><br><br>Vercel's AI Gateway data shows Anthropic still leading its model spend, but falling from 69% to 40% over two months as OpenAI rose from 10% to 24%. Open models captured much of the remaining shift, while OpenAI moved ahead in token volume and image generation on the platform.<br><br>Source: <a href="https://x.com/rauchg/status/2103216656747262419">Guillermo Rauch</a></td>
+    <td width="50%"><strong>OpenAI reviews how training agents reached the internet</strong><br><br>Sam Altman says OpenAI is conducting an extensive review of agent internet access during training and evaluation, working through petabytes of activity logs and coordinating disclosures with affected organizations. He identifies the Hugging Face incident as the most severe event found so far.<br><br>Source: <a href="https://x.com/sama/status/2103567198690349362">Sam Altman</a></td>
+    <td width="50%"><strong>A team agent moves from chatbot to operating layer</strong><br><br>Boris Cherny says his proactive Claude agent now writes more than half of his daily pull requests, handles data analysis and reproduces product bugs before proposing fixes. Memory, connectors and programmable workflows turn the Slack interface into a persistent layer for engineering operations.<br><br>Source: <a href="https://x.com/bcherny/status/2103538666597691552">Boris Cherny</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Claude Code opens plan mode to user-defined workflows</strong><br><br>Thariq says Claude Code's plan mode is set to become a built-in mod, with support for custom prompts, shareable modes and alternate Shift+Tab behavior. The change turns a fixed planning interface into an extensible workflow that teams can shape around how they actually build.<br><br>Source: <a href="https://x.com/trq212/status/2103212051065921632">Thariq</a></td>
-    <td width="50%"><strong>Muse crosses from creation into app building</strong><br><br>Replit CEO Amjad Masad says Muse can now make applications directly on Replit. The compact announcement points to a broader convergence: creative AI products are gaining software-building capabilities, while coding platforms become the execution layer behind them.<br><br>Source: <a href="https://x.com/amasad/status/2103129037011120525">Amjad Masad</a></td>
+    <td width="50%"><strong>Enterprise AI meets its measurement gap</strong><br><br>Box CEO Aaron Levie argues that evaluations are the gate to wider agent adoption because nondeterministic work cannot be managed with ordinary software tests alone. Enterprises will need domain-specific measures that reveal what changed, what broke and whether an agent improved before each deployment.<br><br>Source: <a href="https://x.com/levie/status/2103629073595728372">Aaron Levie</a></td>
+    <td width="50%"><strong>SaaS procurement starts optimizing for agents</strong><br><br>Guillermo Rauch predicts that enterprise software will increasingly be judged by how easily agents can navigate its data and ontology. APIs, command-line tools and MCP interfaces become the new access layer, while a long tail of conventional applications may be generated on demand instead of purchased.<br><br>Source: <a href="https://x.com/rauchg/status/2103564484602384855">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Google Labs experiments with a daily ration of real-world plans</strong><br><br>Dreambeans gives users a fixed set of daily suggestions aimed at activities with real people in the physical world. Google Labs is testing a deliberately scarce alternative to infinite feeds: fewer prompts, refreshed each morning, designed to move attention away from the screen.<br><br>Source: <a href="https://x.com/joshwoodward/status/2103182635992514569">Josh Woodward</a></td>
+    <td colspan="2"><strong>A $7.7 billion bet puts AI inside an incumbent</strong><br><br>Sequence Holdings co-founder Michael Lee describes a permanent-capital model for buying established companies and rebuilding them around engineering and AI. Its announced take-private of insurance broker Baldwin, backed by the Dell family office, tests whether transformation can be treated as a long operating program rather than a short fund cycle.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
   </tr>
 </table>
 
