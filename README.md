@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 029 - Sunday, September 27, 2026</sub>
+  <sub>Vol. 030 - Monday, September 28, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Diffusion language models challenge left-to-right generation</strong><br><br>Inception CEO Stefano Ermon says a 2024 research prototype matched an autoregressive model at GPT-2 scale while generating text about ten times faster. His company is now serving diffusion-based language models in production, betting that parallel token generation will improve inference economics.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
-    <td width="50%"><strong>AI prose raises the cost of understanding</strong><br><br>Guillermo Rauch warns that low-quality, unverified AI writing can exhaust readers and obscure what technical changes actually caused an improvement. His example of a misattributed performance claim makes verification part of the product: generated explanations should deepen understanding, not merely sound complete.<br><br>Source: <a href="https://x.com/rauchg/status/2103939888513274147">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Code freeze gives way to software generated per request</strong><br><br>Thibault Sottiaux argues that AI-assisted development is weakening the traditional freeze before a release. He extends the idea further: future systems may generate code online for each request under explicit constraints, shifting reliability from a fixed artifact toward the rules that govern generation.<br><br>Source: <a href="https://x.com/thsottiaux/status/2104108167806550046">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>A browser sheds Electron and keeps its agent</strong><br><br>Guillermo Rauch rebuilt a compact browser in Rust and Swift around Chromium, adding an embedded agent through ACP and browser control through MCP. The result combines a more native desktop interface with a separated local agent process, pointing to a leaner architecture for agent-enabled applications.<br><br>Source: <a href="https://x.com/rauchg/status/2104428800134013205">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Voice APIs turn language study into custom software</strong><br><br>Peter Yang is building a conversational Japanese tutor with Google's Gemini audio API, organized as ten lessons with ten phrases each. The small project shows how real-time speech models let learners replace a generic course with a narrowly designed, interactive curriculum.<br><br>Source: <a href="https://x.com/petergyang/status/2104059554204188833">Peter Yang</a></td>
-    <td width="50%"><strong>A year of model progress compresses video iteration</strong><br><br>Thariq revisited early videos made with Claude Code and recalled the lengthy cycle of identifying errors and prompting repeated corrections. His comparison with today's capabilities highlights a practical measure of progress: creative coding workflows require less manual supervision to reach a usable result.<br><br>Source: <a href="https://x.com/trq212/status/2103897226154328502">Thariq</a></td>
+    <td width="50%"><strong>Agents redraw the economics of switching</strong><br><br>Aaron Levie expects agents acting for users to reduce the friction that protects incumbents, increasing competition where changing providers is difficult. The same automation could expand healthcare, travel and local services by making purchases practical in markets where cumbersome processes currently suppress demand.<br><br>Source: <a href="https://x.com/levie/status/2104350592290406849">Aaron Levie</a></td>
+    <td width="50%"><strong>CI becomes a scheduling problem for coding agents</strong><br><br>Peter Steinberger proposes letting Codex decide which tests a change actually requires, while moving broader suites to an hourly cadence. The approach targets rising CI load by using an agent for selective validation, but also makes the agent's risk judgment part of the release pipeline.<br><br>Source: <a href="https://x.com/steipete/status/2104305554760114488">Peter Steinberger</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Production bug fixing gets an agentic plan</strong><br><br>Garry Tan demonstrates a production issue handled with Capy and GStack's <code>/autoplan</code> workflow using GPT-6 at medium reasoning. The pattern moves debugging beyond a single answer: the agent first structures the investigation, then uses that plan to guide work on a live failure.<br><br>Source: <a href="https://x.com/garrytan/status/2103989902476259702">Garry Tan</a></td>
+    <td colspan="2"><strong>The shine of new technology can hide its failures</strong><br><br>Zara Zhang cautions that rapid, dazzling technology can make broken experiences harder to recognize and leave users blaming themselves when a tool fails. The observation is a useful product standard for the AI cycle: novelty should not substitute for clear evidence that a system works.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2104112917264126195">Zara Zhang</a></td>
   </tr>
 </table>
 
