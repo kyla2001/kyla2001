@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 030 - Monday, September 28, 2026</sub>
+  <sub>Vol. 031 - Tuesday, September 29, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Code freeze gives way to software generated per request</strong><br><br>Thibault Sottiaux argues that AI-assisted development is weakening the traditional freeze before a release. He extends the idea further: future systems may generate code online for each request under explicit constraints, shifting reliability from a fixed artifact toward the rules that govern generation.<br><br>Source: <a href="https://x.com/thsottiaux/status/2104108167806550046">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>A browser sheds Electron and keeps its agent</strong><br><br>Guillermo Rauch rebuilt a compact browser in Rust and Swift around Chromium, adding an embedded agent through ACP and browser control through MCP. The result combines a more native desktop interface with a separated local agent process, pointing to a leaner architecture for agent-enabled applications.<br><br>Source: <a href="https://x.com/rauchg/status/2104428800134013205">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Codex changes what the $200 Pro allowance means</strong><br><br>Thibault Sottiaux says OpenAI will reopen the $200 Pro subscription while changing usage accounting to roughly half the equivalent API spend of the former plan. The company is keeping flexible weekly usage without restoring a five-hour cap, arguing that model efficiency and lower API prices will still increase completed work over time.<br><br>Source: <a href="https://x.com/thsottiaux/status/2104823812042940713">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Sonnet 5.5 trades fewer tokens for faster enterprise work</strong><br><br>Box reports a four-point gain on its hardest knowledge-work evaluations, with Sonnet 5.5 producing finished deliverables about 2.4 times faster while using 12% fewer tokens than Sonnet 5. The largest cited improvements appeared in financial services, legal review, life sciences and public-sector analysis.<br><br>Source: <a href="https://x.com/levie/status/2104648654074343480">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agents redraw the economics of switching</strong><br><br>Aaron Levie expects agents acting for users to reduce the friction that protects incumbents, increasing competition where changing providers is difficult. The same automation could expand healthcare, travel and local services by making purchases practical in markets where cumbersome processes currently suppress demand.<br><br>Source: <a href="https://x.com/levie/status/2104350592290406849">Aaron Levie</a></td>
-    <td width="50%"><strong>CI becomes a scheduling problem for coding agents</strong><br><br>Peter Steinberger proposes letting Codex decide which tests a change actually requires, while moving broader suites to an hourly cadence. The approach targets rising CI load by using an agent for selective validation, but also makes the agent's risk judgment part of the release pipeline.<br><br>Source: <a href="https://x.com/steipete/status/2104305554760114488">Peter Steinberger</a></td>
+    <td width="50%"><strong>The prompt gives way to an entire working environment</strong><br><br>Thariq argues that modern agent behavior can no longer be reproduced by sharing one prompt. References, skills, examples, neighboring repositories, web research and calls to other AI APIs now form the operative context, making the workflow around the model as important as the instruction itself.<br><br>Source: <a href="https://x.com/trq212/status/2104608785696440510">Thariq</a></td>
+    <td width="50%"><strong>Domain search drops authentication for agents</strong><br><br>Vercel has opened domain search without requiring authentication, explicitly positioning the endpoint for agent use. The small interface change reflects a larger shift in developer infrastructure: services are removing human login steps where autonomous tools need fast, machine-readable access.<br><br>Source: <a href="https://x.com/rauchg/status/2104764419305796094">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>The shine of new technology can hide its failures</strong><br><br>Zara Zhang cautions that rapid, dazzling technology can make broken experiences harder to recognize and leave users blaming themselves when a tool fails. The observation is a useful product standard for the AI cycle: novelty should not substitute for clear evidence that a system works.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2104112917264126195">Zara Zhang</a></td>
+    <td colspan="2"><strong>A model assembles a playable strategy-game level</strong><br><br>Peter Yang used Sonnet 5.5 to build a working StarCraft-inspired defense level with Terran units, third-party 3D assets and music generated by Suno. The model also produced the promotional reel, showing how one agent workflow can coordinate code, assets, gameplay and presentation into a playable artifact.<br><br>Source: <a href="https://x.com/petergyang/status/2104736498151256303">Peter Yang</a></td>
   </tr>
 </table>
 
