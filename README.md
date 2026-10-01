@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 032 - Wednesday, September 30, 2026</sub>
+  <sub>Vol. 033 - Thursday, October 1, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>OpenAI prepares millions of persistent personal agents</strong><br><br>Thibault Sottiaux says millions of Dots will come online within days, working continuously across a broad user community. The agents learn preferences over repeated use and can take on ambitious tasks independently; OpenAI plans to study primary-agent behavior before enabling users to create entire teams.<br><br>Source: <a href="https://x.com/thsottiaux/status/2105105086506840421">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Claude's browser agent moves from approval to supervision</strong><br><br>Claude in Chrome is generally available on paid plans and can now perform selected browser actions without approval each time. Anthropic says probes inspect web content for prompt injection while a classifier checks intended actions against the user's request; its latest evaluation reported no successful attacks against Sonnet 5 or Opus 5 with both safeguards enabled.<br><br>Source: <a href="https://claude.com/blog/claude-in-chrome-generally-available">Claude Blog</a></td>
+    <td width="50%"><strong>ChatGPT becomes a deployment surface for MCP servers</strong><br><br>Thibault Sottiaux says users can now build and deploy MCP servers directly through ChatGPT. Access can be limited to selected people or opened publicly, turning the chat product into both a development interface and a distribution layer for tools that agents can call.<br><br>Source: <a href="https://x.com/thsottiaux/status/2105519215092584786">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Gemini Skills inherit the lessons of an experiment</strong><br><br>Google Labs is rolling out Skills globally in Gemini as a faster way to automate repetitive work and preserve custom instructions in chat. The feature draws on lessons from Opal, the mini-app experiment that will shut down on November 17 as its workflow concepts move into the main product.<br><br>Source: <a href="https://x.com/GoogleLabs/status/2105352889665564838">Google Labs</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI safety may begin with shared industry rules</strong><br><br>Aaron Levie argues that common safety and security standards could govern the current phase of AI development without suppressing competition. He expects stronger oversight, testing, liability and regulation as capabilities advance, but sees coordinated industry practices as a workable near-term layer.<br><br>Source: <a href="https://x.com/levie/status/2105111520913039530">Aaron Levie</a></td>
-    <td width="50%"><strong>AI SDK reaches 30 million weekly downloads</strong><br><br>Guillermo Rauch says Vercel's AI SDK has crossed 30 million weekly downloads, marking a new adoption milestone for application-layer AI tooling. The accompanying milestone video was itself generated in one pass with an agent, written in Rust and rendered on the GPU.<br><br>Source: <a href="https://x.com/rauchg/status/2105043144975011982">Guillermo Rauch</a></td>
+    <td width="50%"><strong>U.S. air traffic tests prediction without surrendering control</strong><br><br>Transportation Secretary Sean Duffy says predictive software can spot runway conflicts hours ahead and shorten some ground stops while controllers retain every decision. The SMART tool from Air Space Intelligence frames public-sector AI as operational augmentation rather than autonomous control.<br><br>Source: <a href="https://x.com/garrytan/status/2105395957357588561">Garry Tan</a></td>
+    <td width="50%"><strong>Enterprise AI creates a new implementation economy</strong><br><br>Aaron Levie argues that deploying agents requires more than installing software: companies must modernize data access, connect systems, redesign workflows, define human oversight, maintain evaluations and continuously absorb new models. That workload could create specialized service firms organized by industry, company size and business process.<br><br>Source: <a href="https://x.com/levie/status/2105354449795621179">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Six prompts orchestrate a multimodal product website</strong><br><br>Zara Zhang used Opus 5.5 to create a marketing site for a water bottle in six prompts. The agent coordinated ElevenLabs for music, Meshy for 3D assets and OpenAI's image API, illustrating how a primary model can act as the production layer across specialized creative services.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2105096296831017078">Zara Zhang</a></td>
+    <td colspan="2"><strong>Agent connections move beyond piles of static keys</strong><br><br>Guillermo Rauch positions Vercel Connect as a shared integration layer for applications and agents. The service targets a recurring security and developer-experience problem: handing separate static credentials to every autonomous tool, instead of granting managed access to the services it needs.<br><br>Source: <a href="https://x.com/rauchg/status/2105390544096841942">Guillermo Rauch</a></td>
   </tr>
 </table>
 
