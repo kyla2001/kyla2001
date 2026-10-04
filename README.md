@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 035 - Saturday, October 3, 2026</sub>
+  <sub>Vol. 036 - Sunday, October 4, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Inference chips chase memory, not just arithmetic</strong><br><br>Fractile CEO Walter Goodwin says faster AI inference depends on moving model weights and growing context efficiently, not only adding matrix compute. The company shifted from an SRAM-heavy design toward high-bandwidth access to larger-capacity memory, while keeping architecture, physical design and packaging in-house to shorten hardware iteration cycles.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
-    <td width="50%"><strong>A five-minute rebuild replaces a $300 research tool</strong><br><br>Peter Yang says a YouTube research product he paid nearly $300 a year for had become too complex, so he asked Claude to reproduce only the core features he used. The model delivered them in five minutes, illustrating how targeted, disposable software can undercut feature-heavy subscriptions when users can specify the smaller tool they actually need.<br><br>Source: <a href="https://x.com/petergyang/status/2106072698564874410">Peter Yang</a></td>
+    <td width="50%"><strong>AI products confront the cockpit problem</strong><br><br>Madhu Guru argues that adoption remains shallow even among paying users because many AI products expose too many connectors, permissions, models and usage controls. The next competitive frontier may be product design that hides operational complexity and makes advanced systems feel routine.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2106450089938157720">Madhu Guru</a></td>
+    <td width="50%"><strong>Enterprise agents wait for workflows to be rebuilt</strong><br><br>Aaron Levie says agent adoption is booming in coding but remains early across knowledge work. Wider deployment will require redesigned processes, connected data, clearer accountability, new compliance rules and stronger security rather than simply adding chat to existing operations.<br><br>Source: <a href="https://x.com/levie/status/2106583814709633413">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent teams coordinate work across sessions</strong><br><br>Garry Tan reports that Capy launched a multi-thread fix wave while automatically steering around tasks already underway in other sessions. The model-agnostic coordination acts like a continuous stand-up for agents, replacing a top-down task tree with shared awareness of parallel work.<br><br>Source: <a href="https://x.com/garrytan/status/2106092289173213444">Garry Tan</a></td>
-    <td width="50%"><strong>A model builds the editor needed to improve its own game</strong><br><br>Thariq asked Claude to teach him animation techniques, find references and create a dedicated editor for iterating on a character's jump. The workflow turns the model from a code generator into a temporary toolmaker, building the instrument needed to refine a specific creative problem.<br><br>Source: <a href="https://x.com/trq212/status/2105849295580889208">Thariq</a></td>
+    <td width="50%"><strong>Abundant creation raises the value of a point of view</strong><br><br>Designer Ryo Lu warns that AI can accelerate convergence when makers optimize for the same references, metrics and market signals. As producing software becomes easier, judgment and lived perspective become more important: speed creates more opportunities to choose, but does not decide what deserves to exist.<br><br>Source: <a href="https://x.com/ryolu_/status/2106337039201505453">Ryo Lu</a></td>
+    <td width="50%"><strong>Human judgment becomes an AI safety boundary</strong><br><br>Sam Altman warns against assigning religious authority to AI systems or surrendering human judgment to their outputs. The concern reframes safety as more than model behavior: users and institutions also need norms that preserve responsibility when machine answers appear unusually confident or persuasive.<br><br>Source: <a href="https://x.com/sama/status/2106388373221118198">Sam Altman</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A jet engine becomes an explorable 3D lesson</strong><br><br>Claude showcases an interactive jet engine made with Opus 5.5 that users can cut away and pull apart. The artifact demonstrates a shift from static explanation to generated simulation, where a model can package geometry and interaction into a custom visual lesson.<br><br>Source: <a href="https://x.com/claudeai/status/2106125478956507480">Claude</a></td>
+    <td colspan="2"><strong>Security expands from code checks to token allocation</strong><br><br>Guillermo Rauch argues that AI-era security combines verification engineering with deciding where limited review and compute should be concentrated. More capable adversaries raise the trust burden for small software teams, while the weaknesses of centralized systems leave room for focused security startups.<br><br>Source: <a href="https://x.com/rauchg/status/2106516538836856945">Guillermo Rauch</a></td>
   </tr>
 </table>
 
