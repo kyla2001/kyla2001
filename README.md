@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 036 - Sunday, October 4, 2026</sub>
+  <sub>Vol. 037 - Monday, October 5, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>AI products confront the cockpit problem</strong><br><br>Madhu Guru argues that adoption remains shallow even among paying users because many AI products expose too many connectors, permissions, models and usage controls. The next competitive frontier may be product design that hides operational complexity and makes advanced systems feel routine.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2106450089938157720">Madhu Guru</a></td>
-    <td width="50%"><strong>Enterprise agents wait for workflows to be rebuilt</strong><br><br>Aaron Levie says agent adoption is booming in coding but remains early across knowledge work. Wider deployment will require redesigned processes, connected data, clearer accountability, new compliance rules and stronger security rather than simply adding chat to existing operations.<br><br>Source: <a href="https://x.com/levie/status/2106583814709633413">Aaron Levie</a></td>
+    <td width="50%"><strong>MCP makes the application interface optional</strong><br><br>Granola co-founder Sam Stephenson says enterprise customers increasingly capture meeting context in the product, then use it through internal agents via MCP. The shift turns a polished interface from the mandatory destination into one access point among many, making interoperability a condition of enterprise adoption.<br><br>Source: <a href="https://x.com/petergyang/status/2106897211766530299">Peter Yang</a></td>
+    <td width="50%"><strong>Agents rewrite the economics of programming languages</strong><br><br>Guillermo Rauch says Vercel once questioned whether moving Turborepo from Go to Rust justified the human migration cost, despite Rust's low-level advantages. Coding agents alter that calculation by reducing implementation friction, allowing infrastructure choices to favor machine execution and business outcomes over authoring convenience.<br><br>Source: <a href="https://x.com/rauchg/status/2106863842450133114">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Abundant creation raises the value of a point of view</strong><br><br>Designer Ryo Lu warns that AI can accelerate convergence when makers optimize for the same references, metrics and market signals. As producing software becomes easier, judgment and lived perspective become more important: speed creates more opportunities to choose, but does not decide what deserves to exist.<br><br>Source: <a href="https://x.com/ryolu_/status/2106337039201505453">Ryo Lu</a></td>
-    <td width="50%"><strong>Human judgment becomes an AI safety boundary</strong><br><br>Sam Altman warns against assigning religious authority to AI systems or surrendering human judgment to their outputs. The concern reframes safety as more than model behavior: users and institutions also need norms that preserve responsibility when machine answers appear unusually confident or persuasive.<br><br>Source: <a href="https://x.com/sama/status/2106388373221118198">Sam Altman</a></td>
+    <td width="50%"><strong>AI deployment begins creating its own labor market</strong><br><br>Aaron Levie points to rising demand for applied AI engineers, forward-deployed teams and specialist services that bring agents into companies. Existing data, research and software roles are also being repositioned, suggesting that early labor effects include job redesign and technical expansion alongside automation.<br><br>Source: <a href="https://x.com/levie/status/2106893015063421357">Aaron Levie</a></td>
+    <td width="50%"><strong>Norway draws a privacy line around AI glasses</strong><br><br>Norway plans to ask parliament for a temporary ban on smart glasses in privacy-sensitive public spaces, including schools, healthcare facilities and changing rooms. The proposal is not a total prohibition; it would create time to define covered devices, useful exceptions and possible permanent rules.<br><br>Source: <a href="https://apnews.com/article/norway-ai-glasses-ban-be20dbd949ce058023864b66219f9c2b">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Security expands from code checks to token allocation</strong><br><br>Guillermo Rauch argues that AI-era security combines verification engineering with deciding where limited review and compute should be concentrated. More capable adversaries raise the trust burden for small software teams, while the weaknesses of centralized systems leave room for focused security startups.<br><br>Source: <a href="https://x.com/rauchg/status/2106516538836856945">Guillermo Rauch</a></td>
+    <td colspan="2"><strong>Light-controlled neurons earn medicine's Nobel</strong><br><br>Karl Deisseroth, Peter Hegemann and Georg Nagel received the 2026 Nobel Prize in Physiology or Medicine for optogenetics. By using light to activate or silence specific neurons, the technique lets researchers test cause and effect in brain circuits and has reshaped experimental neuroscience.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03091-2">Nature</a></td>
   </tr>
 </table>
 
