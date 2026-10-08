@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 039 - Wednesday, October 7, 2026</sub>
+  <sub>Vol. 040 - Thursday, October 8, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Prompt engineering contracts to three instructions</strong><br><br>Boris Cherny says capable models need less elaborate scaffolding than earlier generations. For most work, a useful prompt now communicates the goal, the desired effort and how success should be verified, shifting skill from incantation toward clear delegation and measurable completion.<br><br>Source: <a href="https://x.com/bcherny/status/2107565388250874193">Boris Cherny</a></td>
-    <td width="50%"><strong>AI reverse engineering tests software secrecy</strong><br><br>Amjad Masad predicts that stronger decompilation and reverse-engineering systems could make proprietary software increasingly transparent in practice. If models can reconstruct behavior and structure from binaries, competitive advantage may move away from code possession toward data, distribution, operations and iteration speed.<br><br>Source: <a href="https://x.com/amasad/status/2107671204639465961">Amjad Masad</a></td>
+    <td width="50%"><strong>Google turns game ideas into playable worlds</strong><br><br>Google Labs launched Playground, an experimental platform that lets adults in the United States create games without coding. The product moves generative AI beyond producing individual assets toward assembling an interactive system that users can immediately play and revise.<br><br>Source: <a href="https://x.com/GoogleLabs/status/2107800195748737042">Google Labs</a></td>
+    <td width="50%"><strong>Agents widen ambition faster than expertise</strong><br><br>Thariq identifies a common failure mode: agents make it easy to enter unfamiliar domains, but users without the underlying vocabulary struggle to write precise plans and spend many turns correcting vague work. The remedy is to use the model as a teacher before asking it to act as a builder.<br><br>Source: <a href="https://x.com/trq212/status/2108021247301062894">Thariq</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Cybersecurity prepares for agents on both sides</strong><br><br>Aaron Levie expects security teams to face more vulnerable generated code, autonomous attacks and accidental agent swarms searching for data. The same technology will also power defenders, creating demand for agent-based protection across software, infrastructure and enterprise information.<br><br>Source: <a href="https://x.com/levie/status/2107680435644039269">Aaron Levie</a></td>
-    <td width="50%"><strong>Singapore puts financial AI under lifecycle controls</strong><br><br>The Monetary Authority of Singapore issued risk-management guidelines covering every financial institution and form of AI. Firms must maintain accountable oversight, inventory material uses, test and monitor systems, manage third-party providers and scale controls to risk, with implementation beginning in October 2027.<br><br>Source: <a href="https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions">Monetary Authority of Singapore</a></td>
+    <td width="50%"><strong>Infinite tokens still need a stopping rule</strong><br><br>Guillermo Rauch warns that agents can harden and optimize software indefinitely, including edge cases no user will encounter and performance nobody needs. Engineering judgment remains the scarce resource: teams must decide when additional correctness or speed no longer justifies its time, attention and opportunity cost.<br><br>Source: <a href="https://x.com/rauchg/status/2107962327169675566">Guillermo Rauch</a></td>
+    <td width="50%"><strong>UK privacy scrutiny moves from models to agents</strong><br><br>The Information Commissioner's Office says ten major foundation-model developers have committed to stronger transparency, user-rights mechanisms and safeguard assessments. It also opened a call for evidence on autonomous agents, focusing on security, accountability, fairness and lawful data use.<br><br>Source: <a href="https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/">UK Information Commissioner's Office</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Nuclear clocks begin to tick</strong><br><br>Two teams report the first implementations of clocks based on transitions inside atomic nuclei rather than electron energy levels. The systems point toward a new standard for precision timekeeping and could help researchers probe fundamental physics, including possible signatures of dark matter.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03060-9">Nature</a></td>
+    <td colspan="2"><strong>A gut microbe yields a statin-like molecule</strong><br><br>Researchers found that Bacteroides uniformis produces a compound that lowers cholesterol synthesis through the same biological pathway targeted by statins. In mice, the molecule cut arterial plaque by roughly half, offering an early lead for studying how the microbiome influences cardiovascular disease.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03189-7">Nature</a></td>
   </tr>
 </table>
 
