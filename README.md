@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 040 - Thursday, October 8, 2026</sub>
+  <sub>Vol. 041 - Friday, October 9, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Google turns game ideas into playable worlds</strong><br><br>Google Labs launched Playground, an experimental platform that lets adults in the United States create games without coding. The product moves generative AI beyond producing individual assets toward assembling an interactive system that users can immediately play and revise.<br><br>Source: <a href="https://x.com/GoogleLabs/status/2107800195748737042">Google Labs</a></td>
-    <td width="50%"><strong>Agents widen ambition faster than expertise</strong><br><br>Thariq identifies a common failure mode: agents make it easy to enter unfamiliar domains, but users without the underlying vocabulary struggle to write precise plans and spend many turns correcting vague work. The remedy is to use the model as a teacher before asking it to act as a builder.<br><br>Source: <a href="https://x.com/trq212/status/2108021247301062894">Thariq</a></td>
+    <td width="50%"><strong>Claude's startup offer buckles under demand</strong><br><br>Anthropic paused Claude Team access and $1,000 API-credit offers for new startup applicants after demand reached the hundreds of thousands. Existing claims remain intact, but pending approvals will be reviewed again, showing how quickly subsidized access can outrun capacity and program design.<br><br>Source: <a href="https://x.com/claudeai/status/2108404561413349695">Claude</a></td>
+    <td width="50%"><strong>Agents force a rebuild of the computing stack</strong><br><br>Madhu Guru argues that personal agents will reshape more than enterprise APIs: operating systems, cloud infrastructure, identity, permissions and interfaces must all accommodate software acting as a first-class user. The next startup map may be hiding in those layers rather than in another assistant wrapper.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2108236391641706813">Madhu Guru</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Infinite tokens still need a stopping rule</strong><br><br>Guillermo Rauch warns that agents can harden and optimize software indefinitely, including edge cases no user will encounter and performance nobody needs. Engineering judgment remains the scarce resource: teams must decide when additional correctness or speed no longer justifies its time, attention and opportunity cost.<br><br>Source: <a href="https://x.com/rauchg/status/2107962327169675566">Guillermo Rauch</a></td>
-    <td width="50%"><strong>UK privacy scrutiny moves from models to agents</strong><br><br>The Information Commissioner's Office says ten major foundation-model developers have committed to stronger transparency, user-rights mechanisms and safeguard assessments. It also opened a call for evidence on autonomous agents, focusing on security, accountability, fairness and lawful data use.<br><br>Source: <a href="https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/">UK Information Commissioner's Office</a></td>
+    <td width="50%"><strong>Billions of agents put databases on trial</strong><br><br>Database researcher Andy Pavlo tells the MAD Podcast that agent workloads could multiply query volume by 10 to 100 times while raising new risks, from accidental production deletion to unreliable text-to-SQL. The database remains essential, but its guardrails must now assume machine-speed junior developers.<br><br>Source: <a href="https://x.com/mattturck/status/2108223135673696504">The MAD Podcast</a></td>
+    <td width="50%"><strong>Australia puts AI infrastructure terms on the table</strong><br><br>Australia's consultation on national AI standards closes today with proposed rules for data-centre energy, water, community impact and frontier-model training. The framework seeks investment and sovereign capability while requiring security reporting, renewable power and tangible local benefits.<br><br>Source: <a href="https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia">Australian Government</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A gut microbe yields a statin-like molecule</strong><br><br>Researchers found that Bacteroides uniformis produces a compound that lowers cholesterol synthesis through the same biological pathway targeted by statins. In mice, the molecule cut arterial plaque by roughly half, offering an early lead for studying how the microbiome influences cardiovascular disease.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03189-7">Nature</a></td>
+    <td colspan="2"><strong>Great-ape brains resist the shrinkage of age</strong><br><br>A new analysis finds that chimpanzee and gorilla brains retain their mass as the animals age, unlike human brains. Researchers suggest the contrast may reflect humans' much longer post-reproductive lifespan, sharpening the question of whether late-life brain loss is a uniquely human cost of longevity.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03158-0">Nature</a></td>
   </tr>
 </table>
 
