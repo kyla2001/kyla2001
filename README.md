@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 041 - Friday, October 9, 2026</sub>
+  <sub>Vol. 042 - Saturday, October 10, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude's startup offer buckles under demand</strong><br><br>Anthropic paused Claude Team access and $1,000 API-credit offers for new startup applicants after demand reached the hundreds of thousands. Existing claims remain intact, but pending approvals will be reviewed again, showing how quickly subsidized access can outrun capacity and program design.<br><br>Source: <a href="https://x.com/claudeai/status/2108404561413349695">Claude</a></td>
-    <td width="50%"><strong>Agents force a rebuild of the computing stack</strong><br><br>Madhu Guru argues that personal agents will reshape more than enterprise APIs: operating systems, cloud infrastructure, identity, permissions and interfaces must all accommodate software acting as a first-class user. The next startup map may be hiding in those layers rather than in another assistant wrapper.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2108236391641706813">Madhu Guru</a></td>
+    <td width="50%"><strong>Anthropic trades permission prompts for containment</strong><br><br>Anthropic says users approve about 93% of Claude Code permission prompts, making repeated confirmation a weak safety boundary. Its engineering response is to limit what agents can reach through sandboxes, virtual machines and network controls, capping potential damage even as autonomy expands.<br><br>Source: <a href="https://www.anthropic.com/engineering/how-we-contain-claude">Anthropic Engineering</a></td>
+    <td width="50%"><strong>The web's next majority may not be human</strong><br><br>Guillermo Rauch reports that bots now generate 58.18% of traffic across Vercel's network, while agents account for more than 60% of deployments and up to 83% of visits to Vercel documentation. The figures point toward a web increasingly built, read and operated by software agents.<br><br>Source: <a href="https://x.com/rauchg/status/2108733051283050964">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Billions of agents put databases on trial</strong><br><br>Database researcher Andy Pavlo tells the MAD Podcast that agent workloads could multiply query volume by 10 to 100 times while raising new risks, from accidental production deletion to unreliable text-to-SQL. The database remains essential, but its guardrails must now assume machine-speed junior developers.<br><br>Source: <a href="https://x.com/mattturck/status/2108223135673696504">The MAD Podcast</a></td>
-    <td width="50%"><strong>Australia puts AI infrastructure terms on the table</strong><br><br>Australia's consultation on national AI standards closes today with proposed rules for data-centre energy, water, community impact and frontier-model training. The framework seeks investment and sovereign capability while requiring security reporting, renewable power and tangible local benefits.<br><br>Source: <a href="https://www.pmc.gov.au/resources/getting-it-right-building-ai-infrastructure-works-australia">Australian Government</a></td>
+    <td width="50%"><strong>ChatGPT opens the door to Devin</strong><br><br>OpenAI product lead Thibault Sottiaux says a ChatGPT subscription now also includes access to Devin. The pairing signals a shift from stand-alone assistants toward subscriptions that bundle general reasoning with specialized software-engineering agents.<br><br>Source: <a href="https://x.com/thsottiaux/status/2108777962053292398">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Australia gives public-sector AI one assurance rulebook</strong><br><br>Australia's federal, state and territory data ministers endorsed a nationally consistent framework for government AI. Built on the country's AI Ethics Principles, it places legal, privacy, security, fairness and human-welfare checks around how agencies develop, procure and deploy automated systems.<br><br>Source: <a href="https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government/statement-data-and-digital-ministers">Australian Department of Finance</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Great-ape brains resist the shrinkage of age</strong><br><br>A new analysis finds that chimpanzee and gorilla brains retain their mass as the animals age, unlike human brains. Researchers suggest the contrast may reflect humans' much longer post-reproductive lifespan, sharpening the question of whether late-life brain loss is a uniquely human cost of longevity.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03158-0">Nature</a></td>
+    <td colspan="2"><strong>Oleic acid tracks a slower path to Alzheimer's</strong><br><br>A cohort study linked higher plasma oleic-acid levels with slower progression from mild cognitive impairment to Alzheimer's disease in both men and women. The authors caution that the observational result cannot exclude reverse causation or residual confounding, but it sharpens the case for studying lipid metabolism across the disease continuum.<br><br>Source: <a href="https://www.nature.com/articles/s41598-026-74033-1">Scientific Reports</a></td>
   </tr>
 </table>
 
