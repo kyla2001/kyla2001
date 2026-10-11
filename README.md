@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 042 - Saturday, October 10, 2026</sub>
+  <sub>Vol. 043 - Sunday, October 11, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Anthropic trades permission prompts for containment</strong><br><br>Anthropic says users approve about 93% of Claude Code permission prompts, making repeated confirmation a weak safety boundary. Its engineering response is to limit what agents can reach through sandboxes, virtual machines and network controls, capping potential damage even as autonomy expands.<br><br>Source: <a href="https://www.anthropic.com/engineering/how-we-contain-claude">Anthropic Engineering</a></td>
-    <td width="50%"><strong>The web's next majority may not be human</strong><br><br>Guillermo Rauch reports that bots now generate 58.18% of traffic across Vercel's network, while agents account for more than 60% of deployments and up to 83% of visits to Vercel documentation. The figures point toward a web increasingly built, read and operated by software agents.<br><br>Source: <a href="https://x.com/rauchg/status/2108733051283050964">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Agent security enters its trust phase</strong><br><br>Madhu Guru argues that the agent stack is moving from proving capability to establishing trust. Identity, permissions, observability and audit trails now have to advance faster than autonomous systems themselves, because useful action without clear accountability will become the next deployment bottleneck.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2108982858513776899">Madhu Guru</a></td>
+    <td width="50%"><strong>Agent swarms redraw the compute curve</strong><br><br>Aaron Levie expects coordinated agent fleets to parallelize work across software, cybersecurity, finance and scientific research at a scale human teams cannot match. If that model takes hold, token demand will be driven by continuous machine-to-machine work rather than by people typing prompts one at a time.<br><br>Source: <a href="https://x.com/levie/status/2109079686286565378">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>ChatGPT opens the door to Devin</strong><br><br>OpenAI product lead Thibault Sottiaux says a ChatGPT subscription now also includes access to Devin. The pairing signals a shift from stand-alone assistants toward subscriptions that bundle general reasoning with specialized software-engineering agents.<br><br>Source: <a href="https://x.com/thsottiaux/status/2108777962053292398">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Australia gives public-sector AI one assurance rulebook</strong><br><br>Australia's federal, state and territory data ministers endorsed a nationally consistent framework for government AI. Built on the country's AI Ethics Principles, it places legal, privacy, security, fairness and human-welfare checks around how agencies develop, procure and deploy automated systems.<br><br>Source: <a href="https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government/statement-data-and-digital-ministers">Australian Department of Finance</a></td>
+    <td width="50%"><strong>AI speeds engineering, but customers still set the clock</strong><br><br>Nan Yu says agents are expanding each engineer's output while product managers remain constrained by the time required to speak with customers. The emerging organizational limit may therefore be discovery rather than delivery, pushing software teams toward a tighter one-to-one balance between product and engineering.<br><br>Source: <a href="https://x.com/thenanyu/status/2108976262698115550">Nan Yu</a></td>
+    <td width="50%"><strong>An energy ceasefire arrives without a rulebook</strong><br><br>President Donald Trump said Russia and Ukraine had agreed to stop attacks on energy infrastructure, but Washington offered no terms and Moscow did not immediately confirm the deal. Ukraine expressed support while awaiting details, leaving enforcement and even the scope of the announcement unresolved.<br><br>Source: <a href="https://apnews.com/article/f621fa788196f204448e7f75fcc78c68">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Oleic acid tracks a slower path to Alzheimer's</strong><br><br>A cohort study linked higher plasma oleic-acid levels with slower progression from mild cognitive impairment to Alzheimer's disease in both men and women. The authors caution that the observational result cannot exclude reverse causation or residual confounding, but it sharpens the case for studying lipid metabolism across the disease continuum.<br><br>Source: <a href="https://www.nature.com/articles/s41598-026-74033-1">Scientific Reports</a></td>
+    <td colspan="2"><strong>Deep learning keeps living cells in view longer</strong><br><br>Researchers paired two neural methods with RESOLFT nanoscopy to cut illumination dose tenfold, extend live-cell imaging by as much as five times and raise frame rates fourfold. The approach preserves nanoscale detail while reducing photobleaching, opening a longer and faster window onto moving structures inside cells.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-78580-z">Nature Communications</a></td>
   </tr>
 </table>
 
