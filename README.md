@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 043 - Sunday, October 11, 2026</sub>
+  <sub>Vol. 044 - Monday, October 12, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Agent security enters its trust phase</strong><br><br>Madhu Guru argues that the agent stack is moving from proving capability to establishing trust. Identity, permissions, observability and audit trails now have to advance faster than autonomous systems themselves, because useful action without clear accountability will become the next deployment bottleneck.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2108982858513776899">Madhu Guru</a></td>
-    <td width="50%"><strong>Agent swarms redraw the compute curve</strong><br><br>Aaron Levie expects coordinated agent fleets to parallelize work across software, cybersecurity, finance and scientific research at a scale human teams cannot match. If that model takes hold, token demand will be driven by continuous machine-to-machine work rather than by people typing prompts one at a time.<br><br>Source: <a href="https://x.com/levie/status/2109079686286565378">Aaron Levie</a></td>
+    <td width="50%"><strong>AI's capability gulf widens into a funnel</strong><br><br>Andrej Karpathy argues that most people still encounter AI as a modest chatbot while a tiny group uses frontier agents on projects once measured in months or years. Access, domain fit and problem ambition are creating sharply different realities, leaving public understanding far behind the systems' leading edge.<br><br>Source: <a href="https://x.com/karpathy/status/2109361546505966046">Andrej Karpathy</a></td>
+    <td width="50%"><strong>Codex makes 500,000 tokens the new default</strong><br><br>OpenAI product lead Thibault Sottiaux says GPT-6.1 Sol now defaults to a 500,000-token context window in Codex and Work, up about 80% from 272,000. The larger working memory is intended to reduce compaction and preserve nuance across longer tasks, while users can still opt up to one million tokens.<br><br>Source: <a href="https://x.com/thsottiaux/status/2109430343346581527">Thibault Sottiaux</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI speeds engineering, but customers still set the clock</strong><br><br>Nan Yu says agents are expanding each engineer's output while product managers remain constrained by the time required to speak with customers. The emerging organizational limit may therefore be discovery rather than delivery, pushing software teams toward a tighter one-to-one balance between product and engineering.<br><br>Source: <a href="https://x.com/thenanyu/status/2108976262698115550">Nan Yu</a></td>
-    <td width="50%"><strong>An energy ceasefire arrives without a rulebook</strong><br><br>President Donald Trump said Russia and Ukraine had agreed to stop attacks on energy infrastructure, but Washington offered no terms and Moscow did not immediately confirm the deal. Ukraine expressed support while awaiting details, leaving enforcement and even the scope of the announcement unresolved.<br><br>Source: <a href="https://apnews.com/article/f621fa788196f204448e7f75fcc78c68">Associated Press</a></td>
+    <td width="50%"><strong>Superintelligence should have to explain itself</strong><br><br>Thariq Shihipar backs Terence Tao's view that advanced intelligence should not remain opaque. Communication is itself evidence of intelligence, he argues, so models and products should deepen human understanding rather than merely replace experts with answers they cannot inspect or reconstruct.<br><br>Source: <a href="https://x.com/trq212/status/2109329495341867391">Thariq Shihipar</a></td>
+    <td width="50%"><strong>The energy ceasefire falters on its first test</strong><br><br>Ukraine reported new Russian strikes on energy facilities one day after President Donald Trump announced an immediate energy ceasefire. Kyiv says it is ready to reciprocate if Moscow stops, while the EU remains skeptical and both the terms and enforcement mechanism are still unclear.<br><br>Source: <a href="https://apnews.com/article/6fdef6ff4d033b379c74e1d62183d078">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Deep learning keeps living cells in view longer</strong><br><br>Researchers paired two neural methods with RESOLFT nanoscopy to cut illumination dose tenfold, extend live-cell imaging by as much as five times and raise frame rates fourfold. The approach preserves nanoscale detail while reducing photobleaching, opening a longer and faster window onto moving structures inside cells.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-78580-z">Nature Communications</a></td>
+    <td colspan="2"><strong>Polar ocean blooms are stretching out of balance</strong><br><br>Satellite and ocean-color records from 2007 to 2022 show that high-latitude phytoplankton bloom phases are lengthening unevenly. The post-peak decline expanded faster than the growth phase, revealing a previously overlooked shift in marine timing that could alter carbon cycling and polar ecosystems under climate change.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-78603-9">Nature Communications</a></td>
   </tr>
 </table>
 
