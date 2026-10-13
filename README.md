@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 044 - Monday, October 12, 2026</sub>
+  <sub>Vol. 045 - Tuesday, October 13, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>AI's capability gulf widens into a funnel</strong><br><br>Andrej Karpathy argues that most people still encounter AI as a modest chatbot while a tiny group uses frontier agents on projects once measured in months or years. Access, domain fit and problem ambition are creating sharply different realities, leaving public understanding far behind the systems' leading edge.<br><br>Source: <a href="https://x.com/karpathy/status/2109361546505966046">Andrej Karpathy</a></td>
-    <td width="50%"><strong>Codex makes 500,000 tokens the new default</strong><br><br>OpenAI product lead Thibault Sottiaux says GPT-6.1 Sol now defaults to a 500,000-token context window in Codex and Work, up about 80% from 272,000. The larger working memory is intended to reduce compaction and preserve nuance across longer tasks, while users can still opt up to one million tokens.<br><br>Source: <a href="https://x.com/thsottiaux/status/2109430343346581527">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Agents trade chat threads for job descriptions</strong><br><br>Peter Yang says Grok Bot feels less like a conversation and more like hiring a small staff because each persistent persona owns a defined responsibility, from customer support to research and household errands. The interface shift suggests that durable roles may organize agent work better than disposable chats.<br><br>Source: <a href="https://x.com/petergyang/status/2109803399332213090">Peter Yang</a></td>
+    <td width="50%"><strong>The AI command line rediscovers restraint</strong><br><br>Guillermo Rauch argues that coding CLIs are accumulating daemons, layered interfaces and client-server machinery that undermine their original appeal. He points instead to a six-megabyte, model-agnostic tool that starts in milliseconds while still supporting MCP, skills, subagents and ACP.<br><br>Source: <a href="https://x.com/rauchg/status/2109734766107099312">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Superintelligence should have to explain itself</strong><br><br>Thariq Shihipar backs Terence Tao's view that advanced intelligence should not remain opaque. Communication is itself evidence of intelligence, he argues, so models and products should deepen human understanding rather than merely replace experts with answers they cannot inspect or reconstruct.<br><br>Source: <a href="https://x.com/trq212/status/2109329495341867391">Thariq Shihipar</a></td>
-    <td width="50%"><strong>The energy ceasefire falters on its first test</strong><br><br>Ukraine reported new Russian strikes on energy facilities one day after President Donald Trump announced an immediate energy ceasefire. Kyiv says it is ready to reciprocate if Moscow stops, while the EU remains skeptical and both the terms and enforcement mechanism are still unclear.<br><br>Source: <a href="https://apnews.com/article/6fdef6ff4d033b379c74e1d62183d078">Associated Press</a></td>
+    <td width="50%"><strong>Agents begin choosing their own machinery</strong><br><br>Aaron Levie highlights research in which an AI adapts its own harness to the task rather than relying on a fixed tool configuration designed in advance. If reliable, that architecture would move agent design from static orchestration toward systems that assemble their workflow only after seeing the problem.<br><br>Source: <a href="https://x.com/levie/status/2109788979952558255">Aaron Levie</a></td>
+    <td width="50%"><strong>AI data centers move onto America's public lands</strong><br><br>A proposed Nevada data center has turned federal land policy into a governor's-race issue after local opposition pushed developers toward an adjacent federal parcel. The dispute combines national AI ambitions with concerns over water, power bills, environmental review and whether communities retain a meaningful veto.<br><br>Source: <a href="https://apnews.com/article/777894300ca0612493a4991da5f30308">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Polar ocean blooms are stretching out of balance</strong><br><br>Satellite and ocean-color records from 2007 to 2022 show that high-latitude phytoplankton bloom phases are lengthening unevenly. The post-peak decline expanded faster than the growth phase, revealing a previously overlooked shift in marine timing that could alter carbon cycling and polar ecosystems under climate change.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-78603-9">Nature Communications</a></td>
+    <td colspan="2"><strong>Single-cell genomics maps microbes and their mobile DNA</strong><br><br>Researchers introduced Scellmate, a framework for cleaning and interpreting fragmented single-cell microbial genomes. Applied to 11,976 sewage-derived cells, it exposed hidden strain diversity and 6,474 links between microbes and mobile elements such as plasmids, expanding the view of how genes move through complex communities.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-78527-4">Nature Communications</a></td>
   </tr>
 </table>
 
