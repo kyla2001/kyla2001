@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 048 - Friday, October 16, 2026</sub>
+  <sub>Vol. 049 - Saturday, October 17, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Prompt injection becomes a public stress test</strong><br><br>Anthropic's Boris Cherny says the company is partnering with Gray Swan on a competition to probe prompt-injection weaknesses in Claude. The move treats adversarial testing as an ecosystem problem: as agents gain tools and authority, defenses must hold against attacks discovered beyond any single lab's internal evaluation team.<br><br>Source: <a href="https://x.com/bcherny/status/2110791698611855624">Boris Cherny</a></td>
-    <td width="50%"><strong>Open weights move closer to the enterprise frontier</strong><br><br>Aaron Levie argues that Meta's open-weight Muse model gives companies a broader deployment palette: frontier APIs for difficult orchestration and cheaper, tailored models for repeatable workflows. The practical consequence is less a single winner than a layered market in which organizations route work by cost, control and complexity.<br><br>Source: <a href="https://x.com/levie/status/2110787013809222141">Aaron Levie</a></td>
+    <td width="50%"><strong>Code review becomes an always-on teammate</strong><br><br>Anthropic's Boris Cherny says Claude Code Review now runs across all of his pull requests and catches bugs before they land. The workflow points to a quieter form of agent adoption: not replacing the engineer, but placing persistent scrutiny inside the delivery pipeline so speed and quality can rise together.<br><br>Source: <a href="https://x.com/bcherny/status/2111158313463525518">Boris Cherny</a></td>
+    <td width="50%"><strong>Enterprise AI moves into the customer's cloud</strong><br><br>Replit says it can deploy its platform inside a customer's own cloud so data stays within the organization's environment. The offer targets governments, finance and healthcare, where AI adoption depends as much on control, residency and auditability as it does on model capability.<br><br>Source: <a href="https://x.com/amasad/status/2111267314012496121">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>A decision model steps outside the chat box</strong><br><br>TypeSafe CEO Diogo Almeida describes Jev as machine-native AI built to return calibrated decisions rather than polished prose. The pitch is that reliable automation needs probabilities, thresholds and developer control, not a general model that sounds convincing while remaining unpredictably wrong on a small share of cases.<br><br>Source: <a href="https://www.youtube.com/@DataDrivenNYC/videos">The MAD Podcast</a></td>
-    <td width="50%"><strong>China draws a tighter border around strategic technology</strong><br><br>China has proposed restricting or banning exports of 40 technologies spanning advanced AI models, agents, chips and solar power. The draft turns technical capability into a national-security asset and adds a new front to the technology contest even as Beijing and Washington discuss AI incident notification and governance.<br><br>Source: <a href="https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b">Associated Press</a></td>
+    <td width="50%"><strong>Cyber defenders get a narrowing head start</strong><br><br>OpenAI president Greg Brockman argues that frontier models currently give defenders an advantage before comparable offensive capability diffuses widely. He says organizations should use this window to find and repair old vulnerabilities, treating AI security spending as a structural requirement rather than an add-on to software budgets.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
+    <td width="50%"><strong>The IMF calls for barriers around the AI race</strong><br><br>At the IMF-World Bank meetings, Kristalina Georgieva urged guardrails that preserve AI's economic promise without allowing failures to harm workers and societies. The warning places governance alongside debt, jobs and growth as a core macroeconomic question rather than a specialist technology debate.<br><br>Source: <a href="https://apnews.com/article/faba248f0609534a0d8284dec1b46a81">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Nearly half of reef-building corals enter the danger zone</strong><br><br>A reassessment of 892 reef-building coral species found that 340 of the 774 with sufficient data qualify as threatened under IUCN criteria. Most of the projected decline is tied to thermal stress, and the analysis predates the latest record heat and global bleaching event, suggesting the risk baseline may already be conservative.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11263-3">Nature</a></td>
+    <td colspan="2"><strong>A mitochondrial atlas widens biology's family tree</strong><br><br>Scientists have catalogued mitochondrial proteins across five single-celled parasites and one plant, moving beyond the human-and-yeast bias of earlier maps. Shared parasite proteins absent from humans could expose drug targets, while the comparisons revive questions about when and how mitochondria evolved.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03195-9">Nature</a></td>
   </tr>
 </table>
 
