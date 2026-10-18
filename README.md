@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 049 - Saturday, October 17, 2026</sub>
+  <sub>Vol. 050 - Sunday, October 18, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Code review becomes an always-on teammate</strong><br><br>Anthropic's Boris Cherny says Claude Code Review now runs across all of his pull requests and catches bugs before they land. The workflow points to a quieter form of agent adoption: not replacing the engineer, but placing persistent scrutiny inside the delivery pipeline so speed and quality can rise together.<br><br>Source: <a href="https://x.com/bcherny/status/2111158313463525518">Boris Cherny</a></td>
-    <td width="50%"><strong>Enterprise AI moves into the customer's cloud</strong><br><br>Replit says it can deploy its platform inside a customer's own cloud so data stays within the organization's environment. The offer targets governments, finance and healthcare, where AI adoption depends as much on control, residency and auditability as it does on model capability.<br><br>Source: <a href="https://x.com/amasad/status/2111267314012496121">Amjad Masad</a></td>
+    <td width="50%"><strong>Personal and work agents learn to pass the baton</strong><br><br>OpenAI product lead Thibault Sottiaux describes a personal agent requesting documents from a work agent, which then coordinated with his accountant to complete a tax task in 20 minutes. The notable shift is not a smarter chatbot but delegated work crossing identity, inbox and professional boundaries.<br><br>Source: <a href="https://x.com/thsottiaux/status/2111495392559067199">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Model choice survives the preferred-partner era</strong><br><br>Replit CEO Amjad Masad says the platform remains model-agnostic even as OpenAI becomes its preferred agent partner on performance, cost and commercial alignment. The distinction captures an emerging enterprise pattern: optimize the default route while preserving enough portability to switch models as economics and capability change.<br><br>Source: <a href="https://x.com/amasad/status/2111494912562888939">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Cyber defenders get a narrowing head start</strong><br><br>OpenAI president Greg Brockman argues that frontier models currently give defenders an advantage before comparable offensive capability diffuses widely. He says organizations should use this window to find and repair old vulnerabilities, treating AI security spending as a structural requirement rather than an add-on to software budgets.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
-    <td width="50%"><strong>The IMF calls for barriers around the AI race</strong><br><br>At the IMF-World Bank meetings, Kristalina Georgieva urged guardrails that preserve AI's economic promise without allowing failures to harm workers and societies. The warning places governance alongside debt, jobs and growth as a core macroeconomic question rather than a specialist technology debate.<br><br>Source: <a href="https://apnews.com/article/faba248f0609534a0d8284dec1b46a81">Associated Press</a></td>
+    <td width="50%"><strong>Cheaper code expands the territory of engineering</strong><br><br>Aaron Levie argues that automation will increase demand for engineering because more physical, scientific and operational problems can now be expressed as software. Manual coding may shrink, but the economic value of people who understand systems could rise as banks, laboratories and factories digitize work that previously resisted automation.<br><br>Source: <a href="https://x.com/levie/status/2111525362446520466">Aaron Levie</a></td>
+    <td width="50%"><strong>Washington's Russia policy splits at the sanctions line</strong><br><br>President Trump paused new sanctions on Russia days before they were due to take effect, drawing bipartisan criticism from lawmakers who had overwhelmingly backed the measure. The dispute exposes a widening gap between Congress's support for Ukraine and an executive strategy increasingly oriented toward accommodation with Moscow.<br><br>Source: <a href="https://apnews.com/article/3cc9740c39e9e9eb713b1c553b5709e6">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A mitochondrial atlas widens biology's family tree</strong><br><br>Scientists have catalogued mitochondrial proteins across five single-celled parasites and one plant, moving beyond the human-and-yeast bias of earlier maps. Shared parasite proteins absent from humans could expose drug targets, while the comparisons revive questions about when and how mitochondria evolved.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03195-9">Nature</a></td>
+    <td colspan="2"><strong>AI-written dissertations track a turn toward industry</strong><br><br>A working-paper analysis of more than 226,000 US STEM dissertations estimates that AI-generated text appeared in 29.4% of abstracts filed during the first five months of 2026. Graduates flagged as using AI were more likely to work in industry and less likely to remain in academia, although the observational, non-peer-reviewed result does not establish cause.<br><br>Source: <a href="https://www.nature.com/articles/d41586-026-03253-2">Nature</a></td>
   </tr>
 </table>
 
