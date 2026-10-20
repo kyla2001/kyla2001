@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 051 - Monday, October 19, 2026</sub>
+  <sub>Vol. 052 - Tuesday, October 20, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude's strongest boundary is the one users rarely see</strong><br><br>Anthropic details a layered containment model spanning operating-system sandboxes, virtual machines, filesystem limits and network controls. Its own testing found that repeated adaptive attacks can turn a tiny prompt-injection risk into a material one, while Claude Code's sandbox cut permission prompts by 84%.<br><br>Source: <a href="https://www.anthropic.com/engineering/how-we-contain-claude">Anthropic Engineering</a></td>
-    <td width="50%"><strong>The AI talent gap is hiding in the data layer</strong><br><br>Latent Space's Swyx argues that companies are oversupplied with surface-level RAG skills and short on engineers who can build data-intensive systems. As models commoditize, the scarce advantage is shifting toward pipelines, evaluation data and reliable information architecture.<br><br>Source: <a href="https://x.com/swyx/status/2112073533794971941">Swyx</a></td>
+    <td width="50%"><strong>Better models make vertical AI more defensible</strong><br><br>Box CEO Aaron Levie argues that stronger models increase the value of specialization rather than erasing it. Long-running agents still need domain data, tool orchestration, routing and workflow change, leaving room for deeply tailored systems in fields such as healthcare, finance and manufacturing.<br><br>Source: <a href="https://x.com/levie/status/2112404676436222170">Aaron Levie</a></td>
+    <td width="50%"><strong>Vercel opens the plumbing behind durable AI artifacts</strong><br><br>Guillermo Rauch says Vercel has open-sourced a fast HTML artifact builder powered by libfx. The project packages infrastructure developed to keep agents working through server crashes, unreliable model calls and execution limits, turning hard-won production resilience into reusable software.<br><br>Source: <a href="https://x.com/rauchg/status/2112247046082363821">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent swarms turn office work into a compute budget</strong><br><br>Box CEO Aaron Levie frames multi-agent systems as a way to parallelize research, discovery, testing and review. The constraint moves from human sequencing to available compute, making coordination quality and verification the decisive limits on how much knowledge work can run at once.<br><br>Source: <a href="https://x.com/levie/status/2112051081014649303">Aaron Levie</a></td>
-    <td width="50%"><strong>Europe rehearses for a crisis with no clean border</strong><br><br>The EU has opened a month-long exercise spanning hybrid threats inside and outside the bloc. EU Integrated Resolve 2026 will test how political, civilian and security mechanisms coordinate under pressure, treating resilience as a cross-border operating problem rather than a collection of national plans.<br><br>Source: <a href="https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination/">Council of the EU</a></td>
+    <td width="50%"><strong>Agent multitasking meets its attention limit</strong><br><br>Anthropic's Thariq cautions that running several agents at once can disguise weak prioritization. The practical question is not how many tasks can be launched, but which single objective deserves full attention - a reminder that abundant execution does not remove the need for judgment.<br><br>Source: <a href="https://x.com/trq212/status/2112219173288120531">Thariq</a></td>
+    <td width="50%"><strong>Ukraine's air war deepens a widening alliance rift</strong><br><br>Russia launched another missile-and-drone barrage on Ukrainian civilian areas as President Volodymyr Zelenskyy sought additional support in Norway. Shortages of Patriot ammunition and Kyiv's claim that assistance is slowing now place battlefield pressure alongside an increasingly public dispute with Washington.<br><br>Source: <a href="https://apnews.com/article/140895c6c0a1682c46f4fe197e056996">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Nearly half of assessed reef-building corals face elevated risk</strong><br><br>A Nature reassessment classified 340 of 774 data-sufficient reef-building coral species as threatened, largely from population declines projected under thermal stress. The estimate predates the latest record heat and bleaching event, sharpening the case that limiting warming is central to preserving reef biodiversity.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11263-3">Nature</a></td>
+    <td colspan="2"><strong>Southern Africa's rain belt swings harder in a warmer world</strong><br><br>New modelling in Nature Climate Change finds that greenhouse warming increases both the frequency and intensity of extreme southward shifts in the South Indian convergence zone. Because those shifts can drive severe rainfall and flooding, the work points to rising regional risk from changes in large-scale atmospheric circulation.<br><br>Source: <a href="https://www.nature.com/articles/s41558-026-02767-x">Nature Climate Change</a></td>
   </tr>
 </table>
 
