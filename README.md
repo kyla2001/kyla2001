@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 052 - Tuesday, October 20, 2026</sub>
+  <sub>Vol. 053 - Wednesday, October 21, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Better models make vertical AI more defensible</strong><br><br>Box CEO Aaron Levie argues that stronger models increase the value of specialization rather than erasing it. Long-running agents still need domain data, tool orchestration, routing and workflow change, leaving room for deeply tailored systems in fields such as healthcare, finance and manufacturing.<br><br>Source: <a href="https://x.com/levie/status/2112404676436222170">Aaron Levie</a></td>
-    <td width="50%"><strong>Vercel opens the plumbing behind durable AI artifacts</strong><br><br>Guillermo Rauch says Vercel has open-sourced a fast HTML artifact builder powered by libfx. The project packages infrastructure developed to keep agents working through server crashes, unreliable model calls and execution limits, turning hard-won production resilience into reusable software.<br><br>Source: <a href="https://x.com/rauchg/status/2112247046082363821">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Long-running AI conversations shed the cache tax</strong><br><br>OpenAI's Thibault Sottiaux says API prompt caching now lasts 12 hours, while logged-in Codex and Work users can resume old conversations with a guaranteed cache hit and no return penalty. Persistent context is becoming infrastructure, not merely a convenience for chat.<br><br>Source: <a href="https://x.com/thsottiaux/status/2112712984644784534">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Agent durability breaks out of the proprietary harness</strong><br><br>Vercel CEO Guillermo Rauch describes an open-source, runtime-agnostic durability layer that can support Pi, OpenCode and even Claude Code or Codex across local, hosted and do-it-yourself environments. Portability now extends beyond models to the machinery that keeps agents observable and alive.<br><br>Source: <a href="https://x.com/rauchg/status/2112658577110520122">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent multitasking meets its attention limit</strong><br><br>Anthropic's Thariq cautions that running several agents at once can disguise weak prioritization. The practical question is not how many tasks can be launched, but which single objective deserves full attention - a reminder that abundant execution does not remove the need for judgment.<br><br>Source: <a href="https://x.com/trq212/status/2112219173288120531">Thariq</a></td>
-    <td width="50%"><strong>Ukraine's air war deepens a widening alliance rift</strong><br><br>Russia launched another missile-and-drone barrage on Ukrainian civilian areas as President Volodymyr Zelenskyy sought additional support in Norway. Shortages of Patriot ammunition and Kyiv's claim that assistance is slowing now place battlefield pressure alongside an increasingly public dispute with Washington.<br><br>Source: <a href="https://apnews.com/article/140895c6c0a1682c46f4fe197e056996">Associated Press</a></td>
+    <td width="50%"><strong>One agent plans, another codes, a third keeps score</strong><br><br>Peter Steinberger reports better results from separating planning and coding across models in isolated worktrees, with a second agent challenging the plan and monitoring progress. The pattern treats agentic development as a system of checks and roles rather than a larger prompt to one model.<br><br>Source: <a href="https://x.com/steipete/status/2112605703219347503">Peter Steinberger</a></td>
+    <td width="50%"><strong>Europe rewrites the fine print of its digital rulebook</strong><br><br>EU member states agreed a negotiating position to streamline GDPR, cookie and cyber-incident rules while retaining privacy safeguards. The mandate clarifies pseudonymisation, narrows some consent requirements and proposes national reporting entry points, setting up talks with the European Parliament.<br><br>Source: <a href="https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/digital-rulebook-council-agrees-position-to-simplify-data-protection-privacy-and-cyber-reporting-rules/">Council of the EU</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Southern Africa's rain belt swings harder in a warmer world</strong><br><br>New modelling in Nature Climate Change finds that greenhouse warming increases both the frequency and intensity of extreme southward shifts in the South Indian convergence zone. Because those shifts can drive severe rainfall and flooding, the work points to rising regional risk from changes in large-scale atmospheric circulation.<br><br>Source: <a href="https://www.nature.com/articles/s41558-026-02767-x">Nature Climate Change</a></td>
+    <td colspan="2"><strong>A washable sleeve becomes a working computer display</strong><br><br>Researchers report a touch-sensitive digital fibre woven into a breathable garment sleeve with a 96-by-54-pixel display, 30-frame-per-second refresh and 8-bit colour. By combining display, sensing, computation and wireless exchange inside the textile, the prototype moves wearable interfaces beyond rigid screens.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11128-9">Nature</a></td>
   </tr>
 </table>
 
