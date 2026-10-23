@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 054 - Thursday, October 22, 2026</sub>
+  <sub>Vol. 055 - Friday, October 23, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude Duet moves from answering work to noticing it</strong><br><br>Anthropic's new research preview is designed to identify tasks before users ask, carrying over memory, skills and connected apps while deciding what is urgent and when to seek approval. The company says password access is isolated and sensitive sharing is guarded, but acknowledges that priority judgments can still fail.<br><br>Source: <a href="https://x.com/claudeai/status/2112984669943968099">Claude</a></td>
-    <td width="50%"><strong>The AI frontier becomes an operating team</strong><br><br>Every CEO Dan Shipper argues that companies need a dedicated group to track fast-changing models, build internal evaluations and translate experiments into tools everyone else can use. The emerging function is less an innovation lab than a permanent bridge between frontier capability and daily work.<br><br>Source: <a href="https://x.com/danshipper/status/2113010761786175970">Dan Shipper</a></td>
+    <td width="50%"><strong>Agent Skills graduates from product feature to shared standard</strong><br><br>Anthropic is donating Agent Skills, which began as a Claude Code experiment and spread across the industry, to the Agentic AI Foundation alongside MCP. The move treats reusable agent instructions as ecosystem infrastructure rather than vendor-specific behavior.<br><br>Source: <a href="https://x.com/bcherny/status/2113333859907747871">Boris Cherny</a></td>
+    <td width="50%"><strong>Agents need clocks calibrated to machine time</strong><br><br>Swyx argues that delegation breaks when models estimate tasks in human workdays despite finishing them in hours. Reliable ETAs are becoming a core agent capability because orchestration depends not only on quality, but on knowing when downstream work can start.<br><br>Source: <a href="https://x.com/swyx/status/2113283272130412684">Swyx</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>A critical Node flaw meets the firewall before the patch</strong><br><br>Vercel says it deployed network-level mitigations for a remote-code-execution vulnerability before the official Node.js patch arrived, automatically protecting hosted traffic while managed runtimes are upgraded. The response shows how platform operators are becoming an active security layer during coordinated disclosure.<br><br>Source: <a href="https://x.com/rauchg/status/2113050053724221732">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Europe and Viet Nam widen an Indo-Pacific partnership</strong><br><br>EU and Vietnamese leaders agreed to deepen cooperation on critical minerals, technology, clean energy, infrastructure and maritime security. Their Brussels meeting also pressed for fuller use of the trade agreement and faster ratification of investment protections, linking economic diversification with regional resilience.<br><br>Source: <a href="https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/">European Council</a></td>
+    <td width="50%"><strong>Security's next green lock may be a key that expires</strong><br><br>Guillermo Rauch calls for replacing static credentials with short-lived OIDC tokens, so a breach yields self-destructing access rather than permanent secrets. The proposal frames ephemeral identity as the next industry-wide security default after universal TLS.<br><br>Source: <a href="https://x.com/rauchg/status/2113399539227136084">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Nepal's climate recovery pledge exposes a billion-dollar gap</strong><br><br>A UN climate fund promised $20 million after devastating floods, while Nepal estimates reconstruction needs at $4.7 billion. The mismatch highlights how climate finance still trails the scale of damage in vulnerable countries.<br><br>Source: <a href="https://apnews.com/article/187a3b7463eacd662dce6854d0c56eb1">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A four-part brain map links body signals to conscious control</strong><br><br>Intracranial recordings and electrical stimulation in 87 participants reveal four functional regions within the human insula, separating pain and temperature, broad bodily sensation, visceral anxiety and salience-driven control. Directed connections suggest how the brain's anterior control systems can modulate pain and internal experience.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11175-2">Nature</a></td>
+    <td colspan="2"><strong>A circular molecule tackles flow batteries' hardest trade-offs</strong><br><br>Nature Sustainability reports an oligo(disulfide) anolyte for aqueous redox-flow batteries aimed at combining capacity, recyclability, environmental compatibility, low cost and long-term stability. The chemistry targets grid storage's central problem: making durability and sustainability coexist.<br><br>Source: <a href="https://www.nature.com/articles/s41893-026-01970-0">Nature Sustainability</a></td>
   </tr>
 </table>
 
