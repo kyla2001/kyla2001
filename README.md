@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 056 - Saturday, October 24, 2026</sub>
+  <sub>Vol. 057 - Sunday, October 25, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>The agentic web inherits seventy years of software debt</strong><br><br>Cloudflare CTO Dane Knecht tells No Priors that severe vulnerabilities once seen yearly are now surfacing almost weekly as AI expands both attack and defense. He expects security to consume much of engineering's attention during an eighteen-month catch-up, before automated checks become part of every development step.<br><br>Source: <a href="https://podcasts.apple.com/us/podcast/democratizing-security-for-the-agentic-web-with/id1668002688?i=1000797759714">No Priors</a></td>
-    <td width="50%"><strong>Codex CLI turns repeated habits into presets</strong><br><br>New Codex CLI updates add reusable prompt presets, inline model and permission controls, enterprise MCP sign-in, and fixes for long-session resumes and Windows corporate proxies. Thibault Sottiaux says usage has doubled since DevDay, suggesting terminal agents are moving from experiments into routine engineering work.<br><br>Source: <a href="https://x.com/thsottiaux/status/2113770862860222611">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>The scarce AI skill is knowing when to steer</strong><br><br>Guillermo Rauch argues that effective AI work sits between two failures: over-directing a capable model and under-directing one that lacks context. The emerging craft is judgment, knowing when the system can lead and when a human must supply constraints, evidence or correction.<br><br>Source: <a href="https://x.com/rauchg/status/2114085432749347086">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Cyber defense prepares for a thousandfold token flood</strong><br><br>Aaron Levie expects agent swarms to fan across code, logs, identity systems and infrastructure as security workloads outgrow human teams. Long-running agents and computer use now make continuous testing practical, turning defensive compute into a major new layer of the security stack.<br><br>Source: <a href="https://x.com/levie/status/2114187326406766604">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Chroma joins Replit to give agents a working memory</strong><br><br>Replit is bringing in the Chroma team to tackle the context and memory agents need for sustained work. The combination signals a shift beyond one-shot code generation toward systems that can retain organizational knowledge and operate across longer business workflows.<br><br>Source: <a href="https://x.com/amasad/status/2113736007111827606">Amjad Masad</a></td>
-    <td width="50%"><strong>AI's power appetite redraws the nuclear forecast</strong><br><br>The IAEA now projects nuclear power could more than triple by 2060 as electrification and AI data centers lift demand for reliable low-carbon energy. Its annual UN report pairs that expansion with unresolved safeguards and safety risks in Iran, North Korea and Ukraine.<br><br>Source: <a href="https://apnews.com/article/d7de64508476ceedc721a89cb42c9cfb">Associated Press</a></td>
+    <td width="50%"><strong>When automation removes the struggle that taught the craft</strong><br><br>Designer Ryo Lu warns that instant outputs can hide the questions people never learn to ask and make imperfect human collaboration easier to avoid. His case is not for preserving drudgery, but for building tools that return time to learning, shared work and the world beyond the screen.<br><br>Source: <a href="https://x.com/ryolu_/status/2114187405251219954">Ryo Lu</a></td>
+    <td width="50%"><strong>Peace signals return, but the hardest borders remain</strong><br><br>Ukraine and Russia have signaled willingness to resume U.S.-brokered talks and support a humanitarian mission, with negotiations expected in mid-November. AP reports that territorial control and credible security guarantees remain the central obstacles to turning renewed contact into a durable settlement.<br><br>Source: <a href="https://apnews.com/article/94e0aee5d56bcd164f8cbae0918ed1f8">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A sharper MRI scale tracks the marks of repeated head impacts</strong><br><br>Researchers tested a revised five-point brain-imaging scale in 170 former American football players and 54 unexposed controls. Higher grades aligned with larger cavum septi pellucidi measurements and greater cumulative impact exposure, offering a more consistent tool for long-term brain-health studies.<br><br>Source: <a href="https://www.nature.com/articles/s43856-026-01978-9">Communications Medicine</a></td>
+    <td colspan="2"><strong>A miniature CRISPR cutter comes into structural focus</strong><br><br>Researchers mapped the RNA-guided Casδ−1 complex at 3.04 Å resolution, revealing how it recognizes target-adjacent motifs, assembles an RNA-DNA duplex and cleaves double-stranded DNA. The compact mechanism offers a blueprint for engineering smaller, versatile genome-editing tools.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79084-6">Nature Communications</a></td>
   </tr>
 </table>
 
