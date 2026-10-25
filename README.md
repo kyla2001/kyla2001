@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 055 - Friday, October 23, 2026</sub>
+  <sub>Vol. 056 - Saturday, October 24, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Agent Skills graduates from product feature to shared standard</strong><br><br>Anthropic is donating Agent Skills, which began as a Claude Code experiment and spread across the industry, to the Agentic AI Foundation alongside MCP. The move treats reusable agent instructions as ecosystem infrastructure rather than vendor-specific behavior.<br><br>Source: <a href="https://x.com/bcherny/status/2113333859907747871">Boris Cherny</a></td>
-    <td width="50%"><strong>Agents need clocks calibrated to machine time</strong><br><br>Swyx argues that delegation breaks when models estimate tasks in human workdays despite finishing them in hours. Reliable ETAs are becoming a core agent capability because orchestration depends not only on quality, but on knowing when downstream work can start.<br><br>Source: <a href="https://x.com/swyx/status/2113283272130412684">Swyx</a></td>
+    <td width="50%"><strong>The agentic web inherits seventy years of software debt</strong><br><br>Cloudflare CTO Dane Knecht tells No Priors that severe vulnerabilities once seen yearly are now surfacing almost weekly as AI expands both attack and defense. He expects security to consume much of engineering's attention during an eighteen-month catch-up, before automated checks become part of every development step.<br><br>Source: <a href="https://podcasts.apple.com/us/podcast/democratizing-security-for-the-agentic-web-with/id1668002688?i=1000797759714">No Priors</a></td>
+    <td width="50%"><strong>Codex CLI turns repeated habits into presets</strong><br><br>New Codex CLI updates add reusable prompt presets, inline model and permission controls, enterprise MCP sign-in, and fixes for long-session resumes and Windows corporate proxies. Thibault Sottiaux says usage has doubled since DevDay, suggesting terminal agents are moving from experiments into routine engineering work.<br><br>Source: <a href="https://x.com/thsottiaux/status/2113770862860222611">Thibault Sottiaux</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Security's next green lock may be a key that expires</strong><br><br>Guillermo Rauch calls for replacing static credentials with short-lived OIDC tokens, so a breach yields self-destructing access rather than permanent secrets. The proposal frames ephemeral identity as the next industry-wide security default after universal TLS.<br><br>Source: <a href="https://x.com/rauchg/status/2113399539227136084">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Nepal's climate recovery pledge exposes a billion-dollar gap</strong><br><br>A UN climate fund promised $20 million after devastating floods, while Nepal estimates reconstruction needs at $4.7 billion. The mismatch highlights how climate finance still trails the scale of damage in vulnerable countries.<br><br>Source: <a href="https://apnews.com/article/187a3b7463eacd662dce6854d0c56eb1">Associated Press</a></td>
+    <td width="50%"><strong>Chroma joins Replit to give agents a working memory</strong><br><br>Replit is bringing in the Chroma team to tackle the context and memory agents need for sustained work. The combination signals a shift beyond one-shot code generation toward systems that can retain organizational knowledge and operate across longer business workflows.<br><br>Source: <a href="https://x.com/amasad/status/2113736007111827606">Amjad Masad</a></td>
+    <td width="50%"><strong>AI's power appetite redraws the nuclear forecast</strong><br><br>The IAEA now projects nuclear power could more than triple by 2060 as electrification and AI data centers lift demand for reliable low-carbon energy. Its annual UN report pairs that expansion with unresolved safeguards and safety risks in Iran, North Korea and Ukraine.<br><br>Source: <a href="https://apnews.com/article/d7de64508476ceedc721a89cb42c9cfb">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A circular molecule tackles flow batteries' hardest trade-offs</strong><br><br>Nature Sustainability reports an oligo(disulfide) anolyte for aqueous redox-flow batteries aimed at combining capacity, recyclability, environmental compatibility, low cost and long-term stability. The chemistry targets grid storage's central problem: making durability and sustainability coexist.<br><br>Source: <a href="https://www.nature.com/articles/s41893-026-01970-0">Nature Sustainability</a></td>
+    <td colspan="2"><strong>A sharper MRI scale tracks the marks of repeated head impacts</strong><br><br>Researchers tested a revised five-point brain-imaging scale in 170 former American football players and 54 unexposed controls. Higher grades aligned with larger cavum septi pellucidi measurements and greater cumulative impact exposure, offering a more consistent tool for long-term brain-health studies.<br><br>Source: <a href="https://www.nature.com/articles/s43856-026-01978-9">Communications Medicine</a></td>
   </tr>
 </table>
 
