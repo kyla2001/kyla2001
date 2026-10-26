@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 057 - Sunday, October 25, 2026</sub>
+  <sub>Vol. 058 - Monday, October 26, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>The scarce AI skill is knowing when to steer</strong><br><br>Guillermo Rauch argues that effective AI work sits between two failures: over-directing a capable model and under-directing one that lacks context. The emerging craft is judgment, knowing when the system can lead and when a human must supply constraints, evidence or correction.<br><br>Source: <a href="https://x.com/rauchg/status/2114085432749347086">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Cyber defense prepares for a thousandfold token flood</strong><br><br>Aaron Levie expects agent swarms to fan across code, logs, identity systems and infrastructure as security workloads outgrow human teams. Long-running agents and computer use now make continuous testing practical, turning defensive compute into a major new layer of the security stack.<br><br>Source: <a href="https://x.com/levie/status/2114187326406766604">Aaron Levie</a></td>
+    <td width="50%"><strong>Video style becomes a reusable prompt</strong><br><br>A new Claude-assisted editing workflow lets creators upload a reference short, preserve its visual structure and describe changes to fonts, colors or subject matter. The pattern turns style analysis from a manual reverse-engineering task into an editable production primitive.<br><br>Source: <a href="https://x.com/petergyang/status/2114507378532229214">Peter Yang</a></td>
+    <td width="50%"><strong>A publishing system beats a launch spectacle</strong><br><br>Zara Zhang argues that teams overvalue one expensive launch and undervalue showing up every day. A repeatable cadence of small videos compounds audience learning and product feedback, making consistency a distribution advantage rather than a fallback for limited budgets.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2114255477907570865">Zara Zhang</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>When automation removes the struggle that taught the craft</strong><br><br>Designer Ryo Lu warns that instant outputs can hide the questions people never learn to ask and make imperfect human collaboration easier to avoid. His case is not for preserving drudgery, but for building tools that return time to learning, shared work and the world beyond the screen.<br><br>Source: <a href="https://x.com/ryolu_/status/2114187405251219954">Ryo Lu</a></td>
-    <td width="50%"><strong>Peace signals return, but the hardest borders remain</strong><br><br>Ukraine and Russia have signaled willingness to resume U.S.-brokered talks and support a humanitarian mission, with negotiations expected in mid-November. AP reports that territorial control and credible security guarantees remain the central obstacles to turning renewed contact into a durable settlement.<br><br>Source: <a href="https://apnews.com/article/94e0aee5d56bcd164f8cbae0918ed1f8">Associated Press</a></td>
+    <td width="50%"><strong>AI science reaches biology's data wall</strong><br><br>OpenAI president Greg Brockman tells No Priors that models are beginning to produce new mathematical knowledge, but biology presents a different constraint: much of the needed data does not yet exist. Progress in drug discovery will therefore depend on better wet labs, simulations and downstream regulatory workflows as much as smarter models.<br><br>Source: <a href="https://podcasts.apple.com/ie/podcast/the-changing-physics-of-cybersecurity-and/id1668002688?i=1000796472163">No Priors</a></td>
+    <td width="50%"><strong>AI investment needs more than server halls</strong><br><br>UNCTAD says announced greenfield investment in AI infrastructure grew 47% annually from 2020 to 2025, yet remains concentrated in a few economies and firms. It argues that electricity, affordable connectivity, skills, research, finance and local applications determine whether compute becomes broadly shared economic value.<br><br>Source: <a href="https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres">UN Trade and Development</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A miniature CRISPR cutter comes into structural focus</strong><br><br>Researchers mapped the RNA-guided Casδ−1 complex at 3.04 Å resolution, revealing how it recognizes target-adjacent motifs, assembles an RNA-DNA duplex and cleaves double-stranded DNA. The compact mechanism offers a blueprint for engineering smaller, versatile genome-editing tools.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79084-6">Nature Communications</a></td>
+    <td colspan="2"><strong>A liquid biopsy reads metabolism inside the living eye</strong><br><br>Researchers found coordinated mitochondrial protein loss in fluid from eyes affected by geographic atrophy. In a separate phase 0 cohort, oral α-ketoglutarate reached the eye and shifted energy-related metabolites, showing that ocular fluid can track target engagement before larger treatment trials.<br><br>Source: <a href="https://www.nature.com/articles/s43856-026-01982-z">Communications Medicine</a></td>
   </tr>
 </table>
 
