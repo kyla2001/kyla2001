@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 058 - Monday, October 26, 2026</sub>
+  <sub>Vol. 059 - Tuesday, October 27, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Video style becomes a reusable prompt</strong><br><br>A new Claude-assisted editing workflow lets creators upload a reference short, preserve its visual structure and describe changes to fonts, colors or subject matter. The pattern turns style analysis from a manual reverse-engineering task into an editable production primitive.<br><br>Source: <a href="https://x.com/petergyang/status/2114507378532229214">Peter Yang</a></td>
-    <td width="50%"><strong>A publishing system beats a launch spectacle</strong><br><br>Zara Zhang argues that teams overvalue one expensive launch and undervalue showing up every day. A repeatable cadence of small videos compounds audience learning and product feedback, making consistency a distribution advantage rather than a fallback for limited budgets.<br><br>Source: <a href="https://x.com/zarazhangrui/status/2114255477907570865">Zara Zhang</a></td>
+    <td width="50%"><strong>Computer use becomes the new model frontier</strong><br><br>OpenAI's Terra release puts computer control at the center of its latest model cycle, alongside stronger writing and more nuanced instruction following. The launch points toward agents that navigate software directly, making reliability across real interfaces as important as benchmark scores.<br><br>Source: <a href="https://x.com/thsottiaux/status/2114800277677092936">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Agents learn to whisper through shared silicon</strong><br><br>A reproduction of covert CPU communication showed isolated microVMs exchanging messages through contention, cache timing and memory bandwidth. The experiment suggests that agent sandboxes sharing hardware need behavioral monitoring as well as conventional network isolation.<br><br>Source: <a href="https://x.com/rauchg/status/2114770919436808572">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI science reaches biology's data wall</strong><br><br>OpenAI president Greg Brockman tells No Priors that models are beginning to produce new mathematical knowledge, but biology presents a different constraint: much of the needed data does not yet exist. Progress in drug discovery will therefore depend on better wet labs, simulations and downstream regulatory workflows as much as smarter models.<br><br>Source: <a href="https://podcasts.apple.com/ie/podcast/the-changing-physics-of-cybersecurity-and/id1668002688?i=1000796472163">No Priors</a></td>
-    <td width="50%"><strong>AI investment needs more than server halls</strong><br><br>UNCTAD says announced greenfield investment in AI infrastructure grew 47% annually from 2020 to 2025, yet remains concentrated in a few economies and firms. It argues that electricity, affordable connectivity, skills, research, finance and local applications determine whether compute becomes broadly shared economic value.<br><br>Source: <a href="https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres">UN Trade and Development</a></td>
+    <td width="50%"><strong>Small nonprofits get an AI operations layer</strong><br><br>Claude says more than 25,000 nonprofits now use its tools and is expanding the program with a plugin shaped by roughly 30 organizations. Fundraising, marketing and hiring workflows can draw on each team's own context and AI policy, bringing tailored automation to groups with limited staff.<br><br>Source: <a href="https://x.com/claudeai/status/2114780227465338985">Claude</a></td>
+    <td width="50%"><strong>Israel votes after three years of war</strong><br><br>Israelis are choosing their first national government since the October 7 attack, in a tight contest framed as a referendum on Benjamin Netanyahu. Because parties must assemble a parliamentary majority, the ballot may open weeks of coalition bargaining before the country's direction is settled.<br><br>Source: <a href="https://apnews.com/article/3b5a0fd078208155337ee9a0b9fbfde2">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A liquid biopsy reads metabolism inside the living eye</strong><br><br>Researchers found coordinated mitochondrial protein loss in fluid from eyes affected by geographic atrophy. In a separate phase 0 cohort, oral α-ketoglutarate reached the eye and shifted energy-related metabolites, showing that ocular fluid can track target engagement before larger treatment trials.<br><br>Source: <a href="https://www.nature.com/articles/s43856-026-01982-z">Communications Medicine</a></td>
+    <td colspan="2"><strong>An armoured amphibian rewrites life at sea</strong><br><br>Two nearly complete fossils from China identify a 237-million-year-old stem amphibian that appears to have lived fully in salt water. Its extensive body armour may have limited skin-based salt exchange, offering a mechanism for a marine transition absent from every known modern amphibian.<br><br>Source: <a href="https://www.nature.com/articles/s41559-026-03209-9">Nature Ecology &amp; Evolution</a></td>
   </tr>
 </table>
 
