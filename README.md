@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 059 - Tuesday, October 27, 2026</sub>
+  <sub>Vol. 060 - Wednesday, October 28, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Computer use becomes the new model frontier</strong><br><br>OpenAI's Terra release puts computer control at the center of its latest model cycle, alongside stronger writing and more nuanced instruction following. The launch points toward agents that navigate software directly, making reliability across real interfaces as important as benchmark scores.<br><br>Source: <a href="https://x.com/thsottiaux/status/2114800277677092936">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Agents learn to whisper through shared silicon</strong><br><br>A reproduction of covert CPU communication showed isolated microVMs exchanging messages through contention, cache timing and memory bandwidth. The experiment suggests that agent sandboxes sharing hardware need behavioral monitoring as well as conventional network isolation.<br><br>Source: <a href="https://x.com/rauchg/status/2114770919436808572">Guillermo Rauch</a></td>
+    <td width="50%"><strong>The desktop begins to reorganize itself</strong><br><br>An experimental AI-native macOS dock classifies activity and notifications in real time, then lets an agent customize modes for writing, building and other contexts. The prototype points toward operating systems that adapt their interface around intent instead of waiting for users to rearrange tools manually.<br><br>Source: <a href="https://x.com/trq212/status/2115135857669881939">Thariq</a></td>
+    <td width="50%"><strong>Enterprise agents are still below one percent</strong><br><br>Aaron Levie argues that meaningful agent deployment touches less than 1% of enterprise workflows. Computer use, long-running execution and stronger orchestration may now move adoption beyond isolated model calls toward organizations redesigning whole processes around autonomous work.<br><br>Source: <a href="https://x.com/levie/status/2115305369799110905">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Small nonprofits get an AI operations layer</strong><br><br>Claude says more than 25,000 nonprofits now use its tools and is expanding the program with a plugin shaped by roughly 30 organizations. Fundraising, marketing and hiring workflows can draw on each team's own context and AI policy, bringing tailored automation to groups with limited staff.<br><br>Source: <a href="https://x.com/claudeai/status/2114780227465338985">Claude</a></td>
-    <td width="50%"><strong>Israel votes after three years of war</strong><br><br>Israelis are choosing their first national government since the October 7 attack, in a tight contest framed as a referendum on Benjamin Netanyahu. Because parties must assemble a parliamentary majority, the ballot may open weeks of coalition bargaining before the country's direction is settled.<br><br>Source: <a href="https://apnews.com/article/3b5a0fd078208155337ee9a0b9fbfde2">Associated Press</a></td>
+    <td width="50%"><strong>AI's next premium may be scientific discovery</strong><br><br>Amjad Masad argues that coding and routine knowledge work are being saturated by sub-frontier models, shifting the investment case for frontier systems toward discovery and medicine. The thesis reframes model value around producing new knowledge rather than automating familiar tasks more cheaply.<br><br>Source: <a href="https://x.com/amasad/status/2115207856496480261">Amjad Masad</a></td>
+    <td width="50%"><strong>Cuba embargo returns to the world stage</strong><br><br>The UN General Assembly is voting again on a nonbinding resolution condemning the decades-old U.S. economic embargo on Cuba. This year's debate arrives amid a renewed American pressure campaign, turning an annual diplomatic ritual into a sharper measure of international concern over Washington's policy.<br><br>Source: <a href="https://apnews.com/article/52ab17ec75d26cd9d1893915ce18f414">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>An armoured amphibian rewrites life at sea</strong><br><br>Two nearly complete fossils from China identify a 237-million-year-old stem amphibian that appears to have lived fully in salt water. Its extensive body armour may have limited skin-based salt exchange, offering a mechanism for a marine transition absent from every known modern amphibian.<br><br>Source: <a href="https://www.nature.com/articles/s41559-026-03209-9">Nature Ecology &amp; Evolution</a></td>
+    <td colspan="2"><strong>AI searches for a sturdier solar-cell interface</strong><br><br>Researchers combined machine-guided screening with synthetic accessibility and interface-stability tests to discover self-assembled monolayers for perovskite solar cells. The work shows how materials models can optimize not only predicted performance, but also whether promising molecules can be made and remain stable in a device.<br><br>Source: <a href="https://www.nature.com/articles/s44160-026-01203-4">Nature Synthesis</a></td>
   </tr>
 </table>
 
