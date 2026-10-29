@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 060 - Wednesday, October 28, 2026</sub>
+  <sub>Vol. 061 - Thursday, October 29, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>The desktop begins to reorganize itself</strong><br><br>An experimental AI-native macOS dock classifies activity and notifications in real time, then lets an agent customize modes for writing, building and other contexts. The prototype points toward operating systems that adapt their interface around intent instead of waiting for users to rearrange tools manually.<br><br>Source: <a href="https://x.com/trq212/status/2115135857669881939">Thariq</a></td>
-    <td width="50%"><strong>Enterprise agents are still below one percent</strong><br><br>Aaron Levie argues that meaningful agent deployment touches less than 1% of enterprise workflows. Computer use, long-running execution and stronger orchestration may now move adoption beyond isolated model calls toward organizations redesigning whole processes around autonomous work.<br><br>Source: <a href="https://x.com/levie/status/2115305369799110905">Aaron Levie</a></td>
+    <td width="50%"><strong>Utah puts coding agents inside government</strong><br><br>A four-week Claude Code pilot reached 34 developers across ten Utah state agencies. Eighty percent had a working environment within 30 minutes, while 71% reported saving more than 20 hours, offering an early measure of how quickly coding agents can enter public-sector workflows.<br><br>Source: <a href="https://x.com/bcherny/status/2115491259381072269">Boris Cherny</a></td>
+    <td width="50%"><strong>Model choice becomes a routing problem</strong><br><br>Guillermo Rauch compares model aliases to DNS: a stable name can resolve to changing providers or versions while teams steer traffic, cost and performance behind the scenes. The pattern turns model upgrades from application rewrites into infrastructure policy.<br><br>Source: <a href="https://x.com/rauchg/status/2115573969369845855">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI's next premium may be scientific discovery</strong><br><br>Amjad Masad argues that coding and routine knowledge work are being saturated by sub-frontier models, shifting the investment case for frontier systems toward discovery and medicine. The thesis reframes model value around producing new knowledge rather than automating familiar tasks more cheaply.<br><br>Source: <a href="https://x.com/amasad/status/2115207856496480261">Amjad Masad</a></td>
-    <td width="50%"><strong>Cuba embargo returns to the world stage</strong><br><br>The UN General Assembly is voting again on a nonbinding resolution condemning the decades-old U.S. economic embargo on Cuba. This year's debate arrives amid a renewed American pressure campaign, turning an annual diplomatic ritual into a sharper measure of international concern over Washington's policy.<br><br>Source: <a href="https://apnews.com/article/52ab17ec75d26cd9d1893915ce18f414">Associated Press</a></td>
+    <td width="50%"><strong>Good AI art still begins with a point of view</strong><br><br>Emmy-winning filmmaker Fred Graver describes AI as a production tool rather than a substitute for creative judgment. His workflow pairs technical fluency with decades of storytelling craft, suggesting that lower production barriers amplify taste and direction instead of making them optional.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL">AI &amp; I by Every</a></td>
+    <td width="50%"><strong>Allies brace for another Iran escalation</strong><br><br>U.S. officials have warned several Middle East partners to prepare for possible renewed strikes on Iran after the American midterm elections, along with potential retaliation. Tehran says it is still pursuing diplomacy, while regional governments are urging restraint and a return to political talks.<br><br>Source: <a href="https://apnews.com/article/c7df622f1e87de6035173be8fb8c4add">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>AI searches for a sturdier solar-cell interface</strong><br><br>Researchers combined machine-guided screening with synthetic accessibility and interface-stability tests to discover self-assembled monolayers for perovskite solar cells. The work shows how materials models can optimize not only predicted performance, but also whether promising molecules can be made and remain stable in a device.<br><br>Source: <a href="https://www.nature.com/articles/s44160-026-01203-4">Nature Synthesis</a></td>
+    <td colspan="2"><strong>The developing brain performs genomic quality control</strong><br><br>Single-cell sequencing of 2,357 human neurons found widespread chromosome-scale abnormalities before birth, followed by an approximately 4.5-fold reduction after birth. The results suggest that the perinatal brain selectively removes highly aberrant neurons as circuits and synapses take shape.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11190-3">Nature</a></td>
   </tr>
 </table>
 
