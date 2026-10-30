@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 061 - Thursday, October 29, 2026</sub>
+  <sub>Vol. 062 - Friday, October 30, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Utah puts coding agents inside government</strong><br><br>A four-week Claude Code pilot reached 34 developers across ten Utah state agencies. Eighty percent had a working environment within 30 minutes, while 71% reported saving more than 20 hours, offering an early measure of how quickly coding agents can enter public-sector workflows.<br><br>Source: <a href="https://x.com/bcherny/status/2115491259381072269">Boris Cherny</a></td>
-    <td width="50%"><strong>Model choice becomes a routing problem</strong><br><br>Guillermo Rauch compares model aliases to DNS: a stable name can resolve to changing providers or versions while teams steer traffic, cost and performance behind the scenes. The pattern turns model upgrades from application rewrites into infrastructure policy.<br><br>Source: <a href="https://x.com/rauchg/status/2115573969369845855">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Seven hundred textbooks enter the AI notebook</strong><br><br>Google's Notebook has opened access to more than 700 textbooks from major publishers at no charge. Folding authoritative course material into an AI study workspace could shift learning from searching scattered sources toward asking questions against a curated reference library.<br><br>Source: <a href="https://x.com/joshwoodward/status/2115953461108023400">Josh Woodward</a></td>
+    <td width="50%"><strong>A GitHub link becomes a runnable environment</strong><br><br>Replit now lets users paste a public GitHub repository and automatically set up an environment to run it. The feature compresses dependency discovery and configuration into a single handoff, making unfamiliar codebases easier for both people and agents to inspect.<br><br>Source: <a href="https://x.com/amasad/status/2115890577430438063">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Good AI art still begins with a point of view</strong><br><br>Emmy-winning filmmaker Fred Graver describes AI as a production tool rather than a substitute for creative judgment. His workflow pairs technical fluency with decades of storytelling craft, suggesting that lower production barriers amplify taste and direction instead of making them optional.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL">AI &amp; I by Every</a></td>
-    <td width="50%"><strong>Allies brace for another Iran escalation</strong><br><br>U.S. officials have warned several Middle East partners to prepare for possible renewed strikes on Iran after the American midterm elections, along with potential retaliation. Tehran says it is still pursuing diplomacy, while regional governments are urging restraint and a return to political talks.<br><br>Source: <a href="https://apnews.com/article/c7df622f1e87de6035173be8fb8c4add">Associated Press</a></td>
+    <td width="50%"><strong>Cyber risk overtakes the extinction debate</strong><br><br>State of AI author Nathan Benaich argues that near-term cyber threats are more concrete than distant extinction scenarios. As models increasingly assist research and generate software, security around weights, agent permissions and critical infrastructure becomes a present operational constraint rather than a theoretical concern.<br><br>Source: <a href="https://www.youtube.com/@DataDrivenNYC/videos">The MAD Podcast</a></td>
+    <td width="50%"><strong>A missing photograph exposes the G20 divide</strong><br><br>The United States canceled the traditional G20 foreign-ministers photo after European diplomats objected to appearing with Russia's Sergey Lavrov. The dispute put fractures over Ukraine, Iran, tariffs and China on display before the Atlanta talks had formally begun.<br><br>Source: <a href="https://apnews.com/article/ed4ab8ad9fedd628c39ac05bc5092cac">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>The developing brain performs genomic quality control</strong><br><br>Single-cell sequencing of 2,357 human neurons found widespread chromosome-scale abnormalities before birth, followed by an approximately 4.5-fold reduction after birth. The results suggest that the perinatal brain selectively removes highly aberrant neurons as circuits and synapses take shape.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11190-3">Nature</a></td>
+    <td colspan="2"><strong>A transistor makes night-level infrared visible</strong><br><br>Researchers built a low-voltage avalanche phototransistor that converts faint infrared input into visible amber light. At illumination near natural nightglow, the output was more than 17,000 times brighter than the incoming infrared signal, pointing toward compact night vision, medical imaging and optogenetic devices.<br><br>Source: <a href="https://www.nature.com/articles/s41566-026-02046-3">Nature Photonics</a></td>
   </tr>
 </table>
 
