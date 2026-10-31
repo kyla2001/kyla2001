@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 062 - Friday, October 30, 2026</sub>
+  <sub>Vol. 063 - Saturday, October 31, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Seven hundred textbooks enter the AI notebook</strong><br><br>Google's Notebook has opened access to more than 700 textbooks from major publishers at no charge. Folding authoritative course material into an AI study workspace could shift learning from searching scattered sources toward asking questions against a curated reference library.<br><br>Source: <a href="https://x.com/joshwoodward/status/2115953461108023400">Josh Woodward</a></td>
-    <td width="50%"><strong>A GitHub link becomes a runnable environment</strong><br><br>Replit now lets users paste a public GitHub repository and automatically set up an environment to run it. The feature compresses dependency discovery and configuration into a single handoff, making unfamiliar codebases easier for both people and agents to inspect.<br><br>Source: <a href="https://x.com/amasad/status/2115890577430438063">Amjad Masad</a></td>
+    <td width="50%"><strong>Software starts maintaining itself</strong><br><br>Replit says hosted applications with Autofix enabled can diagnose and repair failures automatically. The shift from one-time code generation to continuous operation raises the bar for observability, rollback and carefully scoped permissions.<br><br>Source: <a href="https://x.com/amasad/status/2116343923925041462">Amjad Masad</a></td>
+    <td width="50%"><strong>Enterprise agents meet the approval chain</strong><br><br>Serval argues that agents moving into IT, HR, finance and legal need deterministic approvals, staging, audit trails and just-in-time elevated access. Coding capability becomes enterprise-ready only when governance is embedded in the workflow.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Cyber risk overtakes the extinction debate</strong><br><br>State of AI author Nathan Benaich argues that near-term cyber threats are more concrete than distant extinction scenarios. As models increasingly assist research and generate software, security around weights, agent permissions and critical infrastructure becomes a present operational constraint rather than a theoretical concern.<br><br>Source: <a href="https://www.youtube.com/@DataDrivenNYC/videos">The MAD Podcast</a></td>
-    <td width="50%"><strong>A missing photograph exposes the G20 divide</strong><br><br>The United States canceled the traditional G20 foreign-ministers photo after European diplomats objected to appearing with Russia's Sergey Lavrov. The dispute put fractures over Ukraine, Iran, tariffs and China on display before the Atlanta talks had formally begun.<br><br>Source: <a href="https://apnews.com/article/ed4ab8ad9fedd628c39ac05bc5092cac">Associated Press</a></td>
+    <td width="50%"><strong>Agent context becomes portable infrastructure</strong><br><br>GBrain Cloud is designed to carry one durable context layer across personal assistants and coding agents, including Claude Code and Codex. The proposal separates organizational memory from whichever model or interface happens to execute the task.<br><br>Source: <a href="https://x.com/garrytan/status/2116303457774899251">Garry Tan</a></td>
+    <td width="50%"><strong>The G20 closes without a common voice</strong><br><br>Foreign ministers ended their Atlanta meeting without a joint communique as divisions over Russia's war in Ukraine persisted. A chairman's statement replaced consensus, underscoring the diplomatic strain ahead of the leaders' summit.<br><br>Source: <a href="https://apnews.com/article/21c65a8bb02a3a0f0c89f0ce6d56d5fd">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A transistor makes night-level infrared visible</strong><br><br>Researchers built a low-voltage avalanche phototransistor that converts faint infrared input into visible amber light. At illumination near natural nightglow, the output was more than 17,000 times brighter than the incoming infrared signal, pointing toward compact night vision, medical imaging and optogenetic devices.<br><br>Source: <a href="https://www.nature.com/articles/s41566-026-02046-3">Nature Photonics</a></td>
+    <td colspan="2"><strong>Thirty experiments replace a vast materials search</strong><br><br>A closed-loop system combining synchrotron X-ray scattering with Bayesian optimization tuned block-copolymer morphology in about 30 experiments, more than two orders of magnitude fewer than a uniform scan. The result points toward faster autonomous discovery for nanofabrication and optoelectronics.<br><br>Source: <a href="https://www.nature.com/articles/s41528-026-00658-x">npj Flexible Electronics</a></td>
   </tr>
 </table>
 
