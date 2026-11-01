@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 063 - Saturday, October 31, 2026</sub>
+  <sub>Vol. 064 - Sunday, November 1, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Software starts maintaining itself</strong><br><br>Replit says hosted applications with Autofix enabled can diagnose and repair failures automatically. The shift from one-time code generation to continuous operation raises the bar for observability, rollback and carefully scoped permissions.<br><br>Source: <a href="https://x.com/amasad/status/2116343923925041462">Amjad Masad</a></td>
-    <td width="50%"><strong>Enterprise agents meet the approval chain</strong><br><br>Serval argues that agents moving into IT, HR, finance and legal need deterministic approvals, staging, audit trails and just-in-time elevated access. Coding capability becomes enterprise-ready only when governance is embedded in the workflow.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
+    <td width="50%"><strong>AI work must clear a higher ceiling</strong><br><br>Aaron Levie argues that the new test for AI is no longer whether it reproduces familiar work faster, but whether it delivers products, research and processes that were previously out of reach. Productivity is giving way to a more demanding measure: qualitative change.<br><br>Source: <a href="https://x.com/levie/status/2116652002830963114">Aaron Levie</a></td>
+    <td width="50%"><strong>The critique loop challenges maximum effort</strong><br><br>Swyx favors lower reasoning effort paired with repeated critique over a single expensive, maximum-effort run. For throughput-bound agent systems, disciplined iteration may matter more than pushing every task through the largest inference budget.<br><br>Source: <a href="https://x.com/swyx/status/2116642586387730593">Swyx</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent context becomes portable infrastructure</strong><br><br>GBrain Cloud is designed to carry one durable context layer across personal assistants and coding agents, including Claude Code and Codex. The proposal separates organizational memory from whichever model or interface happens to execute the task.<br><br>Source: <a href="https://x.com/garrytan/status/2116303457774899251">Garry Tan</a></td>
-    <td width="50%"><strong>The G20 closes without a common voice</strong><br><br>Foreign ministers ended their Atlanta meeting without a joint communique as divisions over Russia's war in Ukraine persisted. A chairman's statement replaced consensus, underscoring the diplomatic strain ahead of the leaders' summit.<br><br>Source: <a href="https://apnews.com/article/21c65a8bb02a3a0f0c89f0ce6d56d5fd">AP News</a></td>
+    <td width="50%"><strong>Financial agents learn to wait</strong><br><br>Arca's long-horizon agents can track a client's tax or portfolio task across days, while deterministic controls reserve money movement and direct communication for humans. Persistent memory, audit logs and edge checks turn autonomy into a supervised operating model.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
+    <td width="50%"><strong>Strait diplomacy races a widening conflict</strong><br><br>Iranian negotiators are discussing conditions that could reopen the Strait of Hormuz, even as strikes in Gaza and an attack on a Qatari gas vessel sharpen regional risk. The simultaneous push for mediation and military pressure leaves diplomacy operating against the clock.<br><br>Source: <a href="https://apnews.com/article/b918f44d8f212d7daf7f2f9a98c91a0b">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Thirty experiments replace a vast materials search</strong><br><br>A closed-loop system combining synchrotron X-ray scattering with Bayesian optimization tuned block-copolymer morphology in about 30 experiments, more than two orders of magnitude fewer than a uniform scan. The result points toward faster autonomous discovery for nanofabrication and optoelectronics.<br><br>Source: <a href="https://www.nature.com/articles/s41528-026-00658-x">npj Flexible Electronics</a></td>
+    <td colspan="2"><strong>Microscopy sees through scattering tissue</strong><br><br>Researchers developed volumetric scattering microscopy for non-invasive, scan-free 3D fluorescence imaging through biological tissue. By recovering clearer views across cells, tissues and intact organisms, the method could widen the reach of deep-tissue observation without physical sectioning.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79103-6">Nature Communications</a></td>
   </tr>
 </table>
 
