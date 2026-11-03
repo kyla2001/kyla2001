@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 065 - Monday, November 2, 2026</sub>
+  <sub>Vol. 066 - Tuesday, November 3, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Forty-three million comments build a better channel</strong><br><br>Andrej Karpathy used Claude to filter two decades of Hacker News discussion into 6,454 repeatedly recommended videos, then deploy HackerTube in roughly two hours. The project shows how agents can turn a vast public archive into a focused, inspectable product without a conventional development cycle.<br><br>Source: <a href="https://x.com/karpathy/status/2116957135661945283">Andrej Karpathy</a></td>
-    <td width="50%"><strong>Knowledge workers become agent managers</strong><br><br>Aaron Levie sees information-heavy roles shifting from individual execution toward directing parallel teams of agents. If output is no longer tightly coupled to hours worked, organizational advantage may come from redesigning operations around delegation, review and compounding workflows.<br><br>Source: <a href="https://x.com/levie/status/2117134917847093491">Aaron Levie</a></td>
+    <td width="50%"><strong>Agents get their own locked rooms</strong><br><br>Amjad Masad argues that workplace agents should run in dedicated, organization-controlled environments with access limited to each task. As agents gain operational reach, isolation and least privilege are becoming product requirements rather than infrastructure details.<br><br>Source: <a href="https://x.com/amasad/status/2117499074496872882">Amjad Masad</a></td>
+    <td width="50%"><strong>A useful sandbox carries a working identity</strong><br><br>Guillermo Rauch says stateless execution misses what makes agents productive: persistent identity, skills, repositories and memory. The emerging infrastructure contest is therefore not just about startup speed, but about preserving a secure workspace across long-running jobs.<br><br>Source: <a href="https://x.com/rauchg/status/2117338179535810957">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>The new AI stack is about ownership</strong><br><br>Guillermo Rauch argues that users should control their harness, data, connections, runtime and agents, even when the largest models remain remote. Local models and open infrastructure become strategic safeguards against concentrating durable context and operational intelligence inside one vendor.<br><br>Source: <a href="https://x.com/rauchg/status/2117000819623243925">Guillermo Rauch</a></td>
-    <td width="50%"><strong>A 35-year peacekeeping mission goes dark</strong><br><br>The U.N. mission in Western Sahara ended after rival U.S. and Russian resolutions failed at the Security Council. With the promised referendum never held and Morocco-Algeria tensions unresolved, the withdrawal removes a long-standing buffer from Africa's oldest territorial dispute.<br><br>Source: <a href="https://apnews.com/article/030e303c58207060265d8748c1db3778">AP News</a></td>
+    <td width="50%"><strong>Legal AI learns behind closed doors</strong><br><br>Legora's agents route subtasks across models while working with confidential legal data that product teams often cannot inspect directly. Better citation reliability and domain-specific workflows show why specialized agents compete on orchestration, trust and evaluation, not only model intelligence.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
+    <td width="50%"><strong>Greenland opens the door to more U.S. bases</strong><br><br>Greenlandic lawmakers approved a security pact with Denmark and the United States that expands the American military presence while preserving Danish control and future independence options. The deal eases months of sovereignty tension by converting pressure into a negotiated Arctic framework.<br><br>Source: <a href="https://apnews.com/article/33824857ac4312c5ebd53821187ecc13">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Carbon math can redraw the farm map</strong><br><br>Researchers warn that competing methods for estimating fertilizer-related nitrous oxide can assign sharply different carbon-intensity scores to similar crops, distorting trade and mitigation incentives. Standardized accounting may be as important as measurement itself when climate policy reaches the field.<br><br>Source: <a href="https://www.nature.com/articles/s43016-026-01450-w">Nature Food</a></td>
+    <td colspan="2"><strong>Old tuna buoys become ocean sentinels</strong><br><br>Researchers repurposed retired fishing buoys into satellite-linked acoustic observatories across reefs and seamounts in the western Indian Ocean. The pilot captured high-frequency biomass patterns in remote waters, offering a lower-cost path to marine monitoring while stressing the need for longer deployments and biological calibration.<br><br>Source: <a href="https://www.nature.com/articles/s41598-026-72665-x">Scientific Reports</a></td>
   </tr>
 </table>
 
