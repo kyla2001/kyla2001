@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 066 - Tuesday, November 3, 2026</sub>
+  <sub>Vol. 067 - Wednesday, November 4, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Agents get their own locked rooms</strong><br><br>Amjad Masad argues that workplace agents should run in dedicated, organization-controlled environments with access limited to each task. As agents gain operational reach, isolation and least privilege are becoming product requirements rather than infrastructure details.<br><br>Source: <a href="https://x.com/amasad/status/2117499074496872882">Amjad Masad</a></td>
-    <td width="50%"><strong>A useful sandbox carries a working identity</strong><br><br>Guillermo Rauch says stateless execution misses what makes agents productive: persistent identity, skills, repositories and memory. The emerging infrastructure contest is therefore not just about startup speed, but about preserving a secure workspace across long-running jobs.<br><br>Source: <a href="https://x.com/rauchg/status/2117338179535810957">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Every line gets an AI security review</strong><br><br>Vercel is opening an internal security agent that automatically audits code across repositories, including projects hosted elsewhere. The pitch reframes secure development from an optional prompt or developer habit into an independent, always-on verification layer.<br><br>Source: <a href="https://x.com/rauchg/status/2117734833824948373">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Enterprise plugins shed the login ceremony</strong><br><br>Claude can now auto-connect company-managed plugins after administrators configure them, removing repeated sign-ins for individual teammates. The small workflow change signals a larger enterprise shift: agents are becoming centrally provisioned infrastructure rather than personal tools assembled one integration at a time.<br><br>Source: <a href="https://x.com/bcherny/status/2117693181651542387">Boris Cherny</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Legal AI learns behind closed doors</strong><br><br>Legora's agents route subtasks across models while working with confidential legal data that product teams often cannot inspect directly. Better citation reliability and domain-specific workflows show why specialized agents compete on orchestration, trust and evaluation, not only model intelligence.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
-    <td width="50%"><strong>Greenland opens the door to more U.S. bases</strong><br><br>Greenlandic lawmakers approved a security pact with Denmark and the United States that expands the American military presence while preserving Danish control and future independence options. The deal eases months of sovereignty tension by converting pressure into a negotiated Arctic framework.<br><br>Source: <a href="https://apnews.com/article/33824857ac4312c5ebd53821187ecc13">AP News</a></td>
+    <td width="50%"><strong>The AI cloud says software is the moat</strong><br><br>Nebius argues that access to GPUs is not enough to challenge hyperscalers; the differentiator is software that can serve both giant clusters and short self-service jobs. Independent AI clouds are betting that specialized orchestration can outrun general-purpose infrastructure as demand multiplies.<br><br>Source: <a href="https://www.youtube.com/@RedpointAI">Unsupervised Learning</a></td>
+    <td width="50%"><strong>A South China Sea warning raises the temperature</strong><br><br>China urged the Philippines to act cautiously and restrain voices it says are disrupting bilateral relations, while Manila continues to invoke its maritime rights under international law. The exchange shows how diplomatic language is hardening around contested waters and external alliances.<br><br>Source: <a href="https://apnews.com/article/d42769727206e2c5f58009c407e5287c">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Old tuna buoys become ocean sentinels</strong><br><br>Researchers repurposed retired fishing buoys into satellite-linked acoustic observatories across reefs and seamounts in the western Indian Ocean. The pilot captured high-frequency biomass patterns in remote waters, offering a lower-cost path to marine monitoring while stressing the need for longer deployments and biological calibration.<br><br>Source: <a href="https://www.nature.com/articles/s41598-026-72665-x">Scientific Reports</a></td>
+    <td colspan="2"><strong>Seven hundred proteins map circular RNA's control room</strong><br><br>A large-scale screen tested 730 RNA-binding proteins and found 281 that alter circular RNA activity across production, export, decay and translation. Seven candidates enhanced translation in therapeutic vectors, giving RNA medicine a broader toolkit for controlling durable genetic instructions.<br><br>Source: <a href="https://www.nature.com/articles/s41594-026-01911-7">Nature Structural &amp; Molecular Biology</a></td>
   </tr>
 </table>
 
