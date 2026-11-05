@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 067 - Wednesday, November 4, 2026</sub>
+  <sub>Vol. 068 - Thursday, November 5, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Every line gets an AI security review</strong><br><br>Vercel is opening an internal security agent that automatically audits code across repositories, including projects hosted elsewhere. The pitch reframes secure development from an optional prompt or developer habit into an independent, always-on verification layer.<br><br>Source: <a href="https://x.com/rauchg/status/2117734833824948373">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Enterprise plugins shed the login ceremony</strong><br><br>Claude can now auto-connect company-managed plugins after administrators configure them, removing repeated sign-ins for individual teammates. The small workflow change signals a larger enterprise shift: agents are becoming centrally provisioned infrastructure rather than personal tools assembled one integration at a time.<br><br>Source: <a href="https://x.com/bcherny/status/2117693181651542387">Boris Cherny</a></td>
+    <td width="50%"><strong>A smaller coding model keeps the score</strong><br><br>Thinky Machines' distilled Inkling model is reported to match FrontierCode 2 evaluation results while running three times faster and costing five times less. If the result holds across workloads, distillation could move advanced coding capability from premium experiments into routine agent infrastructure.<br><br>Source: <a href="https://x.com/swyx/status/2118208851506036989">Swyx</a></td>
+    <td width="50%"><strong>One week replaces three years of labor</strong><br><br>Replit says one employee at Sumitomo Mitsui Finance &amp; Leasing completed in a week a software project that previously required six people for six months. The vendor partnership is an unusually sharp illustration of why labor-constrained enterprises are testing AI-native development beyond prototypes.<br><br>Source: <a href="https://x.com/amasad/status/2118180254300688857">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>The AI cloud says software is the moat</strong><br><br>Nebius argues that access to GPUs is not enough to challenge hyperscalers; the differentiator is software that can serve both giant clusters and short self-service jobs. Independent AI clouds are betting that specialized orchestration can outrun general-purpose infrastructure as demand multiplies.<br><br>Source: <a href="https://www.youtube.com/@RedpointAI">Unsupervised Learning</a></td>
-    <td width="50%"><strong>A South China Sea warning raises the temperature</strong><br><br>China urged the Philippines to act cautiously and restrain voices it says are disrupting bilateral relations, while Manila continues to invoke its maritime rights under international law. The exchange shows how diplomatic language is hardening around contested waters and external alliances.<br><br>Source: <a href="https://apnews.com/article/d42769727206e2c5f58009c407e5287c">AP News</a></td>
+    <td width="50%"><strong>AI safety looks for a preflight check</strong><br><br>Kevin Roose argues that public model releases should face industry certification and standardized tests for autonomous cyberattacks and biological misuse. The proposal shifts governance away from emergency regulation after a crisis toward evidence required before deployment.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL">AI &amp; I by Every</a></td>
+    <td width="50%"><strong>Postwar planning begins before the war ends</strong><br><br>Russia and Ukraine exchanged airstrikes as Western officials, NATO, the World Bank and private investors met in Brussels over reconstruction, 2027 funding and future security guarantees. The talks show diplomacy building a postwar framework while active combat still determines its terms.<br><br>Source: <a href="https://apnews.com/article/0b975a30f862731346e7e1d098a8d538">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Seven hundred proteins map circular RNA's control room</strong><br><br>A large-scale screen tested 730 RNA-binding proteins and found 281 that alter circular RNA activity across production, export, decay and translation. Seven candidates enhanced translation in therapeutic vectors, giving RNA medicine a broader toolkit for controlling durable genetic instructions.<br><br>Source: <a href="https://www.nature.com/articles/s41594-026-01911-7">Nature Structural &amp; Molecular Biology</a></td>
+    <td colspan="2"><strong>Quantum light stretches across the spectrum</strong><br><br>Researchers describe a way to couple bright frequency combs through cascaded nonlinear interactions, producing squeezing and entanglement across widely separated spectral bands. The architecture could support quantum-enhanced spectroscopy, spectral multiplexing and addressable cluster states.<br><br>Source: <a href="https://www.nature.com/articles/s41377-026-02491-3">Light: Science &amp; Applications</a></td>
   </tr>
 </table>
 
