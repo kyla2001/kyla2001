@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 068 - Thursday, November 5, 2026</sub>
+  <sub>Vol. 069 - Friday, November 6, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>A smaller coding model keeps the score</strong><br><br>Thinky Machines' distilled Inkling model is reported to match FrontierCode 2 evaluation results while running three times faster and costing five times less. If the result holds across workloads, distillation could move advanced coding capability from premium experiments into routine agent infrastructure.<br><br>Source: <a href="https://x.com/swyx/status/2118208851506036989">Swyx</a></td>
-    <td width="50%"><strong>One week replaces three years of labor</strong><br><br>Replit says one employee at Sumitomo Mitsui Finance &amp; Leasing completed in a week a software project that previously required six people for six months. The vendor partnership is an unusually sharp illustration of why labor-constrained enterprises are testing AI-native development beyond prototypes.<br><br>Source: <a href="https://x.com/amasad/status/2118180254300688857">Amjad Masad</a></td>
+    <td width="50%"><strong>The sandbox hardens before the agent arrives</strong><br><br>Replit says its custom kernel build avoids exposure to 96% of recent Linux zero-day vulnerabilities, alongside a redesigned sandbox. As AI coding systems execute more generated code, infrastructure isolation is becoming a product feature rather than a back-office control.<br><br>Source: <a href="https://x.com/amasad/status/2118503241390665776">Amjad Masad</a></td>
+    <td width="50%"><strong>Enterprise agents get a governed memory lane</strong><br><br>Box and Nvidia are pairing lexical and semantic search across unstructured company content while preserving existing access controls and data-governance rules. The enterprise-agent contest is shifting from model intelligence alone to finding the right context without crossing permission boundaries.<br><br>Source: <a href="https://x.com/levie/status/2118498574497665316">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>AI safety looks for a preflight check</strong><br><br>Kevin Roose argues that public model releases should face industry certification and standardized tests for autonomous cyberattacks and biological misuse. The proposal shifts governance away from emergency regulation after a crisis toward evidence required before deployment.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL">AI &amp; I by Every</a></td>
-    <td width="50%"><strong>Postwar planning begins before the war ends</strong><br><br>Russia and Ukraine exchanged airstrikes as Western officials, NATO, the World Bank and private investors met in Brussels over reconstruction, 2027 funding and future security guarantees. The talks show diplomacy building a postwar framework while active combat still determines its terms.<br><br>Source: <a href="https://apnews.com/article/0b975a30f862731346e7e1d098a8d538">AP News</a></td>
+    <td width="50%"><strong>Claude enters personal finance, read-only</strong><br><br>Anthropic is rolling out a U.S. beta that lets users connect selected accounts and ask questions about balances and transactions in everyday language. Read-only access, no sponsored recommendations and no ability to move money show how assistants may enter high-trust domains through deliberately narrow permissions.<br><br>Source: <a href="https://x.com/claudeai/status/2118403114890137895">Claude</a></td>
+    <td width="50%"><strong>Climate diplomacy meets an energy shock</strong><br><br>COP31 opens in Turkey after a year of disasters and conflict-driven energy disruption, with the world already near 1.4 degrees Celsius of warming and projected toward 2.6. Negotiators face unresolved fights over fossil fuels, climate finance and implementation while the United States remains absent.<br><br>Source: <a href="https://apnews.com/article/6ce625b0e3d4ed0ab093df4e5f9c86ad">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Quantum light stretches across the spectrum</strong><br><br>Researchers describe a way to couple bright frequency combs through cascaded nonlinear interactions, producing squeezing and entanglement across widely separated spectral bands. The architecture could support quantum-enhanced spectroscopy, spectral multiplexing and addressable cluster states.<br><br>Source: <a href="https://www.nature.com/articles/s41377-026-02491-3">Light: Science &amp; Applications</a></td>
+    <td colspan="2"><strong>A smartwatch screens for the silent signal</strong><br><br>A Nature study used smartwatch pulse and motion data to detect hypertension without cuff calibration in 196 participants monitored for seven days. The system reached 65.8% sensitivity and 90% specificity, positioning wearables as a prompt for clinical confirmation rather than a replacement for established blood-pressure testing.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11336-3">Nature</a></td>
   </tr>
 </table>
 
