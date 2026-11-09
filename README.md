@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 070 - Saturday, November 7, 2026</sub>
+  <sub>Vol. 072 - Monday, November 9, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>The chatbot starts drawing its own interface</strong><br><br>Vercel is combining its AI SDK, Chat SDK and json-render so models can generate interactive interfaces inside platforms such as Slack and Teams. The experiment points beyond text replies toward conversations that assemble the controls and views a task requires on demand.<br><br>Source: <a href="https://x.com/rauchg/status/2118856239719608353">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Creator tools open an agent-native side door</strong><br><br>Instagram Edits and Roblox Studio are shipping built-in MCP connections, letting agents perform part of a creative workflow while people continue in familiar professional tools. Standardized agent access is becoming a collaboration layer rather than a replacement interface.<br><br>Source: <a href="https://x.com/trq212/status/2118822238262853904">Thariq</a></td>
+    <td width="50%"><strong>The software syllabus catches up with the agents</strong><br><br>Stanford's refreshed modern-development course now centers on agent internals, context engineering, architecture and contributions to real open-source codebases. The message for junior engineers is exacting: AI lowers implementation friction while raising the minimum level of systems judgment expected on day one.<br><br>Source: <a href="https://www.youtube.com/watch?v=dpY7YzZo4kE">Latent Space</a></td>
+    <td width="50%"><strong>Agent swarms break the one-worker ceiling</strong><br><br>Aaron Levie argues that parallel agents turn productivity from an incremental assistant gain into a compute-scaled resource, with coding, cybersecurity and science as early proving grounds. The harder management question may soon be how much machine work to deploy, not how many human hours a task receives.<br><br>Source: <a href="https://x.com/levie/status/2119592025440092192">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Biology models learn to choose the next experiment</strong><br><br>Fabian Theis describes Lab Compass, an inverse generative model designed to work backward from a desired cell state and suggest the intervention needed to reach it. Computational biology is moving from mapping cells and predicting responses toward steering experiments in a continual learning loop.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
-    <td width="50%"><strong>Three-power summit moves from rumor to diplomacy</strong><br><br>Beijing confirmed discussions about bringing Xi Jinping, Donald Trump and Vladimir Putin together during this month's APEC summit in Shenzhen, though no meeting is set. Trade commitments, nuclear arms control and Ukraine give each leader different stakes in what could otherwise become a carefully staged photograph.<br><br>Source: <a href="https://apnews.com/article/685503bde099612212fb9d6f716422e4">AP News</a></td>
+    <td width="50%"><strong>A vinyl record becomes a physics engine</strong><br><br>A WebGL2 and Web Audio experiment converts songs into simulated grooves, then runs a virtual stylus across them 384,000 times per second. Crackle, pitch drift and duller inner tracks emerge from the model itself, showing how browser graphics can reproduce a medium rather than merely imitate its look.<br><br>Source: <a href="https://x.com/rauchg/status/2119536313712230802">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Peace talks widen into a European security test</strong><br><br>Russian, Ukrainian and U.S. negotiators are set to meet in Abu Dhabi for their first talks since February, with future security guarantees for both sides at the center. Territory, NATO ties and Europe's role remain sharply contested even as long-range attacks continue.<br><br>Source: <a href="https://apnews.com/article/81537cce8daf84b24bf73a91addb6e9b">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A kinase turns an oncogene into a disposal target</strong><br><br>A genome-scale induced-proximity screen found that recruiting casein kinase I proteins can drive degradation of beta-catenin and inhibit growth in colorectal cancer cells carrying Wnt-pathway mutations. The cell-study result offers a route toward a cancer target that conventional Wnt inhibitors have struggled to reach clinically.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79309-8">Nature Communications</a></td>
+    <td colspan="2"><strong>Alzheimer's toxic middle comes into focus</strong><br><br>Researchers identified two distinct amyloid-beta intermediates across laboratory samples, a mouse model and human Alzheimer's brain tissue, each following a different aggregation route and damaging cells differently. Suppressing the intermediates improved plaque burden, inflammation and cognition in mice, pointing to a preclinical target upstream of mature plaques.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79028-0">Nature Communications</a></td>
   </tr>
 </table>
 
