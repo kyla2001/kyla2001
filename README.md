@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 069 - Friday, November 6, 2026</sub>
+  <sub>Vol. 070 - Saturday, November 7, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>The sandbox hardens before the agent arrives</strong><br><br>Replit says its custom kernel build avoids exposure to 96% of recent Linux zero-day vulnerabilities, alongside a redesigned sandbox. As AI coding systems execute more generated code, infrastructure isolation is becoming a product feature rather than a back-office control.<br><br>Source: <a href="https://x.com/amasad/status/2118503241390665776">Amjad Masad</a></td>
-    <td width="50%"><strong>Enterprise agents get a governed memory lane</strong><br><br>Box and Nvidia are pairing lexical and semantic search across unstructured company content while preserving existing access controls and data-governance rules. The enterprise-agent contest is shifting from model intelligence alone to finding the right context without crossing permission boundaries.<br><br>Source: <a href="https://x.com/levie/status/2118498574497665316">Aaron Levie</a></td>
+    <td width="50%"><strong>The chatbot starts drawing its own interface</strong><br><br>Vercel is combining its AI SDK, Chat SDK and json-render so models can generate interactive interfaces inside platforms such as Slack and Teams. The experiment points beyond text replies toward conversations that assemble the controls and views a task requires on demand.<br><br>Source: <a href="https://x.com/rauchg/status/2118856239719608353">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Creator tools open an agent-native side door</strong><br><br>Instagram Edits and Roblox Studio are shipping built-in MCP connections, letting agents perform part of a creative workflow while people continue in familiar professional tools. Standardized agent access is becoming a collaboration layer rather than a replacement interface.<br><br>Source: <a href="https://x.com/trq212/status/2118822238262853904">Thariq</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Claude enters personal finance, read-only</strong><br><br>Anthropic is rolling out a U.S. beta that lets users connect selected accounts and ask questions about balances and transactions in everyday language. Read-only access, no sponsored recommendations and no ability to move money show how assistants may enter high-trust domains through deliberately narrow permissions.<br><br>Source: <a href="https://x.com/claudeai/status/2118403114890137895">Claude</a></td>
-    <td width="50%"><strong>Climate diplomacy meets an energy shock</strong><br><br>COP31 opens in Turkey after a year of disasters and conflict-driven energy disruption, with the world already near 1.4 degrees Celsius of warming and projected toward 2.6. Negotiators face unresolved fights over fossil fuels, climate finance and implementation while the United States remains absent.<br><br>Source: <a href="https://apnews.com/article/6ce625b0e3d4ed0ab093df4e5f9c86ad">AP News</a></td>
+    <td width="50%"><strong>Biology models learn to choose the next experiment</strong><br><br>Fabian Theis describes Lab Compass, an inverse generative model designed to work backward from a desired cell state and suggest the intervention needed to reach it. Computational biology is moving from mapping cells and predicting responses toward steering experiments in a continual learning loop.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
+    <td width="50%"><strong>Three-power summit moves from rumor to diplomacy</strong><br><br>Beijing confirmed discussions about bringing Xi Jinping, Donald Trump and Vladimir Putin together during this month's APEC summit in Shenzhen, though no meeting is set. Trade commitments, nuclear arms control and Ukraine give each leader different stakes in what could otherwise become a carefully staged photograph.<br><br>Source: <a href="https://apnews.com/article/685503bde099612212fb9d6f716422e4">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A smartwatch screens for the silent signal</strong><br><br>A Nature study used smartwatch pulse and motion data to detect hypertension without cuff calibration in 196 participants monitored for seven days. The system reached 65.8% sensitivity and 90% specificity, positioning wearables as a prompt for clinical confirmation rather than a replacement for established blood-pressure testing.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11336-3">Nature</a></td>
+    <td colspan="2"><strong>A kinase turns an oncogene into a disposal target</strong><br><br>A genome-scale induced-proximity screen found that recruiting casein kinase I proteins can drive degradation of beta-catenin and inhibit growth in colorectal cancer cells carrying Wnt-pathway mutations. The cell-study result offers a route toward a cancer target that conventional Wnt inhibitors have struggled to reach clinically.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79309-8">Nature Communications</a></td>
   </tr>
 </table>
 
