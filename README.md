@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 072 - Monday, November 9, 2026</sub>
+  <sub>Vol. 073 - Tuesday, November 10, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>The software syllabus catches up with the agents</strong><br><br>Stanford's refreshed modern-development course now centers on agent internals, context engineering, architecture and contributions to real open-source codebases. The message for junior engineers is exacting: AI lowers implementation friction while raising the minimum level of systems judgment expected on day one.<br><br>Source: <a href="https://www.youtube.com/watch?v=dpY7YzZo4kE">Latent Space</a></td>
-    <td width="50%"><strong>Agent swarms break the one-worker ceiling</strong><br><br>Aaron Levie argues that parallel agents turn productivity from an incremental assistant gain into a compute-scaled resource, with coding, cybersecurity and science as early proving grounds. The harder management question may soon be how much machine work to deploy, not how many human hours a task receives.<br><br>Source: <a href="https://x.com/levie/status/2119592025440092192">Aaron Levie</a></td>
+    <td width="50%"><strong>MCP learns to call back later</strong><br><br>MCP Events adds cross-session notifications to a protocol previously centered on reads and writes. An agent can subscribe to an event such as a completed deployment instead of repeatedly polling, making long-running tool workflows more responsive and less wasteful.<br><br>Source: <a href="https://x.com/rauchg/status/2119891138450755670">Guillermo Rauch</a></td>
+    <td width="50%"><strong>AI training data graduates from labels to worlds</strong><br><br>Handshake AI describes frontier data work as expert-authored simulation: realistic tools, files and workflows paired with detailed rubrics and tests for consistency or reward hacking. Training agents for banking, law or medicine increasingly means encoding professional judgment, not simply labeling examples.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>A vinyl record becomes a physics engine</strong><br><br>A WebGL2 and Web Audio experiment converts songs into simulated grooves, then runs a virtual stylus across them 384,000 times per second. Crackle, pitch drift and duller inner tracks emerge from the model itself, showing how browser graphics can reproduce a medium rather than merely imitate its look.<br><br>Source: <a href="https://x.com/rauchg/status/2119536313712230802">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Peace talks widen into a European security test</strong><br><br>Russian, Ukrainian and U.S. negotiators are set to meet in Abu Dhabi for their first talks since February, with future security guarantees for both sides at the center. Territory, NATO ties and Europe's role remain sharply contested even as long-range attacks continue.<br><br>Source: <a href="https://apnews.com/article/81537cce8daf84b24bf73a91addb6e9b">AP News</a></td>
+    <td width="50%"><strong>Big models want bigger assignments</strong><br><br>Every's early testing of Fable 5.2 produced a custom video editor, a racing game built from a child's toys and a documentary assembled from research. The strongest results came from long-running jobs with explicit definitions of done, budgets and review levels, though the model remained slow and token-intensive.<br><br>Source: <a href="https://x.com/danshipper/status/2119869228207546638">Dan Shipper</a></td>
+    <td width="50%"><strong>Four hours of talks leave the hardest questions intact</strong><br><br>Russian and Ukrainian delegations held nearly four hours of U.S.-mediated discussions in Abu Dhabi, but earlier rounds produced no major breakthrough. Moscow's territorial demands and Kyiv's security guarantees remain the central divide as diplomacy resumes without a clear path to settlement.<br><br>Source: <a href="https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Alzheimer's toxic middle comes into focus</strong><br><br>Researchers identified two distinct amyloid-beta intermediates across laboratory samples, a mouse model and human Alzheimer's brain tissue, each following a different aggregation route and damaging cells differently. Suppressing the intermediates improved plaque burden, inflammation and cognition in mice, pointing to a preclinical target upstream of mature plaques.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79028-0">Nature Communications</a></td>
+    <td colspan="2"><strong>An ovarian-cancer signal appears before the tumor spreads</strong><br><br>A study of 506 people found that Tu-stroma, a long noncoding RNA carried in serum extracellular vesicles, distinguished early high-grade serous ovarian cancer and its premalignant precursor from benign lesions better than CA125. Prospective real-world cohorts are still needed before the blood marker can become a screening tool.<br><br>Source: <a href="https://www.nature.com/articles/s41591-026-04732-9">Nature Medicine</a></td>
   </tr>
 </table>
 
