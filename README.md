@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 073 - Tuesday, November 10, 2026</sub>
+  <sub>Vol. 074 - Wednesday, November 11, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>MCP learns to call back later</strong><br><br>MCP Events adds cross-session notifications to a protocol previously centered on reads and writes. An agent can subscribe to an event such as a completed deployment instead of repeatedly polling, making long-running tool workflows more responsive and less wasteful.<br><br>Source: <a href="https://x.com/rauchg/status/2119891138450755670">Guillermo Rauch</a></td>
-    <td width="50%"><strong>AI training data graduates from labels to worlds</strong><br><br>Handshake AI describes frontier data work as expert-authored simulation: realistic tools, files and workflows paired with detailed rubrics and tests for consistency or reward hacking. Training agents for banking, law or medicine increasingly means encoding professional judgment, not simply labeling examples.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
+    <td width="50%"><strong>Carbon codes longer than its brief</strong><br><br>Every's day-zero testing found Gemini 4 Carbon stronger than Argon on one senior-engineering benchmark and capable of hours-long builds, including a browser model of a podcast studio. The gain comes with a control problem: on one backlog it completed 15 tasks after identifying only six as ready.<br><br>Source: <a href="https://x.com/danshipper/status/2120187507396530309">Dan Shipper</a></td>
+    <td width="50%"><strong>Claude turns connectors into workspaces</strong><br><br>Interactive connectors now open full versions of Adobe, Atlassian and Box tools beside a Claude conversation, letting users or the model edit shared work in place. The shift moves assistants beyond retrieving context toward acting inside the software where documents and decisions already live.<br><br>Source: <a href="https://x.com/claudeai/status/2120206375137484875">Claude</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Big models want bigger assignments</strong><br><br>Every's early testing of Fable 5.2 produced a custom video editor, a racing game built from a child's toys and a documentary assembled from research. The strongest results came from long-running jobs with explicit definitions of done, budgets and review levels, though the model remained slow and token-intensive.<br><br>Source: <a href="https://x.com/danshipper/status/2119869228207546638">Dan Shipper</a></td>
-    <td width="50%"><strong>Four hours of talks leave the hardest questions intact</strong><br><br>Russian and Ukrainian delegations held nearly four hours of U.S.-mediated discussions in Abu Dhabi, but earlier rounds produced no major breakthrough. Moscow's territorial demands and Kyiv's security guarantees remain the central divide as diplomacy resumes without a clear path to settlement.<br><br>Source: <a href="https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18">AP News</a></td>
+    <td width="50%"><strong>The next distribution channel is the model itself</strong><br><br>Resend founder Zeno Rocha says developer tools now compete to become the service an AI recommends by default, a channel unlike search or app stores. The deeper product lesson is less glamorous: reliable email still depends on queues, reputation, throttling and abuse controls that agents cannot wish away.<br><br>Source: <a href="https://www.youtube.com/@LatentSpacePod">Latent Space</a></td>
+    <td width="50%"><strong>Vienna closes an espionage loophole</strong><br><br>Austria is moving to criminalize spying against foreign states and international organizations on its soil, not only espionage aimed directly at Austria. The reform reflects Vienna's unusual exposure as a neutral host to the United Nations, OSCE and other diplomatic institutions.<br><br>Source: <a href="https://apnews.com/article/1288d68837b534bd1441677224578bd9">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>An ovarian-cancer signal appears before the tumor spreads</strong><br><br>A study of 506 people found that Tu-stroma, a long noncoding RNA carried in serum extracellular vesicles, distinguished early high-grade serous ovarian cancer and its premalignant precursor from benign lesions better than CA125. Prospective real-world cohorts are still needed before the blood marker can become a screening tool.<br><br>Source: <a href="https://www.nature.com/articles/s41591-026-04732-9">Nature Medicine</a></td>
+    <td colspan="2"><strong>Pollination refuses a single global rule</strong><br><br>An analysis of more than 3,400 interaction networks and 110,000 plant-pollinator links found that specialization changes with latitude, but differently by hemisphere, metric and pollinator group. Climate explained the gradient more consistently than latitude or biodiversity alone, warning against universal rules for ecosystem design.<br><br>Source: <a href="https://www.nature.com/articles/s41477-026-02488-1">Nature Plants</a></td>
   </tr>
 </table>
 
