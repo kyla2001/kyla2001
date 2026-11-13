@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 075 - Thursday, November 12, 2026</sub>
+  <sub>Vol. 076 - Friday, November 13, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>When generation gets cheap, judgment gets dear</strong><br><br>Every gave one customer survey and the same AI tools to several teammates; each found a different actionable signal. Dan Shipper's argument is that models can generate vast possibility spaces, but responsibility and perspective still decide what deserves to be ranked, owned and acted upon.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL">AI &amp; I by Every</a></td>
-    <td width="50%"><strong>AI stacks quietly become multi-model</strong><br><br>A review of 803 company subprocessor lists found 44% naming at least two model providers, up from 33%, while 33% listed an inference provider, up from 22%. The disclosures lag reality, but they show production AI settling into portfolios of models and infrastructure rather than a single-vendor stack.<br><br>Source: <a href="https://x.com/nikunj/status/2120669243918418237">Nikunj Kothari</a></td>
+    <td width="50%"><strong>Drug discovery tries to leave trial and error</strong><br><br>Isomorphic Labs president Max Jaderberg argues that medicine's central bottleneck is predictive understanding: toxicity and biological failure often appear only after a drug reaches patients. The ambition is to move more disease modeling and molecule design onto computers before costly clinical bets begin.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
+    <td width="50%"><strong>The fast model narrows the enterprise gap</strong><br><br>Box's early evaluation of Gemini 4 Hydrogen found a five-point accuracy gain over Gemini 3.8 Flash on complex document tasks, completed in less than half the time with roughly 12% fewer tokens. The result suggests speed-tier models are becoming credible for finance, consulting and life-sciences workflows.<br><br>Source: <a href="https://x.com/levie/status/2120947988143198302">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Google puts the prompt in the group project</strong><br><br>Tabletop lets people combine links and files in a shared space, then generate interactive maps, brackets, voting boards or seating charts around a common plan. The experiment treats AI less as a private chatbot and more as a collaborative surface that turns group context into working tools.<br><br>Source: <a href="https://x.com/GoogleLabs/status/2120549258692882702">Google Labs</a></td>
-    <td width="50%"><strong>Europe's security question moves to Dublin</strong><br><br>Leaders from more than 40 European countries gathered as renewed U.S.-backed Ukraine diplomacy tested the continent's role in any settlement. The summit joins the war's immediate demands with a longer question: how Europe guarantees its own security as Washington's commitments become less predictable.<br><br>Source: <a href="https://apnews.com/article/6ffde020abe1b8031311f85f82b16c36">AP News</a></td>
+    <td width="50%"><strong>Claude takes a seat at the meeting</strong><br><br>Claude Meetings joins Google Meet as a visible participant, answers questions aloud or in chat and can draft documents while teammates watch and correct the work. Afterward, notes, action items, transcripts and generated artifacts remain together, turning the call itself into usable agent context.<br><br>Source: <a href="https://x.com/claudeai/status/2120973996304830859">Claude</a></td>
+    <td width="50%"><strong>A measles victory nears forfeiture</strong><br><br>Health experts are assessing whether sustained transmission has cost the United States and Mexico their measles-elimination status. Losing it would mark the reversal of a major public-health achievement and show how quickly vaccination gaps can reopen a disease pathway across borders.<br><br>Source: <a href="https://apnews.com/article/c2f73f91458992f3320d0228b7787627">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Network science becomes a material</strong><br><br>Researchers translated the multiscale connectivity seen in brains, the Internet and other complex systems into 3D-printed mechanical structures. By varying link length, thickness and connectivity across orders of magnitude, the scale-rich metamaterials gained tunable resistance to deformation without relying on uniform repeating cells.<br><br>Source: <a href="https://www.nature.com/articles/s41586-026-11191-2">Nature</a></td>
+    <td colspan="2"><strong>The microbiome may forecast hormone-therapy response</strong><br><br>A six-month study of 356 perimenopausal women found that hormone therapy reshaped vaginal, urinary, oral and gut microbial communities, while baseline community types tracked differences in symptom response. A model combining clinical and gut-microbiome features predicted rapid remission better than either alone, though the observational design cannot establish causation.<br><br>Source: <a href="https://www.nature.com/articles/s41591-026-04789-6">Nature Medicine</a></td>
   </tr>
 </table>
 
