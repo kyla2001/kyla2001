@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 076 - Friday, November 13, 2026</sub>
+  <sub>Vol. 077 - Saturday, November 14, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Drug discovery tries to leave trial and error</strong><br><br>Isomorphic Labs president Max Jaderberg argues that medicine's central bottleneck is predictive understanding: toxicity and biological failure often appear only after a drug reaches patients. The ambition is to move more disease modeling and molecule design onto computers before costly clinical bets begin.<br><br>Source: <a href="https://www.youtube.com/@NoPriorsPodcast">No Priors</a></td>
-    <td width="50%"><strong>The fast model narrows the enterprise gap</strong><br><br>Box's early evaluation of Gemini 4 Hydrogen found a five-point accuracy gain over Gemini 3.8 Flash on complex document tasks, completed in less than half the time with roughly 12% fewer tokens. The result suggests speed-tier models are becoming credible for finance, consulting and life-sciences workflows.<br><br>Source: <a href="https://x.com/levie/status/2120947988143198302">Aaron Levie</a></td>
+    <td width="50%"><strong>Models begin learning from the road</strong><br><br>Trajectory's Ronak Prabhu frames today's agents as MapQuest: capable, but updated through occasional offline retraining. Continual learning would look more like Google Maps, turning production traces, retries and expert feedback into an ongoing loop of training, evaluation and deployment.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8">Training Data</a></td>
+    <td width="50%"><strong>Durability becomes agent infrastructure</strong><br><br>Vercel says Workflow SDK 5 cuts startup and between-step latency while strengthening encryption, recovery and large-scale reliability. Its underlying durability log is now reusable by other agent harnesses, treating resumable execution as a foundation rather than an application-specific patch.<br><br>Source: <a href="https://x.com/rauchg/status/2121277727940776114">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Claude takes a seat at the meeting</strong><br><br>Claude Meetings joins Google Meet as a visible participant, answers questions aloud or in chat and can draft documents while teammates watch and correct the work. Afterward, notes, action items, transcripts and generated artifacts remain together, turning the call itself into usable agent context.<br><br>Source: <a href="https://x.com/claudeai/status/2120973996304830859">Claude</a></td>
-    <td width="50%"><strong>A measles victory nears forfeiture</strong><br><br>Health experts are assessing whether sustained transmission has cost the United States and Mexico their measles-elimination status. Losing it would mark the reversal of a major public-health achievement and show how quickly vaccination gaps can reopen a disease pathway across borders.<br><br>Source: <a href="https://apnews.com/article/c2f73f91458992f3320d0228b7787627">AP News</a></td>
+    <td width="50%"><strong>The benchmark winner loses on price</strong><br><br>An open-source Claude Code harness test found Fable 5.2 solving slightly more of 52 coding tasks than Opus 5.5, but costing 2.8 times more per solved task. The narrow capability gap makes cost-adjusted workflow testing more useful than headline benchmark rank for choosing a default model.<br><br>Source: <a href="https://x.com/garrytan/status/2121464508225053153">Garry Tan</a></td>
+    <td width="50%"><strong>Three powers prepare one unprecedented table</strong><br><br>The leaders of the United States, China and Russia plan a joint meeting on the sidelines of APEC in Shenzhen, bringing the world's largest nuclear powers together amid disputes over Ukraine, Iran and trade. European and Ukrainian officials fear decisions about their security could move elsewhere.<br><br>Source: <a href="https://apnews.com/article/5fe92253ef38100bae913834a9b74d72">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>The microbiome may forecast hormone-therapy response</strong><br><br>A six-month study of 356 perimenopausal women found that hormone therapy reshaped vaginal, urinary, oral and gut microbial communities, while baseline community types tracked differences in symptom response. A model combining clinical and gut-microbiome features predicted rapid remission better than either alone, though the observational design cannot establish causation.<br><br>Source: <a href="https://www.nature.com/articles/s41591-026-04789-6">Nature Medicine</a></td>
+    <td colspan="2"><strong>Evaporation writes patterns in nanoparticles</strong><br><br>An evaporating liquid lens at a fluid interface produced a repeatable sequence of nanoparticle films, from continuous sheets to perforations, ribbons and isolated tiles. Microscopy and cross-scale simulations showed how transport, particle arrest and film instability interact, turning apparent non-equilibrium disorder into a controllable assembly process.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79569-4">Nature Communications</a></td>
   </tr>
 </table>
 
