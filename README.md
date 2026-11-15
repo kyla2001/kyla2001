@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 077 - Saturday, November 14, 2026</sub>
+  <sub>Vol. 078 - Sunday, November 15, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Models begin learning from the road</strong><br><br>Trajectory's Ronak Prabhu frames today's agents as MapQuest: capable, but updated through occasional offline retraining. Continual learning would look more like Google Maps, turning production traces, retries and expert feedback into an ongoing loop of training, evaluation and deployment.<br><br>Source: <a href="https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8">Training Data</a></td>
-    <td width="50%"><strong>Durability becomes agent infrastructure</strong><br><br>Vercel says Workflow SDK 5 cuts startup and between-step latency while strengthening encryption, recovery and large-scale reliability. Its underlying durability log is now reusable by other agent harnesses, treating resumable execution as a foundation rather than an application-specific patch.<br><br>Source: <a href="https://x.com/rauchg/status/2121277727940776114">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Gemini opens the wallet</strong><br><br>Gemini can now connect to Google Wallet for U.S. users, turning transaction history into spending charts, subscription checks and budgets grounded in prior behavior. The feature moves personal-finance assistants from generic advice toward analysis of a user's own cash-flow record, raising the stakes for consent and data boundaries.<br><br>Source: <a href="https://x.com/joshwoodward/status/2121755282326102417">Josh Woodward</a></td>
+    <td width="50%"><strong>Agents inherit the hard parts of interface design</strong><br><br>A two-prompt Web Components demo reused 14 packaged UI behaviors, including keyboard navigation, drag, resizing, ARIA and agent control. The point is not another generated mockup: low-level interaction primitives can let agents assemble custom interfaces without discarding accessibility or rebuilding every behavior from scratch.<br><br>Source: <a href="https://x.com/rauchg/status/2121804295381377342">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>The benchmark winner loses on price</strong><br><br>An open-source Claude Code harness test found Fable 5.2 solving slightly more of 52 coding tasks than Opus 5.5, but costing 2.8 times more per solved task. The narrow capability gap makes cost-adjusted workflow testing more useful than headline benchmark rank for choosing a default model.<br><br>Source: <a href="https://x.com/garrytan/status/2121464508225053153">Garry Tan</a></td>
-    <td width="50%"><strong>Three powers prepare one unprecedented table</strong><br><br>The leaders of the United States, China and Russia plan a joint meeting on the sidelines of APEC in Shenzhen, bringing the world's largest nuclear powers together amid disputes over Ukraine, Iran and trade. European and Ukrainian officials fear decisions about their security could move elsewhere.<br><br>Source: <a href="https://apnews.com/article/5fe92253ef38100bae913834a9b74d72">AP News</a></td>
+    <td width="50%"><strong>Knowledge work bends toward code</strong><br><br>Aaron Levie argues that agents need not know everything if they can reliably use software, generate code and apply domain judgment inside workflows. As those capabilities advance fastest, work in finance, science and operations may be redesigned into more executable, tool-mediated forms.<br><br>Source: <a href="https://x.com/levie/status/2121686564078297461">Aaron Levie</a></td>
+    <td width="50%"><strong>Prague rallies around public media</strong><br><br>Hundreds of thousands rallied against a Czech government plan to overhaul funding for public broadcasters, warning that the change could weaken editorial independence. The dispute turns a budget mechanism into a democratic stress test under a coalition that includes anti-migrant and pro-Russian partners.<br><br>Source: <a href="https://apnews.com/article/a48f46db181edaa14a156be89862f5e3">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Evaporation writes patterns in nanoparticles</strong><br><br>An evaporating liquid lens at a fluid interface produced a repeatable sequence of nanoparticle films, from continuous sheets to perforations, ribbons and isolated tiles. Microscopy and cross-scale simulations showed how transport, particle arrest and film instability interact, turning apparent non-equilibrium disorder into a controllable assembly process.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79569-4">Nature Communications</a></td>
+    <td colspan="2"><strong>A cell's molecular compass is mapped in motion</strong><br><br>Researchers combined high-resolution cryo-sectioning, multi-omics and optimal transport to follow where RNAs and proteins move across six stages from frog oocyte to zygote. The framework measures how molecular polarity is established, erased and rebuilt, offering spatial training data for more realistic virtual-cell models.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79450-4">Nature Communications</a></td>
   </tr>
 </table>
 
