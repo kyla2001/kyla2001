@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 078 - Sunday, November 15, 2026</sub>
+  <sub>Vol. 079 - Monday, November 16, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Gemini opens the wallet</strong><br><br>Gemini can now connect to Google Wallet for U.S. users, turning transaction history into spending charts, subscription checks and budgets grounded in prior behavior. The feature moves personal-finance assistants from generic advice toward analysis of a user's own cash-flow record, raising the stakes for consent and data boundaries.<br><br>Source: <a href="https://x.com/joshwoodward/status/2121755282326102417">Josh Woodward</a></td>
-    <td width="50%"><strong>Agents inherit the hard parts of interface design</strong><br><br>A two-prompt Web Components demo reused 14 packaged UI behaviors, including keyboard navigation, drag, resizing, ARIA and agent control. The point is not another generated mockup: low-level interaction primitives can let agents assemble custom interfaces without discarding accessibility or rebuilding every behavior from scratch.<br><br>Source: <a href="https://x.com/rauchg/status/2121804295381377342">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Verification becomes the software factory</strong><br><br>Vercel's new xeet renderer recreates X posts in safe Rust and WebAssembly without a browser, network or system fonts, producing pixel-accurate images in roughly a millisecond. More consequential is the workflow: an automated oracle checks thousands of layout rules while agents respond to signed failures, making verification—not hand-written code—the organizing principle.<br><br>Source: <a href="https://x.com/rauchg/status/2122184794209714368">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Skills begin compounding their own judgment</strong><br><br>Dan Shipper reports using automated research loops to refine a context-summary skill until it matched 80% of his editorial preferences against a no-skill baseline. The experiment points beyond static prompt libraries toward reusable agent skills that measure quality, absorb feedback and improve with each run.<br><br>Source: <a href="https://x.com/danshipper/status/2122091033001337134">Dan Shipper</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Knowledge work bends toward code</strong><br><br>Aaron Levie argues that agents need not know everything if they can reliably use software, generate code and apply domain judgment inside workflows. As those capabilities advance fastest, work in finance, science and operations may be redesigned into more executable, tool-mediated forms.<br><br>Source: <a href="https://x.com/levie/status/2121686564078297461">Aaron Levie</a></td>
-    <td width="50%"><strong>Prague rallies around public media</strong><br><br>Hundreds of thousands rallied against a Czech government plan to overhaul funding for public broadcasters, warning that the change could weaken editorial independence. The dispute turns a budget mechanism into a democratic stress test under a coalition that includes anti-migrant and pro-Russian partners.<br><br>Source: <a href="https://apnews.com/article/a48f46db181edaa14a156be89862f5e3">AP News</a></td>
+    <td width="50%"><strong>Prototypes accelerate; product truth does not</strong><br><br>Anthropic designer Nate Parrott says AI has compressed idea-building from weeks to one or two days. Yet the slower loop remains unchanged: putting a prototype in people's hands and learning whether they will actually use it. Faster construction shifts the bottleneck from implementation to evidence.<br><br>Source: <a href="https://x.com/petergyang/status/2122060856498524510">Peter Yang</a></td>
+    <td width="50%"><strong>Killer robots reach a diplomatic reckoning</strong><br><br>Nations convened at the United Nations to debate rules for lethal autonomous weapons as AI moves deeper into battlefield decision-making. With the United States and Russia resisting broad constraints, the central policy question is whether meaningful human control can be defined before deployment outruns diplomacy.<br><br>Source: <a href="https://apnews.com/article/1ff519255c145105360b04961d136081">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A cell's molecular compass is mapped in motion</strong><br><br>Researchers combined high-resolution cryo-sectioning, multi-omics and optimal transport to follow where RNAs and proteins move across six stages from frog oocyte to zygote. The framework measures how molecular polarity is established, erased and rebuilt, offering spatial training data for more realistic virtual-cell models.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79450-4">Nature Communications</a></td>
+    <td colspan="2"><strong>CRISPR's hidden edits gain a transcriptomic witness</strong><br><br>Superb-seq links Cas9 edits directly to gene-expression changes in individual cells, capturing both intended cuts and functionally significant off-target effects. Tested across 35,000 cells, the method closes a crucial gap between detecting where genome editing occurred and measuring what those edits actually changed.<br><br>Source: <a href="https://www.nature.com/articles/s41592-026-03319-z">Nature Methods</a></td>
   </tr>
 </table>
 
