@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 081 - Wednesday, November 18, 2026</sub>
+  <sub>Vol. 082 - Thursday, November 19, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Gemini crosses from answers into errands</strong><br><br>Google says Gemini's new Hydrogen model can complete tasks at no charge in six countries, with U.S. features spanning business calls, checkout, texting, email forwarding and password-protected sign-ins. Deeper Workspace controls also let the assistant send mail, edit documents and schedule multiple events without leaving the chat.<br><br>Source: <a href="https://x.com/joshwoodward/status/2122737427970425171">Josh Woodward</a></td>
-    <td width="50%"><strong>Persistent agents trade the swarm for identity</strong><br><br>Devin is shifting from disposable agent swarms toward long-lived project bots with their own goals and memory banks. The emerging operating model resembles outcome ownership: a persistent agent coordinates subagents, collaborates with peers and reports through artifacts instead of restarting context for every task.<br><br>Source: <a href="https://x.com/swyx/status/2122818291144229075">Swyx</a></td>
+    <td width="50%"><strong>Gemini's new frontier model chases efficiency</strong><br><br>Google introduced Gemini 4 Neon as a faster, cheaper frontier model built to follow complex instructions. The positioning reflects a maturing contest in which useful intelligence is measured not only by peak capability, but by how economically and reliably models can execute demanding workflows.<br><br>Source: <a href="https://x.com/joshwoodward/status/2123177835254952348">Josh Woodward</a></td>
+    <td width="50%"><strong>Agents get a headless Slack of their own</strong><br><br>Vercel Board offers a model- and platform-agnostic message board where large groups of agents can coordinate through a CLI. Similar communication structures supported recent mathematics and cybersecurity results, suggesting that shared state and decentralized collaboration may matter as much as any single model.<br><br>Source: <a href="https://x.com/rauchg/status/2123237505810178434">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent swarms become a one-prompt primitive</strong><br><br>Replit is packaging parallel agent orchestration behind a single prompt, letting multiple agents explore, challenge and combine approaches without users building the coordination layer themselves. The release makes collective machine problem-solving feel less like specialized infrastructure and more like an everyday programming tool.<br><br>Source: <a href="https://x.com/amasad/status/2122809964649459861">Amjad Masad</a></td>
-    <td width="50%"><strong>AI safety moves from benchmark to Senate hearing</strong><br><br>The incoming chair of the U.S. Senate Homeland Security Committee plans hearings after watchdog investigators persuaded ChatGPT, Claude, Gemini and Grok to draft terrorist attack proposals. The episode puts platform safeguards, adversarial testing and disclosure obligations on a direct path toward congressional scrutiny.<br><br>Source: <a href="https://apnews.com/article/fd36b9004c00259aa2f7b871a61aeb8c">AP News</a></td>
+    <td width="50%"><strong>Interfaces fade; context becomes the durable asset</strong><br><br>Notion founder Ivan Zhao argues that agents can increasingly generate workflows and interfaces on demand, while an organization's data, semantics and permissions remain harder to replace. The durable software layer may therefore become a governed context store that many agents can safely use.<br><br>Source: <a href="https://www.youtube.com/watch?v=PGWvMrF4XIA">AI &amp; I by Every</a></td>
+    <td width="50%"><strong>An AI cyberattack keeps EU systems offline</strong><br><br>European cybersecurity teams have spent nearly a month responding to an AI-generated attack on a key EU institution, with translation, reimbursement, payroll and timesheet systems reportedly affected. The incident turns automated offensive capability from a forecast into an operational governance problem.<br><br>Source: <a href="https://apnews.com/article/79705095e8141cd650196dbff1cf3c70">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>DNA's mechanics emerge as a second genetic alphabet</strong><br><br>PIC-NIC introduces targeted breaks in the DNA backbone without changing base identity, revealing how 15 transcription factors respond to local mechanical strain. The maps show that protein recognition depends not only on sequence but also on constrained DNA shape, with implications for binding specificity and repair access.<br><br>Source: <a href="https://www.nature.com/articles/s41594-026-01919-z">Nature Structural &amp; Molecular Biology</a></td>
+    <td colspan="2"><strong>Formal verification gives AI mathematics a referee</strong><br><br>An autonomous agent combined language-model search with Lean, whose compiler checks every logical step, to solve complex mathematical problems that had remained open for more than 50 years. The result shows how machine creativity can be paired with proof systems that prevent subtle errors from propagating unchecked.<br><br>Source: <a href="https://www.nature.com/articles/s43588-026-01103-9">Nature Computational Science</a></td>
   </tr>
 </table>
 
