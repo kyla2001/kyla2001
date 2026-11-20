@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 082 - Thursday, November 19, 2026</sub>
+  <sub>Vol. 083 - Friday, November 20, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Gemini's new frontier model chases efficiency</strong><br><br>Google introduced Gemini 4 Neon as a faster, cheaper frontier model built to follow complex instructions. The positioning reflects a maturing contest in which useful intelligence is measured not only by peak capability, but by how economically and reliably models can execute demanding workflows.<br><br>Source: <a href="https://x.com/joshwoodward/status/2123177835254952348">Josh Woodward</a></td>
-    <td width="50%"><strong>Agents get a headless Slack of their own</strong><br><br>Vercel Board offers a model- and platform-agnostic message board where large groups of agents can coordinate through a CLI. Similar communication structures supported recent mathematics and cybersecurity results, suggesting that shared state and decentralized collaboration may matter as much as any single model.<br><br>Source: <a href="https://x.com/rauchg/status/2123237505810178434">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Gemini reaches for the Mac desktop</strong><br><br>Google says the Gemini app on macOS can now perform tasks directly on a user's computer. The move brings general-purpose computer use into a mainstream assistant surface, shifting the product from answering questions toward operating everyday software on the user's behalf.<br><br>Source: <a href="https://x.com/joshwoodward/status/2123534862569324703">Josh Woodward</a></td>
+    <td width="50%"><strong>Superintelligence runs into the world of atoms</strong><br><br>Former OpenAI research chief Bob McGrew argues that automating researchers cannot create limitless acceleration when GPUs, laboratories and physical experiments remain scarce. As hypotheses get cheaper, manufacturing capacity and experimental throughput become the harder—and more valuable—bottlenecks.<br><br>Source: <a href="https://www.youtube.com/watch?v=_wLzJINt9iQ">No Priors</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Interfaces fade; context becomes the durable asset</strong><br><br>Notion founder Ivan Zhao argues that agents can increasingly generate workflows and interfaces on demand, while an organization's data, semantics and permissions remain harder to replace. The durable software layer may therefore become a governed context store that many agents can safely use.<br><br>Source: <a href="https://www.youtube.com/watch?v=PGWvMrF4XIA">AI &amp; I by Every</a></td>
-    <td width="50%"><strong>An AI cyberattack keeps EU systems offline</strong><br><br>European cybersecurity teams have spent nearly a month responding to an AI-generated attack on a key EU institution, with translation, reimbursement, payroll and timesheet systems reportedly affected. The incident turns automated offensive capability from a forecast into an operational governance problem.<br><br>Source: <a href="https://apnews.com/article/79705095e8141cd650196dbff1cf3c70">AP News</a></td>
+    <td width="50%"><strong>ChatGPT redesigns its mobile front door</strong><br><br>OpenAI is testing a customizable mobile navigation bar that gives direct access to Codex, Projects, Images and a user's dot. Rolling out first to eligible Pro users, the experiment treats ChatGPT less like a single conversation and more like a suite of persistent tools and identities.<br><br>Source: <a href="https://x.com/thsottiaux/status/2123557171321561133">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Data centers are handed their own power bill</strong><br><br>The U.S. Senate approved bipartisan permitting legislation intended to accelerate power plants and transmission lines while requiring data centers to cover energy costs tied to their demand. The measure links AI infrastructure growth to a political promise that ordinary ratepayers will not subsidize it.<br><br>Source: <a href="https://apnews.com/article/b41c2017e4a9fe2e6de92ec77a4cdd0a">AP News</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Formal verification gives AI mathematics a referee</strong><br><br>An autonomous agent combined language-model search with Lean, whose compiler checks every logical step, to solve complex mathematical problems that had remained open for more than 50 years. The result shows how machine creativity can be paired with proof systems that prevent subtle errors from propagating unchecked.<br><br>Source: <a href="https://www.nature.com/articles/s43588-026-01103-9">Nature Computational Science</a></td>
+    <td colspan="2"><strong>Cancer slides learn to speak genomics</strong><br><br>THREADS aligns whole-slide tissue morphology with genomic and transcriptomic profiles instead of relying on subjective pathology reports. Pretrained on more than 47,000 tissue sections and tested across 107 oncology tasks, the foundation model improved transfer and label efficiency for diagnosis, treatment response and survival analysis.<br><br>Source: <a href="https://www.nature.com/articles/s43018-026-01252-w">Nature Cancer</a></td>
   </tr>
 </table>
 
