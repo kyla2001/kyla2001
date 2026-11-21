@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 083 - Friday, November 20, 2026</sub>
+  <sub>Vol. 084 - Saturday, November 21, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Gemini reaches for the Mac desktop</strong><br><br>Google says the Gemini app on macOS can now perform tasks directly on a user's computer. The move brings general-purpose computer use into a mainstream assistant surface, shifting the product from answering questions toward operating everyday software on the user's behalf.<br><br>Source: <a href="https://x.com/joshwoodward/status/2123534862569324703">Josh Woodward</a></td>
-    <td width="50%"><strong>Superintelligence runs into the world of atoms</strong><br><br>Former OpenAI research chief Bob McGrew argues that automating researchers cannot create limitless acceleration when GPUs, laboratories and physical experiments remain scarce. As hypotheses get cheaper, manufacturing capacity and experimental throughput become the harder—and more valuable—bottlenecks.<br><br>Source: <a href="https://www.youtube.com/watch?v=_wLzJINt9iQ">No Priors</a></td>
+    <td width="50%"><strong>Gemini turns a user joke into a shipped feature</strong><br><br>Google's Gemini team says it built a community-inspired “Neon” experience and pushed it to production within a Friday afternoon. Hidden behind a long press on the web model picker, the playful release doubles as a glimpse of how quickly feedback can now move from social post to live AI product.<br><br>Source: <a href="https://x.com/joshwoodward/status/2123943606906138868">Josh Woodward</a></td>
+    <td width="50%"><strong>ChatGPT sharpens its desktop workbench</strong><br><br>OpenAI is rolling out a desktop-app update focused on speed, simpler interactions and lower-friction everyday use. The understated release reflects a widening contest over the AI workspace itself, where responsiveness and interface polish matter alongside model capability.<br><br>Source: <a href="https://x.com/thsottiaux/status/2123861214644347122">Thibault Sottiaux</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>ChatGPT redesigns its mobile front door</strong><br><br>OpenAI is testing a customizable mobile navigation bar that gives direct access to Codex, Projects, Images and a user's dot. Rolling out first to eligible Pro users, the experiment treats ChatGPT less like a single conversation and more like a suite of persistent tools and identities.<br><br>Source: <a href="https://x.com/thsottiaux/status/2123557171321561133">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Data centers are handed their own power bill</strong><br><br>The U.S. Senate approved bipartisan permitting legislation intended to accelerate power plants and transmission lines while requiring data centers to cover energy costs tied to their demand. The measure links AI infrastructure growth to a political promise that ordinary ratepayers will not subsidize it.<br><br>Source: <a href="https://apnews.com/article/b41c2017e4a9fe2e6de92ec77a4cdd0a">AP News</a></td>
+    <td width="50%"><strong>Agent control slips into a mobile browser</strong><br><br>Antigravity users can add its Neon web surface to a phone's home screen and remotely reach their agent threads without a native mobile app. The workaround points toward a more continuous agent workflow: long-running desktop work supervised from wherever the user happens to be.<br><br>Source: <a href="https://x.com/petergyang/status/2123879309463228445">Peter Yang</a></td>
+    <td width="50%"><strong>AI infrastructure gets an audited rulebook</strong><br><br>Vercel says its AI infrastructure is now audited annually against ISO/IEC 42001, the management-system standard for building, evaluating, monitoring and governing AI. Certification cannot settle every model risk, but it gives enterprise buyers a common framework for asking how providers control them.<br><br>Source: <a href="https://x.com/rauchg/status/2123869175085191298">Guillermo Rauch</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Cancer slides learn to speak genomics</strong><br><br>THREADS aligns whole-slide tissue morphology with genomic and transcriptomic profiles instead of relying on subjective pathology reports. Pretrained on more than 47,000 tissue sections and tested across 107 oncology tasks, the foundation model improved transfer and label efficiency for diagnosis, treatment response and survival analysis.<br><br>Source: <a href="https://www.nature.com/articles/s43018-026-01252-w">Nature Cancer</a></td>
+    <td colspan="2"><strong>Linear keeps a human at the customer-service desk</strong><br><br>Linear COO Cristina Cordova describes using AI to draft support replies while leaving every response with a human quality check. The company rejects the pattern of sending an automated answer first and involving a person only after frustration—a reminder that speed is useful only when the customer can still trust the result.<br><br>Source: <a href="https://www.youtube.com/watch?v=x0VSm6IjcDQ">Latent Space</a></td>
   </tr>
 </table>
 
