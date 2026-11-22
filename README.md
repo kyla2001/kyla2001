@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 084 - Saturday, November 21, 2026</sub>
+  <sub>Vol. 085 - Sunday, November 22, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Gemini turns a user joke into a shipped feature</strong><br><br>Google's Gemini team says it built a community-inspired “Neon” experience and pushed it to production within a Friday afternoon. Hidden behind a long press on the web model picker, the playful release doubles as a glimpse of how quickly feedback can now move from social post to live AI product.<br><br>Source: <a href="https://x.com/joshwoodward/status/2123943606906138868">Josh Woodward</a></td>
-    <td width="50%"><strong>ChatGPT sharpens its desktop workbench</strong><br><br>OpenAI is rolling out a desktop-app update focused on speed, simpler interactions and lower-friction everyday use. The understated release reflects a widening contest over the AI workspace itself, where responsiveness and interface polish matter alongside model capability.<br><br>Source: <a href="https://x.com/thsottiaux/status/2123861214644347122">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Agent swarms borrow GitHub's issue tracker</strong><br><br>Replit CEO Amjad Masad points to a reported community effort using GitHub Issues to divide work among coding-agent swarms on a PC game port. The experiment suggests open-source coordination may be evolving from assigning tasks to people toward routing them across mixed human-and-agent teams.<br><br>Source: <a href="https://x.com/amasad/status/2124345037408686228">Amjad Masad</a></td>
+    <td width="50%"><strong>Codex hides behind a long press on mobile</strong><br><br>ChatGPT's cleaner mobile navigation can obscure existing Codex threads, but users can pin Codex to the bottom bar by holding the rightmost tab. The small discovery highlights a larger product problem: simplifying an AI interface without making its growing set of workspaces harder to find.<br><br>Source: <a href="https://x.com/petergyang/status/2124217176655843483">Peter Yang</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent control slips into a mobile browser</strong><br><br>Antigravity users can add its Neon web surface to a phone's home screen and remotely reach their agent threads without a native mobile app. The workaround points toward a more continuous agent workflow: long-running desktop work supervised from wherever the user happens to be.<br><br>Source: <a href="https://x.com/petergyang/status/2123879309463228445">Peter Yang</a></td>
-    <td width="50%"><strong>AI infrastructure gets an audited rulebook</strong><br><br>Vercel says its AI infrastructure is now audited annually against ISO/IEC 42001, the management-system standard for building, evaluating, monitoring and governing AI. Certification cannot settle every model risk, but it gives enterprise buyers a common framework for asking how providers control them.<br><br>Source: <a href="https://x.com/rauchg/status/2123869175085191298">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Working with stronger models remains a technical craft</strong><br><br>Former Claude Code engineer Thariq argues that better models increase—not erase—the value of knowing how to collaborate with them. As systems take on more implementation work, framing frontier problems, steering exploration and judging results become technical skills in their own right.<br><br>Source: <a href="https://x.com/trq212/status/2124239684536840682">Thariq</a></td>
+    <td width="50%"><strong>A claimed math breakthrough tests the shape of discovery</strong><br><br>Discussion around an AI-assisted attempt at the Riemann Hypothesis is focusing less on elegance than on scale: models may traverse vast bodies of prior work that no individual can hold at once. The claim still demands mathematical scrutiny, but the workflow points to a new partnership between human direction and machine context.<br><br>Source: <a href="https://x.com/levie/status/2124252844710887549">Aaron Levie</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Linear keeps a human at the customer-service desk</strong><br><br>Linear COO Cristina Cordova describes using AI to draft support replies while leaving every response with a human quality check. The company rejects the pattern of sending an automated answer first and involving a person only after frustration—a reminder that speed is useful only when the customer can still trust the result.<br><br>Source: <a href="https://www.youtube.com/watch?v=x0VSm6IjcDQ">Latent Space</a></td>
+    <td colspan="2"><strong>Drug discovery tries to move more biology onto the computer</strong><br><br>Isomorphic Labs president Max Jaderberg describes using predictive models to expose toxicity and disease-biology problems before compounds reach patients. The ambition is to replace more of medicine's slow trial-and-error loop with computational understanding—while recognizing that clinical evidence remains the decisive test.<br><br>Source: <a href="https://www.youtube.com/watch?v=IiKf3BgBezE">No Priors</a></td>
   </tr>
 </table>
 
