@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 085 - Sunday, November 22, 2026</sub>
+  <sub>Vol. 086 - Monday, November 23, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Agent swarms borrow GitHub's issue tracker</strong><br><br>Replit CEO Amjad Masad points to a reported community effort using GitHub Issues to divide work among coding-agent swarms on a PC game port. The experiment suggests open-source coordination may be evolving from assigning tasks to people toward routing them across mixed human-and-agent teams.<br><br>Source: <a href="https://x.com/amasad/status/2124345037408686228">Amjad Masad</a></td>
-    <td width="50%"><strong>Codex hides behind a long press on mobile</strong><br><br>ChatGPT's cleaner mobile navigation can obscure existing Codex threads, but users can pin Codex to the bottom bar by holding the rightmost tab. The small discovery highlights a larger product problem: simplifying an AI interface without making its growing set of workspaces harder to find.<br><br>Source: <a href="https://x.com/petergyang/status/2124217176655843483">Peter Yang</a></td>
+    <td width="50%"><strong>Software learns to serve its harshest new customer</strong><br><br>Microsoft Copilot executive Charles Lamanna argues that agents will judge software by performance, price and reliability rather than familiar human interfaces. Search pages and APIs may therefore split into agent-native modes that return far more structured information than a person would ever want to scan.<br><br>Source: <a href="https://x.com/petergyang/status/2124669298191090033">Peter Yang</a></td>
+    <td width="50%"><strong>Desktop agents put local security under pressure</strong><br><br>Replit says it worked with Windows on a security model for its desktop app as enterprises bring agents closer to files, credentials and business data. The product claim underscores a broader requirement: useful computer access must be paired with clear isolation, permissions and auditability.<br><br>Source: <a href="https://x.com/amasad/status/2124604574606795002">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Working with stronger models remains a technical craft</strong><br><br>Former Claude Code engineer Thariq argues that better models increase—not erase—the value of knowing how to collaborate with them. As systems take on more implementation work, framing frontier problems, steering exploration and judging results become technical skills in their own right.<br><br>Source: <a href="https://x.com/trq212/status/2124239684536840682">Thariq</a></td>
-    <td width="50%"><strong>A claimed math breakthrough tests the shape of discovery</strong><br><br>Discussion around an AI-assisted attempt at the Riemann Hypothesis is focusing less on elegance than on scale: models may traverse vast bodies of prior work that no individual can hold at once. The claim still demands mathematical scrutiny, but the workflow points to a new partnership between human direction and machine context.<br><br>Source: <a href="https://x.com/levie/status/2124252844710887549">Aaron Levie</a></td>
+    <td width="50%"><strong>Agent swarms need a shared operating system</strong><br><br>Box CEO Aaron Levie says long-running agent teams will require new ways to share knowledge, track tasks and coordinate with people. The hard part is not merely parallelism, but granting each agent enough context to work without turning excessive access into a security liability.<br><br>Source: <a href="https://x.com/levie/status/2124658150771188157">Aaron Levie</a></td>
+    <td width="50%"><strong>OpenAI proposes a speed limit for frontier models</strong><br><br>Sam Altman is calling for shared evaluation, transparency and red-team norms, with development limits tied partly to perplexity until monitoring improves. Whether one metric can travel reliably across model families remains open, but the proposal moves industry self-governance toward measurable thresholds.<br><br>Source: <a href="https://x.com/sama/status/2124551883130114403">Sam Altman</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Drug discovery tries to move more biology onto the computer</strong><br><br>Isomorphic Labs president Max Jaderberg describes using predictive models to expose toxicity and disease-biology problems before compounds reach patients. The ambition is to replace more of medicine's slow trial-and-error loop with computational understanding—while recognizing that clinical evidence remains the decisive test.<br><br>Source: <a href="https://www.youtube.com/watch?v=IiKf3BgBezE">No Priors</a></td>
+    <td colspan="2"><strong>After automation, judgment becomes the scarce resource</strong><br><br>Every CEO Dan Shipper argues that models make generation cheap while human perspective still determines what deserves attention and action. In his account, teams remain valuable because different responsibilities produce different rankings of the same data—the work shifts from producing every option to choosing and owning the consequential one.<br><br>Source: <a href="https://www.youtube.com/watch?v=WstNofgQF5Q">AI &amp; I by Every</a></td>
   </tr>
 </table>
 
