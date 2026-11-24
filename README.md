@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 086 - Monday, November 23, 2026</sub>
+  <sub>Vol. 087 - Tuesday, November 24, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Software learns to serve its harshest new customer</strong><br><br>Microsoft Copilot executive Charles Lamanna argues that agents will judge software by performance, price and reliability rather than familiar human interfaces. Search pages and APIs may therefore split into agent-native modes that return far more structured information than a person would ever want to scan.<br><br>Source: <a href="https://x.com/petergyang/status/2124669298191090033">Peter Yang</a></td>
-    <td width="50%"><strong>Desktop agents put local security under pressure</strong><br><br>Replit says it worked with Windows on a security model for its desktop app as enterprises bring agents closer to files, credentials and business data. The product claim underscores a broader requirement: useful computer access must be paired with clear isolation, permissions and auditability.<br><br>Source: <a href="https://x.com/amasad/status/2124604574606795002">Amjad Masad</a></td>
+    <td width="50%"><strong>Claude moves from writing code to shipping it</strong><br><br>Anthropic is testing Claude Ship for Team and Enterprise, combining automated review, failed-check repair and policy-based approvals around pull requests. The recommended rollout starts with one repository and observes approvals before granting trust—a cautious path from coding assistant to delivery operator.<br><br>Source: <a href="https://x.com/bcherny/status/2124961485801836573">Boris Cherny</a></td>
+    <td width="50%"><strong>An email sent without review exposes the agent gap</strong><br><br>A ChatGPT Dots tester reports that the agent sent email without a final review and sometimes stopped responding. The anecdote is not a system-wide diagnosis, but it captures the core product risk of action-taking assistants: users need predictable confirmation gates and visible recovery when autonomy fails.<br><br>Source: <a href="https://x.com/petergyang/status/2125060785667969399">Peter Yang</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Agent swarms need a shared operating system</strong><br><br>Box CEO Aaron Levie says long-running agent teams will require new ways to share knowledge, track tasks and coordinate with people. The hard part is not merely parallelism, but granting each agent enough context to work without turning excessive access into a security liability.<br><br>Source: <a href="https://x.com/levie/status/2124658150771188157">Aaron Levie</a></td>
-    <td width="50%"><strong>OpenAI proposes a speed limit for frontier models</strong><br><br>Sam Altman is calling for shared evaluation, transparency and red-team norms, with development limits tied partly to perplexity until monitoring improves. Whether one metric can travel reliably across model families remains open, but the proposal moves industry self-governance toward measurable thresholds.<br><br>Source: <a href="https://x.com/sama/status/2124551883130114403">Sam Altman</a></td>
+    <td width="50%"><strong>More agents do not guarantee more intelligence</strong><br><br>Replit reports that swarm performance depends on organization and task parallelism, not agent count alone. In its experiments, decentralized groups scaled better while one strong model deteriorated beyond eight agents—evidence that inference-time scaling is becoming an architecture problem as much as a compute problem.<br><br>Source: <a href="https://x.com/amasad/status/2124969305674748175">Amjad Masad</a></td>
+    <td width="50%"><strong>Open-weight AI becomes a geopolitical argument</strong><br><br>Replit CEO Amjad Masad says U.S. policymakers discussed open-weight models alongside cybersecurity and software modernization. His case is that allies seeking sovereign AI may adopt Chinese models if American alternatives lag, turning model availability into an ecosystem competition beyond the frontier leaderboard.<br><br>Source: <a href="https://x.com/amasad/status/2125008810041610359">Amjad Masad</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>After automation, judgment becomes the scarce resource</strong><br><br>Every CEO Dan Shipper argues that models make generation cheap while human perspective still determines what deserves attention and action. In his account, teams remain valuable because different responsibilities produce different rankings of the same data—the work shifts from producing every option to choosing and owning the consequential one.<br><br>Source: <a href="https://www.youtube.com/watch?v=WstNofgQF5Q">AI &amp; I by Every</a></td>
+    <td colspan="2"><strong>Training data is knowledge, not model fuel</strong><br><br>Meta AI product leader Madhu Guru argues that high-quality data encodes expert judgment, taste and structure rather than acting as an inert commodity. As base architectures converge, the difficult work of articulating domain knowledge may become one of the most durable sources of model differentiation.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2125102190196859156">Madhu Guru</a></td>
   </tr>
 </table>
 
