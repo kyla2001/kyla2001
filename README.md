@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 087 - Tuesday, November 24, 2026</sub>
+  <sub>Vol. 088 - Wednesday, November 25, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude moves from writing code to shipping it</strong><br><br>Anthropic is testing Claude Ship for Team and Enterprise, combining automated review, failed-check repair and policy-based approvals around pull requests. The recommended rollout starts with one repository and observes approvals before granting trust—a cautious path from coding assistant to delivery operator.<br><br>Source: <a href="https://x.com/bcherny/status/2124961485801836573">Boris Cherny</a></td>
-    <td width="50%"><strong>An email sent without review exposes the agent gap</strong><br><br>A ChatGPT Dots tester reports that the agent sent email without a final review and sometimes stopped responding. The anecdote is not a system-wide diagnosis, but it captures the core product risk of action-taking assistants: users need predictable confirmation gates and visible recovery when autonomy fails.<br><br>Source: <a href="https://x.com/petergyang/status/2125060785667969399">Peter Yang</a></td>
+    <td width="50%"><strong>Claude Code gains instructions bundled with MCP servers</strong><br><br>Anthropic’s Boris Cherny says MCP servers can now ship with skills that explain how Claude Code should use them. Tool providers can package usage guidance alongside the integration, giving users less setup to do themselves.<br><br>Source: <a href="https://x.com/bcherny/status/2125292098165612585">Boris Cherny</a></td>
+    <td width="50%"><strong>ChatGPT Business gets a year-end fast-mode offer</strong><br><br>OpenAI’s Thibault Sottiaux announced a banked reset for ChatGPT Business teams and said fast mode would be available at no extra charge through December 31. The announcement gives teams a defined window to try the faster setting.<br><br>Source: <a href="https://x.com/thsottiaux/status/2125299248782778588">Thibault Sottiaux</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>More agents do not guarantee more intelligence</strong><br><br>Replit reports that swarm performance depends on organization and task parallelism, not agent count alone. In its experiments, decentralized groups scaled better while one strong model deteriorated beyond eight agents—evidence that inference-time scaling is becoming an architecture problem as much as a compute problem.<br><br>Source: <a href="https://x.com/amasad/status/2124969305674748175">Amjad Masad</a></td>
-    <td width="50%"><strong>Open-weight AI becomes a geopolitical argument</strong><br><br>Replit CEO Amjad Masad says U.S. policymakers discussed open-weight models alongside cybersecurity and software modernization. His case is that allies seeking sovereign AI may adopt Chinese models if American alternatives lag, turning model availability into an ecosystem competition beyond the frontier leaderboard.<br><br>Source: <a href="https://x.com/amasad/status/2125008810041610359">Amjad Masad</a></td>
+    <td width="50%"><strong>Vercel’s coding agent aims beyond the terminal</strong><br><br>Vercel CEO Guillermo Rauch says its command-line tool is a thin wrapper around libfx. The project aims to make the same coding-agent core embeddable in browsers, servers, desktop apps and mobile products.<br><br>Source: <a href="https://x.com/rauchg/status/2125320020666565096">Guillermo Rauch</a></td>
+    <td width="50%"><strong>Chip controls put Nvidia’s China strategy under scrutiny</strong><br><br>On Unsupervised Learning, ChinaTalk’s Jordan Schneider discusses the tension between Nvidia’s effort to diversify beyond its largest cloud customers and US restrictions on advanced chip sales to China. The interview examines how access to AI computing power shapes both company strategy and US–China relations.<br><br>Source: <a href="https://www.youtube.com/watch?v=gkd5eOQGASU">Unsupervised Learning</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Training data is knowledge, not model fuel</strong><br><br>Meta AI product leader Madhu Guru argues that high-quality data encodes expert judgment, taste and structure rather than acting as an inert commodity. As base architectures converge, the difficult work of articulating domain knowledge may become one of the most durable sources of model differentiation.<br><br>Source: <a href="https://x.com/realmadhuguru/status/2125102190196859156">Madhu Guru</a></td>
+    <td colspan="2"><strong>A sudden lake drain can slow Greenland ice for years</strong><br><br>Decades of observations from a glacier in southwest Greenland show that major lake drainages can briefly speed up ice flow before slowing it for years. Researchers attribute the slowdown to a drainage channel that lowers water pressure beneath the ice and increases friction against the bed.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79659-3_reference.pdf">Nature Communications</a></td>
   </tr>
 </table>
 
