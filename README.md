@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 088 - Wednesday, November 25, 2026</sub>
+  <sub>Vol. 089 - Thursday, November 26, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>Claude Code gains instructions bundled with MCP servers</strong><br><br>Anthropic’s Boris Cherny says MCP servers can now ship with skills that explain how Claude Code should use them. Tool providers can package usage guidance alongside the integration, giving users less setup to do themselves.<br><br>Source: <a href="https://x.com/bcherny/status/2125292098165612585">Boris Cherny</a></td>
-    <td width="50%"><strong>ChatGPT Business gets a year-end fast-mode offer</strong><br><br>OpenAI’s Thibault Sottiaux announced a banked reset for ChatGPT Business teams and said fast mode would be available at no extra charge through December 31. The announcement gives teams a defined window to try the faster setting.<br><br>Source: <a href="https://x.com/thsottiaux/status/2125299248782778588">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>OpenAI pilots private inference</strong><br><br>OpenAI says it is testing Private Inference with a small group of customers. It also says its Private Safety Processing option can run automated safety reviews without giving OpenAI personnel access to the underlying content when used with zero data retention.<br><br>Source: <a href="https://x.com/sama/status/2125638790593274259">Sam Altman</a></td>
+    <td width="50%"><strong>Gemini adds 66 regional voice options</strong><br><br>Google’s Josh Woodward says Gemini has added 66 voice options featuring local accents. The rollout highlights how spoken assistants can adapt to regional speech within and across languages.<br><br>Source: <a href="https://x.com/joshwoodward/status/2125641468421546107">Josh Woodward</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>Vercel’s coding agent aims beyond the terminal</strong><br><br>Vercel CEO Guillermo Rauch says its command-line tool is a thin wrapper around libfx. The project aims to make the same coding-agent core embeddable in browsers, servers, desktop apps and mobile products.<br><br>Source: <a href="https://x.com/rauchg/status/2125320020666565096">Guillermo Rauch</a></td>
-    <td width="50%"><strong>Chip controls put Nvidia’s China strategy under scrutiny</strong><br><br>On Unsupervised Learning, ChinaTalk’s Jordan Schneider discusses the tension between Nvidia’s effort to diversify beyond its largest cloud customers and US restrictions on advanced chip sales to China. The interview examines how access to AI computing power shapes both company strategy and US–China relations.<br><br>Source: <a href="https://www.youtube.com/watch?v=gkd5eOQGASU">Unsupervised Learning</a></td>
+    <td width="50%"><strong>A billing correction changes GPT-6.2 usage limits</strong><br><br>OpenAI’s Thibault Sottiaux says a launch error discounted Astra and Sol usage for most users. After the fix, he says users will reach their plan limits 40% faster on Astra and 25% faster on Sol compared with the previous week.<br><br>Source: <a href="https://x.com/thsottiaux/status/2125784147889393806">Thibault Sottiaux</a></td>
+    <td width="50%"><strong>Trading partners push back on proposed US tariffs</strong><br><br>China, Japan and other US trading partners challenged Washington’s proposed tariff increases and disputed its claims of excess manufacturing capacity. The European Union also rejected that premise after facing a potential 15% tariff rate.<br><br>Source: <a href="https://apnews.com/article/b94a693004ad8f9b5e78f7aafb196a71">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>A sudden lake drain can slow Greenland ice for years</strong><br><br>Decades of observations from a glacier in southwest Greenland show that major lake drainages can briefly speed up ice flow before slowing it for years. Researchers attribute the slowdown to a drainage channel that lowers water pressure beneath the ice and increases friction against the bed.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79659-3_reference.pdf">Nature Communications</a></td>
+    <td colspan="2"><strong>Observed warming sharpens Arctic snow forecasts</strong><br><br>Researchers used historical warming to narrow the spread of Northern Hemisphere snow-cover projections. Under the study’s high-emissions scenario, the resulting models point to snow-free Arctic summers by the 2040s.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79797-8_reference.pdf">Nature Communications</a></td>
   </tr>
 </table>
 
