@@ -11,21 +11,21 @@
 <div align="center">
   <img src="assets/kyla_daily_header_classic_no_date.svg" alt="THE KYLA DAILY - AI, Technology, World Affairs, Policy, Research" width="100%" />
   <br />
-  <sub>Vol. 089 - Thursday, November 26, 2026</sub>
+  <sub>Vol. 090 - Friday, November 27, 2026</sub>
   <p></p>
 </div>
 
 <table align="center" width="88%">
   <tr>
-    <td width="50%"><strong>OpenAI pilots private inference</strong><br><br>OpenAI says it is testing Private Inference with a small group of customers. It also says its Private Safety Processing option can run automated safety reviews without giving OpenAI personnel access to the underlying content when used with zero data retention.<br><br>Source: <a href="https://x.com/sama/status/2125638790593274259">Sam Altman</a></td>
-    <td width="50%"><strong>Gemini adds 66 regional voice options</strong><br><br>Google’s Josh Woodward says Gemini has added 66 voice options featuring local accents. The rollout highlights how spoken assistants can adapt to regional speech within and across languages.<br><br>Source: <a href="https://x.com/joshwoodward/status/2125641468421546107">Josh Woodward</a></td>
+    <td width="50%"><strong>Gemini 4 comes to Replit</strong><br><br>Replit CEO Amjad Masad invited users to try Gemini 4 on the platform, giving developers another place to evaluate Google’s model in their coding workflow.<br><br>Source: <a href="https://x.com/amasad/status/2126018746884243652">Amjad Masad</a></td>
+    <td width="50%"><strong>Faster coding leaves more room for refinement</strong><br><br>On Latent Space, Thariq Shihipar argues that AI can make software cheaper to produce and give builders more time to refine the experience. He points to short feedback loops with people as a way to direct those gains toward better products.<br><br>Source: <a href="https://www.youtube.com/watch?v=Qe9d9dWyED0">Latent Space</a></td>
   </tr>
   <tr>
-    <td width="50%"><strong>A billing correction changes GPT-6.2 usage limits</strong><br><br>OpenAI’s Thibault Sottiaux says a launch error discounted Astra and Sol usage for most users. After the fix, he says users will reach their plan limits 40% faster on Astra and 25% faster on Sol compared with the previous week.<br><br>Source: <a href="https://x.com/thsottiaux/status/2125784147889393806">Thibault Sottiaux</a></td>
-    <td width="50%"><strong>Trading partners push back on proposed US tariffs</strong><br><br>China, Japan and other US trading partners challenged Washington’s proposed tariff increases and disputed its claims of excess manufacturing capacity. The European Union also rejected that premise after facing a potential 15% tariff rate.<br><br>Source: <a href="https://apnews.com/article/b94a693004ad8f9b5e78f7aafb196a71">Associated Press</a></td>
+    <td width="50%"><strong>Services firms rethink how they deliver projects</strong><br><br>Box CEO Aaron Levie sees an opening for services firms to organize project delivery around AI agents. In his view, domain expertise remains central because it helps teams direct the work and judge whether it meets the client’s needs.<br><br>Source: <a href="https://x.com/levie/status/2125983542475894821">Aaron Levie</a></td>
+    <td width="50%"><strong>EU budget deadlock leaves Ukraine loan pending</strong><br><br>EU leaders ended their summit without agreement on the size of the bloc’s 2028–2034 budget, leaving a proposed loan for Ukraine unresolved. Leaders plan to resume talks in about three weeks.<br><br>Source: <a href="https://apnews.com/article/fd025046850b824b2e62def18408c6b6">Associated Press</a></td>
   </tr>
   <tr>
-    <td colspan="2"><strong>Observed warming sharpens Arctic snow forecasts</strong><br><br>Researchers used historical warming to narrow the spread of Northern Hemisphere snow-cover projections. Under the study’s high-emissions scenario, the resulting models point to snow-free Arctic summers by the 2040s.<br><br>Source: <a href="https://www.nature.com/articles/s41467-026-79797-8_reference.pdf">Nature Communications</a></td>
+    <td colspan="2"><strong>Sulfur chemistry keeps clouds brighter for longer</strong><br><br>Researchers combined satellite observations of volcanic and industrial plumes with atmospheric models. In simulations, including the conversion of sulfur dioxide into particles prolonged cloud brightening and increased cloud reflectivity by 29% relative to simulations that omitted the process.<br><br>Source: <a href="https://www.nature.com/articles/s41561-026-02140-9">Nature Geoscience</a></td>
   </tr>
 </table>
 
